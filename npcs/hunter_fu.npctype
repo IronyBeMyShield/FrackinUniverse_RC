@@ -1,0 +1,167 @@
+{
+  "type" : "hunter_fu",
+  "baseType" : "guard",
+
+  "disableWornArmor" : true,
+
+  "damageTeam" : 2,
+  "levelVariance" : [1, 3],
+
+  "scripts" : [
+    "/npcs/main.lua",
+    "/npcs/timers.lua",
+    "/scripts/sensors.lua",
+    "/scripts/stateMachine.lua",
+    "/scripts/util.lua",
+    "/scripts/vec2.lua",
+
+    "/npcs/meleeAttackState.lua",
+    "/npcs/rangedAttackState.lua",
+
+    "/npcs/guard/guardState.lua",
+    "/npcs/guard/returnToPostState.lua"
+  ],
+
+  "scriptConfig" : {
+    "attackerLimit" : 8,
+    "attackerLimitCooldown" : 3,
+    "noticePlayersRadius" : 30,
+
+    "guard" : {
+      "patrolDistance" : 50,
+      "noticeDistance" : 25,
+      "hailDistance" : -1,
+      "stopDistance" : -1,
+      "attackDistance" : 25,
+      "changeDirectionTimeRange" : [5, 10],
+
+      "attackSayingPercent" : 60,
+
+      "dialog" : {
+        "attack" : {
+          "default" : [ "Death to Botanists!"
+          ],
+          "floran" : {
+            "default" : [
+              "Sssseen you!",
+              "Ssstab! Ssstab!",
+              "They're in my sssights!",
+              "I sssee you!",
+              "Attack!",
+              "Prey sssighted!",
+              "Ssstrike them down!",
+              "Leave none ssstanding!",
+              "No survivorsss!",
+              "Nowhere to run!",
+              "The hunt isss on!",
+              "No waysss out!",
+              "It'sss happening!",
+              "IT'SSS HAPPENING!",
+              "Let the gamesss begin!",
+              "Time to give chasssse!",
+              "Ssstabbing time!",
+              "Come out and play!",
+              "Got you!",
+              "I've sssspotted them!",
+              "New meatsss!",
+              "The hunt beginsss!",
+              "Your time isss up!",
+              "Fresssh meat!",
+              "Time to ssslay!",
+              "Sssay goodbye!",
+              "Fresssh prey!"
+            ]
+          }
+        }
+      }
+    },
+
+    "returnToPost" : {
+      "moveTime" : 20,
+      "minDistance" : 2
+    },
+
+    "meleeAttack" : {
+      "swingDistance" : 4,
+      "runThreshold" : 0
+    }
+  },
+
+  "items" : {
+    "floran" : [
+      [0, [
+          {
+            "head" : [ { "name" : "ff_scouthelm_melee", "parameters" : { "colorIndex" : 0 } } ],
+            "chest" : [ { "name" : "ff_scoutchest_melee", "parameters" : { "colorIndex" : 0 } } ],
+            "legs" : [ { "name" : "ff_scoutpants_melee", "parameters" : { "colorIndex" : 0 } } ],
+            "primary" : [
+              { "name" : "solariblade" },
+              { "name" : "solarispear" },
+              { "name" : "spikesword3" }
+            ]
+          }
+        ] ]
+    ]
+  },
+
+  "movementControllerSettings" : {
+    "runSpeed" : 15
+  },
+
+  "dropPools" : [ "floranwildhuntertreasure" ],
+
+  "statusControllerSettings" : {
+    "statusProperties" : {
+      "targetMaterialKind" : "organic"
+    },
+
+    "appliesEnvironmentStatusEffects" : false,
+    "minimumLiquidStatusEffectPercentage" : 0.1,
+
+    "primaryScriptSources" : [
+      "/stats/npc_primary.lua"
+    ],
+    "primaryScriptDelta" : 5,
+
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 75.0
+      },
+      "maxEnergy" : {
+        "baseValue" : 100.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 1.0
+      },
+      "protection" : {
+        "baseValue" : 1.0
+      },
+      "healthRegen" : {
+        "baseValue" : 0.0
+      },
+      "energyRegen" : {
+        "baseValue" : 10.0
+      },
+      "shieldSuppressed" : {
+        "baseValue" : 0.0
+      },
+      "invulnerable" : {
+        "baseValue" : 0.0
+      }
+    },
+
+    "resources" : {
+      "health" : {
+        "maxStat" : "maxHealth",
+        "deltaStat" : "healthRegen",
+        "defaultPercentage" : 100
+      },
+      "energy" : {
+        "maxStat" : "maxEnergy",
+        "deltaStat" : "energyRegen",
+        "defaultPercentage" : 100
+      }
+    }
+  }
+}
+

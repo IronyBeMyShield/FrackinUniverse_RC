@@ -197,8 +197,8 @@
         "surface" : {
           "primaryRegion" : [ "crystalmoon" ],
           "secondaryRegion" : [ "icefire", "sulphuricplain", "blackslimebog","blisterbushfield",  "pitchfield", "hellfirefield", "primevalforest", "irradiatedwaste", "bloodstonefield",  "volcanic", "magma", "penumbra", "protoworld", "icewaste" ],
-          "dungeonCountRange" : [0, 2],
-          "dungeons" : [ "wreck", "glitchsewer", "glitchvillage", "apexresearchlab", "apextestchamber", "apextowerblock", "aviantomb", "aviantower", "avianvillage", "avianairship", "aviantemple","humanbunker", "floranhuntinggrounds", "floranvillagetower", "floranhell", "humanprison", "naturalcave" ]
+          "dungeonCountRange" : [14, 18],
+          "dungeons" : [ "crystalcavern"]
         },
         "subsurface" : {
           "primaryRegion" : [ "crystalmoonunderground" ]
@@ -238,7 +238,7 @@
           "primaryRegion" : [ "icewaste" ],
           "secondaryRegion" : [ "elder",   "ice", "snow", "icefire" ],
           "dungeonCountRange" : [0, 2],
-          "dungeons" : [ "wreck", "apexresearchlab", "scifidungeon" ]
+          "dungeons" : [ "crystalcavern", "wreck", "apexresearchlab", "scifidungeon" ]
         },
         "subsurface" : {
           "primaryRegion" : [ "icewasteunderground", "ffshadow", "ffzen", "fffrostcavern" ]
@@ -277,7 +277,7 @@
           "primaryRegion" : [ "icemoon" ],
           "secondaryRegion" : [ "elder",   "ice", "snow", "icefire" ],
           "dungeonCountRange" : [0, 2],
-          "dungeons" : [ "wreck", "apexresearchlab", "scifidungeon" ]
+          "dungeons" : [ "crystalcavern", "wreck", "apexresearchlab", "scifidungeon" ]
         },
         "subsurface" : {
           "primaryRegion" : [ "icemoonunderground", "fffrostcavern" ]
@@ -390,7 +390,7 @@
           "primaryRegion" : [ "lightless" ],
           "secondaryRegion" : [ "bloodgulch", "hellhive", "elder", "protoworld", "irradiated" ],
           "dungeonCountRange" : [0, 2],
-          "dungeons" : [ "wreck", "glitchsewer", "glitchvillage", "avianairship", "humanprison" ]
+          "dungeons" : [ "crystalcavern", "wreck", "glitchsewer", "glitchvillage", "avianairship", "humanprison" ]
         },
         "subsurface" : {
           "primaryRegion" : [ "lightlessunderground", "ffshadow" ]
@@ -465,7 +465,7 @@
           "primaryRegion" : [ "nitrogensea" ],
           "secondaryRegion" : [ "hellhive", "elder",  "icewaste", "arctic", "snow",  "ocean", "protoworld", "irradiated" ],
           "dungeonCountRange" : [0, 2],
-          "dungeons" : [ "wreck", "apexresearchlab" ]
+          "dungeons" : [ "crystalcavern", "wreck", "apexresearchlab" ]
         },
         "subsurface" : {
           "primaryRegion" : [ "nitrogenseafloor" ]

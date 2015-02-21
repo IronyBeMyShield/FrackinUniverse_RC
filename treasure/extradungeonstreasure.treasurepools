@@ -1,0 +1,98 @@
+{
+	
+	// Generic //
+	
+	"exsupertreasure" : [
+		[0, {
+		"pool" : [
+			{"weight" : 0.3, "item" : ["diamond", 4]},
+			{"weight" : 0.6, "item" : [ "goldbar", 8]},
+			{"weight" : 0.4, "item" : [ "platinumbar", 8]},
+			{"weight" : 0.60, "pool" : "money"},
+			{"weight" : 0.40, "pool" : "uncommonGun"},
+			{"weight" : 0.40, "pool" : "uncommonMelee"},
+			{"weight" : 0.40, "pool" : "shield"},
+			{"weight" : 0.20, "pool" : "rareGun"},
+			{"weight" : 0.10, "pool" : "legendaryGun"},
+			{"weight" : 0.10, "pool" : "uniqueMelee"}
+		],
+		
+		"poolRounds" : [
+			[0.40, 2],
+			[0.30, 3],
+			[0.20, 4]
+      ],
+	  
+      "allowDuplication" : true
+    }]
+  ],
+  
+  // Dungeon Specific //
+  
+  	"crystalminingtreasure" : [
+		[0, {
+		"pool" : [
+			{"weight" : 0.5, "item" : ["crystal", 50]},
+			{"weight" : 0.3, "item" : [ "crystal", 100]},
+			{"weight" : 0.5, "item" : ["icecrystal", 20]},
+			{"weight" : 0.3, "item" : [ "icecrystal", 40]}
+		],
+		
+		"poolRounds" : [
+			[0.40, 1],
+			[0.30, 2],
+			[0.30, 3]
+      ],
+	  
+      "allowDuplication" : true
+    }]
+  ],
+  
+  // NPC specific //
+  
+     	"gasthrowertreasure" : [
+		[0, {
+		"pool" : [
+			{"weight" : 1.0, "item" : [ "generatedgun", 1, { "definition" : "gasthrower" } ]},
+			{"weight" : 9.0, "pool" : "guardtreasure"}
+		],
+		
+		"poolRounds" : [
+			[1.0, 1]
+      ],
+	  
+      "allowDuplication" : true
+    }]
+  ], 
+
+  // Boss Specific //
+  
+    	"verdantkingtreasure" : [
+		[0, {
+		"pool" : [
+			{"weight" : 1.0, "item" : ["slscarfhead", 1]}
+		],
+		
+		"poolRounds" : [
+			[1.0, 1]
+      ],
+	  
+      "allowDuplication" : true
+    }]
+  ],
+  
+		"dachacommissartreasure" : [
+		[0, {
+		"pool" : [
+			{"weight" : 1.0, "item" : ["pickmeup", 5]}
+		],
+		
+		"poolRounds" : [
+			[1.0, 1]
+      ],
+	  
+      "allowDuplication" : true
+    }]
+  ]
+  
+}
