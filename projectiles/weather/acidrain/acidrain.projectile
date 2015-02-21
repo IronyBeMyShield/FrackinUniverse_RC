@@ -1,0 +1,4 @@
+[
+{"op":"add","path":"/statusEffects","value":[{"effect":"weakpoison","duration":10}]},
+{"op":"replace","path":"/power","value":0}
+]
