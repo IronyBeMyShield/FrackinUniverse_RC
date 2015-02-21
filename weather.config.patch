@@ -25,7 +25,7 @@
     [0.4, "sandstorm"],
     [0.4, "hurricane"],
     [0.4, "drizzle"],
-    [0.4, "sporeshower"],
+    //[0.4, "sporeshower"],
     [0.01, "meteorshower"],
     [0.005, "largemeteor"]]
 },
@@ -149,7 +149,7 @@
     [0.46, "clear"],
     [0.15, "slimestorm"],
     [0.25, "slimestormlesser"],
-    [0.15, "sporeshower"],
+    //[0.15, "sporeshower"],
     [0.12, "windstorm"],
     [0.05, "hurricane"],
     [0.01, "meteorshower"],

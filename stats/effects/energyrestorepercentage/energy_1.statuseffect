@@ -1,0 +1,10 @@
+{
+  "name" : "energy_1",
+  "effectConfig" : { "energyrestore" : 1.0 },
+  "defaultDuration" : 0.1,
+
+  "scripts" : [
+    "energyrestorepercentage.lua"
+  ]
+  
+}

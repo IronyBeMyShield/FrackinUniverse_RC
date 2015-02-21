@@ -22,8 +22,8 @@
         "duration" : 15
       },
       {
-        "effect" : "powerMultiplier",
-        "amount" : 1.5,
+        "effect" : "rage",
+        "amount" : 0.25,
         "duration" : 15
       },
       {

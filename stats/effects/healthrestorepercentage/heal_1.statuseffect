@@ -1,0 +1,10 @@
+{
+  "name" : "heal_1",
+  "effectConfig" : { "healthrestore" : 1.0 },
+  "defaultDuration" : 0.1,
+
+  "scripts" : [
+    "healthrestorepercentage.lua"
+  ]
+  
+}
