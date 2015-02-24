@@ -20,6 +20,15 @@
     {
       "stat" : "maxHealth",
       "amount" : 100
+    },
+    "ffextremecoldimmunityicon",
+    {
+      "stat" : "ffextremecoldImmunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "biomecoldImmunity",
+      "amount" : 1.0
     }
   ]
 }

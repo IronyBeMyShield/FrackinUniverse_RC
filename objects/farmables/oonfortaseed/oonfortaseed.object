@@ -7,12 +7,12 @@
   "objectType" : "farmable",
   "printable" : false, 
   
-  "apexDescription" : "A Oonforta Seed.",
-  "avianDescription" : "A Oonforta Seed.",
-  "floranDescription" : "A Oonforta Seed.",
-  "glitchDescription" : "A Oonforta Seed.",
-  "humanDescription" : "A Oonforta Seed.",
-  "hylotlDescription" : "A Oonforta Seed.",
+  "apexDescription" : "An Oonforta plant.",
+  "avianDescription" : "An Oonforta plant.",
+  "floranDescription" : "Oonforta plant!",
+  "glitchDescription" : "Statement. An Oonforta plant.",
+  "humanDescription" : "An Oonforta thingy.",
+  "hylotlDescription" : "An Oonforta plant.",
   "lightColor" : [90, 90, 90],
   "inventoryIcon" : "oonfortaseedicon.png",
   "orientations" : [
@@ -22,13 +22,11 @@
       "frames" : 1,
       "animationCycle" : 0.5,
 
-      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
+      "spaces" : [ [0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [1, 0], [1, 1], [1, 2], [1, 3], [1, 4], [1, 5], [1, 6] ],
       "requireTilledAnchors" : true,
       "anchors" : [ "bottom" ]
-
     }
   ],
-
   "stages" : [
     {
       "duration" : [300, 600]

@@ -7,12 +7,12 @@
   "objectType" : "farmable",
   "printable" : false,
 
-  "apexDescription" : "Niss Seed",
-  "avianDescription" : "Niss Seed",
-  "floranDescription" : "Niss Seed",
-  "glitchDescription" : "Niss Seed",
-  "humanDescription" : "Niss Seed",
-  "hylotlDescription" : "Niss Seed",
+  "apexDescription" : "The strange Niss plant.",
+  "avianDescription" : "The weird Niss plant.",
+  "floranDescription" : "Nissssss.",
+  "glitchDescription" : "Statement. Niss plant.",
+  "humanDescription" : "The awkward Niss plant",
+  "hylotlDescription" : "The ugly Niss plant.",
 
   "inventoryIcon" : "nissseedicon.png",
   "orientations" : [
@@ -25,10 +25,8 @@
       "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
       "requireTilledAnchors" : true,
       "anchors" : [ "bottom" ]
-
     }
   ],
-
   "stages" : [
     {
       "duration" : [300, 600]

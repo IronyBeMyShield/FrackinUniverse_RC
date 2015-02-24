@@ -801,7 +801,7 @@
   {
       "caveLiquid" : [ "organicsoup", "alienjuice" ],
       "blockSelector" : [ "lowHillsSurface", "medHillsSurface", "ledgesSurface" ],
-      "fgCaveSelector" : [ "surfaceCaves" ],
+      "fgCaveSelector" : [ "surfaceCaves", "denseCaves"  ],
       "biome" : [
         [0, [ "crystalmoon" ]]
       ]
@@ -814,7 +814,7 @@
   {
       "caveLiquid" : [ "liquidnitrogen" ],
       "blockSelector" : [ "flatsSurface", "lowHillsSurface", "medHillsSurface", "mountainsSurface", "mesasSurface", "ledgesSurface", "giantLedgesSurface", "megaMountainsSurface" ],
-      "fgCaveSelector" : [ "denseCaves" ],
+      "fgCaveSelector" : [ "surfaceCaves", "denseCaves" ],
       "biome" : [
         [0, [ "icewaste" ]]
       ]
@@ -827,7 +827,7 @@
   {
       "caveLiquid" : [ "liquidnitrogen", "water" ],
       "blockSelector" : [ "flatsSurface", "lowHillsSurface", "medHillsSurface", "mesasSurface", "ledgesSurface", "giantLedgesSurface" ],
-      "fgCaveSelector" : [ "moonSurfaceCaves" ],
+      "fgCaveSelector" : [ "moonSurfaceCaves", "surfaceCaves", "denseCaves"  ],
       "biome" : [
         [0, [ "icemoon" ]]
       ]
@@ -840,7 +840,7 @@
   {
       "caveLiquid" : [ "lava" ],
       "blockSelector" : [ "flatsSurface", "lowHillsSurface", "medHillsSurface", "mountainsSurface", "mesasSurface", "ledgesSurface", "giantLedgesSurface", "megaMountainsSurface" ],
-      "fgCaveSelector" : [ "moonSurfaceCaves" ],
+      "fgCaveSelector" : [ "moonSurfaceCaves", "surfaceCaves", "denseCaves"  ],
       "caveLiquidChanceRange" : [100, 100],
       "biome" : [
         [0, [ "infernus" ]]
@@ -855,7 +855,7 @@
   {
       "caveLiquid" : [ "water", "poison", "bio_ooze" ],
       "blockSelector" : [ "flatsSurface", "lowHillsSurface", "medHillsSurface", "mountainsSurface", "mesasSurface", "ledgesSurface", "giantLedgesSurface" ],
-      "fgCaveSelector" : [ "acidPoolCaves" ],
+      "fgCaveSelector" : [ "acidPoolCaves", "surfaceCaves", "denseCaves"  ],
       "biome" : [
         [0, [ "irradiated" ]]
       ]

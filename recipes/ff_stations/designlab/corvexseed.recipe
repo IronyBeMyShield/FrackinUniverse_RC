@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "organicsynthesis", "count" : 1 },
-    { "item" : "aquaticcelerity", "count" : 1 },
+    { "item" : "organicsynthesis", "count" : 3 },
+    { "item" : "chloroplast3", "count" : 1 },
     { "item" : "tissueculture", "count" : 3 },
     { "item" : "aquatichomeostasis", "count" : 1 }
   ],

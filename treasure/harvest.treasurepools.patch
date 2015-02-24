@@ -111,12 +111,12 @@
 {"op":"add", 
 	"path":"/algaeHarvest", 
 	"value":[[0, {"fill":[{"item":"algaeseed"}, 
-		{"item":"algae"}]}]]}, 
+		{"item":"algaegreen"}]}]]}, 
 	
 {"op":"add", 
 	"path":"/wildealgaeHarvest", 
-	"value":[[0, {"fill":[{"item":"algae"}], 
-	"pool":[{"weight":0.6, "item":"algae"}],
+	"value":[[0, {"fill":[{"item":"algaegreen"}], 
+	"pool":[{"weight":0.6, "item":"algaegreen"}],
 	"poolRounds":[[0.7, 2], [0.3, 3]]}]]}, 
 	
 {"op":"add",

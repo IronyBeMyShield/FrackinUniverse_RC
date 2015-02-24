@@ -22,10 +22,14 @@
       "stat" : "maxHealth",
       "amount" : 65
     },
-
+    "ffextremeheatimmunityicon",
     {
-      "stat" : "powerMultiplier",
-      "amount" : 1.5
+      "stat" : "ffextremeheatImmunity",
+      "amount" : 1.0
+    },
+    {
+      "stat" : "biomeheatImmunity",
+      "amount" : 1.0
     }
   ],
 

@@ -13,12 +13,6 @@
   "glitchDescription" : "Disinterest. Minkocoa for making chocolate for weasels.",
   "humanDescription" : "Minkocoa pods can be used to make chocolate for weasels. I don't know if that's a good thing or bad thing.",
   "hylotlDescription" : "I prefer real chocolate.",
-  "flamencoDescription" : "Minkocoa chocolate is the only type of chocolate that isn't unhealthy for us.",
-  "snowstrifeDescription" : "Chocolate is the recipe for unfitness.",
-  "naylaDescription" : "A minkocoa plant of tastes of strangeness.",
-  "mistfenDescription" : "Weasel cocoa. Not any better than regular cocoa.",
-  "alienbutterflyDescription" : "Not even weasels can resist chocolate!",
-
 
   "inventoryIcon" : "minkocoapodseedicon.png",
   "orientations" : [
@@ -31,10 +25,8 @@
       "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
       "requireTilledAnchors" : true,
       "anchors" : [ "bottom" ]
-
     }
   ],
-
   "stages" : [
     {
       "duration" : [300, 600]

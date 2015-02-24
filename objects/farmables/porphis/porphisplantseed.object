@@ -6,7 +6,14 @@
   "shortdescription" : "Porphis Bulb",
   "objectType" : "farmable",
   "printable" : false, 
-  
+
+  "apexDescription" : "Rumor has is it that Big Ape's elite guard eats this daily.",
+  "avianDescription" : "Highly concentrated hormones.",
+  "floranDescription" : "Floran feel ssstrong after eating thisss.",
+  "glitchDescription" : "Careless. Glitch are not as susceptible to any side-effects as others.",
+  "humanDescription" : "Is that a nose?",
+  "hylotlDescription" : "It smells terrible.",
+
   "inventoryIcon" : "porphisplantseedicon.png",
   "orientations" : [
     {
@@ -18,10 +25,8 @@
       "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
       "requireTilledAnchors" : true,
       "anchors" : [ "bottom" ]
-
     }
   ],
-
   "stages" : [
     {
       "duration" : [300, 600]

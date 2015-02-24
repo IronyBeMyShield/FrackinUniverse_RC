@@ -22,7 +22,7 @@
     "onlyOnce": true,
     "speciesText": {
         "default": {
-            "buttonText": "COMMENCE SCIENCE",
+            "buttonText": "(FU) Quest Start",
             "selectSpeech": [
                 {
                     "animation": "talk",

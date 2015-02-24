@@ -3,10 +3,17 @@
   "rarity" : "Rare",
   "category" : "farmable",
   "description" : "Gross. Brain plant.",
-  "shortdescription" : "Neuropod",
+  "shortdescription" : "Neuropod Seed",
   "objectType" : "farmable",
   "printable" : false, 
-    "objectItem" : "neuropodseed",
+  "objectItem" : "neuropodseed",
+  "apexDescription" : "It reminds me of those Apex experiments...",
+  "avianDescription" : "Well... at least it's a smart plant?",
+  "floranDescription" : "Floran enjoysss thisss plant.",
+  "glitchDescription" : "Statement. This plant does not disturb Glitch.",
+  "humanDescription" : "Ew! Let's see what sprouts out of it!",
+  "hylotlDescription" : "...there are no words which accurately surmise my dislike for this plant.",
+
   "inventoryIcon" : "neuropodseedicon.png",
   "orientations" : [
     {
@@ -18,10 +25,8 @@
       "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
       "requireTilledAnchors" : false,
       "anchors" : [ "bottom" ]
-
     }
   ],
-
   "stages" : [
     {
       "duration" : [300, 600]
