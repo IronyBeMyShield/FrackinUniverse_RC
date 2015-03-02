@@ -1,0 +1,8 @@
+{
+  "itemName" : "densiniumbar",
+  "rarity" : "Common",
+  "inventoryIcon" : "densiniumbar.png",
+  "description" : "A multi-phasic super-dense metal.",
+  "shortdescription" : "Densinium Bar",
+  "learnBlueprintsOnPickup" : [ "eldercarbine" ]
+}

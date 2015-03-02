@@ -244,7 +244,7 @@
           "distribution" : "/biomes/distributions.config:tiyDistTerrainfeatures",
 
           "type" : "microdungeon",
-          "microdungeons" : [ "terrainfeatures", "rockclimb","rocktunnel",  "toxicplains", "sandstone", "blockpile", "rockyshapes", "rods", "spikes" ]
+          "microdungeons" : [ "canyonmini", "terrainfeatures", "rockclimb","rocktunnel",  "toxicplains", "sandstone", "blockpile", "rockyshapes", "rods", "spikes" ]
         },
         {
           "mode" : "floor",

@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "cellhardening1", "count" : 2 },
     { "item" : "liquidoil", "count" : 6 },
-    { "item" : "ff_fertilizer", "count" : 1 }
+    { "item" : "ff_fertilizer", "count" : 1 },
+	{ "item" : "mineralsample", "count" : 4 }
   ],
   "output" : {
     "item" : "cellhardening2",

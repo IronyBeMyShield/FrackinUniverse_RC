@@ -6,7 +6,7 @@
   "printable" : false,
   "price" : 200,
   "objectType" : "container",
-  "learnBlueprintsOnPickup" : [ "biochipbase", "obsidianshard", "magneticshielding"  ],
+  "learnBlueprintsOnPickup" : [ "obsidianshard", "magneticshielding"  ],
   "inventoryIcon" : "samplingarrayicon.png",
   "description" : "Breaks down materials to create useful samples for experiments.",
   "shortdescription" : "^orange;Sampling Array^white;",

@@ -129,7 +129,7 @@
           "distribution" : "/biomes/distributions.config:tiyDistTerrainfeatures",
 
           "type" : "microdungeon",
-          "microdungeons" : [ "terrainfeatures", "rockclimb","rocktunnel",  "sandstone", "blockpile", "loops", "flats", "spikes", "rods", "spiralspikes", "stripeblocks", "wiggles" ]
+          "microdungeons" : [ "canyonmini", "terrainfeatures", "rockclimb","rocktunnel",  "sandstone", "blockpile", "loops", "flats", "spikes", "rods", "spiralspikes", "stripeblocks", "wiggles" ]
         },
         {
           "mode" : "floor",

@@ -1,0 +1,17 @@
+  {
+  "id" : "3_circuitboard.gearup",
+  "prerequisites" : [ ],
+  "title" : "^#1693d5;Circuitboard (FU)",
+  "text" : "For controlling advanced functions, circuitry is a must. The advanced labs will need it! Build a ^#1693d5;circuit board^white;. You can extract ^orange;silicon^white; by extracting it from the crystalline ground of a Crystal Moon. You have an extractor, right?",
+  "completionText" : "You'll need that circuitboard for your Xeno Lab.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "circuitboard", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "4_microscope.gearup"
+}

@@ -8,8 +8,8 @@ function init()
   local slows = status.statusProperty("slows", {})
   slows["frostslow"] = 0.75
   status.setStatusProperty("slows", slows)
-  self.tickDamagePercentage = 0.005
-  self.tickTime = 1.0
+  self.tickDamagePercentage = 0.01
+  self.tickTime = 0.9
   self.tickTimer = self.tickTime
 end
 
@@ -25,7 +25,7 @@ function update(dt)
     self.tickTimer = self.tickTime
     status.applySelfDamageRequest({
         damageType = "IgnoresDef",
-        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 0.5,
+        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 1,
         damageSourceKind = "nitrogenweapon",
         sourceEntityId = entity.id()
       })

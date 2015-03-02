@@ -1,0 +1,16 @@
+  {
+  "id" : "2_dnasample.gearup",
+  "title" : "^orange;DNA Sample",
+  "text" : "^orange;DNA Samples^white; are an integral part to creating plant life in your lab. To make some, toss some Tissue Culture, Genetic Material and Glass into your sampling array and wait for the conversion.",
+  "completionText" : "Many other materials can be created in this fashion. Let's move on to mineral samples.",
+  "conditions" : [ { "kind" : "gather", "item" : [ "dnasample", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "3_mineralsample.gearup"
+}
+ 

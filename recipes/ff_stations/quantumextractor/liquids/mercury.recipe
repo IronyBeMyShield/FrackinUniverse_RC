@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "liquidmercury", "count" : 8 }
+  ],
+  "output" : {
+    "item" : "ff_mercury",
+    "count" : 1
+  },
+  "groups" : [ "quantumextractor", "all" ]
+}

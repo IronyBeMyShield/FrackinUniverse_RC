@@ -24,7 +24,7 @@
     }
   ],
   
-  "statusEffects" : [ "glow" ],
+  "statusEffects" : [ "glowyellow" ],
     
   "power" : 4,
   "speed" : 1,

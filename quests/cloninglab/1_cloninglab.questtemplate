@@ -1,0 +1,16 @@
+  {
+  "id" : "1_cloninglab.gearup",
+  "prerequisites" : [ "crewisallhere.gearup" ],
+  "title" : "^orange;The Clone Wars",
+  "text" : "For your next bit of science training, you are going to need a Cloning Lab.",
+  "completionText" : "Merry Christmas to you too, captain! Here are some presents to put under your tree.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "cloninglab", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false
+}
+ 

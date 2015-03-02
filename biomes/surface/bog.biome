@@ -329,6 +329,15 @@
           "distribution" : "/biomes/distributions.config:tiyDistTerrainfeatures",
 
           "type" : "microdungeon",
+          "microdungeons" : [ "bogmini" ]
+        },
+        {
+          "mode" : "floor",
+          "priority" : 3.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:tiyDistTerrainfeatures",
+
+          "type" : "microdungeon",
           "microdungeons" : [ "terrainfeatures", "rockclimb","rocktunnel",  "toxicplains", "sandstone", "blockpile", "loops", "flats", "reversepyramids" ]
         },
         {

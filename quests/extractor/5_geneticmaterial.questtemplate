@@ -1,0 +1,17 @@
+  {
+  "id" : "5_geneticmaterial.gearup",
+  "title" : "^orange;Genetic Material",
+  "text" : "Genetic Material is easy enough to find, if you look at the right sources. Plant Fibre is the most abundant. You'll need 50 or more, however.",
+  "completionText" : "Excellent. Now onto the next resource.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "geneticmaterial", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "6_methanol.gearup"
+}
+ 

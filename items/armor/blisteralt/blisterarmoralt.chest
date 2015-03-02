@@ -23,8 +23,12 @@
   "statusEffects" : [
     {
       "stat" : "protection",
-      "amount" : 42
-    }, 
-	"glow" 
+      "amount" : 40
+    },
+    {
+      "stat" : "maxHealth",
+      "amount" : 30
+    },
+	"glow"
   ]
 }

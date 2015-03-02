@@ -80,13 +80,29 @@
 "path" : "/icewaste",
 "value" : [     
     [0.4, "clear"],
-    [0.36, "crystalstorm"],
-    [0.15, "crystalstormmajor"],
-    [0.25, "healingstorm"],
+    [0.36, "freezestorm"],
+    [0.15, "freezestormlesser"],
+    [0.25, "freezestormminor"],
     [0.01, "meteorshower"],
     [0.005, "largemeteor"]]
 },
   
+
+{
+"op" : "add",
+"path" : "/icefire",
+"value" : [     
+    [0.6, "firestorm"],
+    [0.4, "magmastorm"],
+    [0.20, "magmastormgreater"],
+    [0.4, "ember"],
+    [0.36, "freezestorm"],
+    [0.15, "freezestormlesser"],
+    [0.25, "freezestormminor"],
+    [0.02, "meteorshower"],
+    [0.009, "largemeteor"]]
+},
+
 
 {
 "op" : "add",
@@ -149,7 +165,6 @@
     [0.46, "clear"],
     [0.15, "slimestorm"],
     [0.25, "slimestormlesser"],
-    //[0.15, "sporeshower"],
     [0.12, "windstorm"],
     [0.05, "hurricane"],
     [0.01, "meteorshower"],

@@ -1,0 +1,16 @@
+  {
+  "id" : "6_mutavisksilk.gearup",
+  "title" : "^orange;Mutavisk Thread",
+  "text" : "^orange;Mutavisk^white; is a strange textile created from the silk of the mutavisk plant. Create some thread from it's silk in the Array. Combine mineral and dna samples with some mutavisk silk, and voila!",
+  "completionText" : "Mutavisk has an extremely unusual ability: It can resist almost all environmental stresses, including the vaccuum of space.",
+  "conditions" : [ { "kind" : "gather", "item" : [ "mutaviskthread", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "7_blisterextract.gearup"
+}
+ 

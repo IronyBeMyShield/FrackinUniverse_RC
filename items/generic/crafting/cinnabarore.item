@@ -3,5 +3,6 @@
   "rarity" : "legendary",
   "inventoryIcon" : "cinnabarore.png",
   "description" : "A reliable source of mercury.",
-  "shortdescription" : "Cinnabar Ore"
+  "shortdescription" : "Cinnabar Ore",
+  "learnBlueprintsOnPickup" : [ "ff_mercury" ]
 }

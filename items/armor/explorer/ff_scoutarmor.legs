@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "Look stylish while you travel.",
+  "rarity" : "rare",
+  "description" : "High energy regen",
   "shortdescription" : "Explorer Greaves",
   "tooltipKind" : "armor",
 
@@ -19,6 +19,10 @@
     {
       "stat" : "energyRegen",
       "amount" : 0.85
+    },
+    {
+      "stat" : "energyRegen",
+      "amount" : 0.25
     }
   ]
 }

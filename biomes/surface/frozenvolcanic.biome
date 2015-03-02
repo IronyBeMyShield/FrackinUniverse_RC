@@ -1,7 +1,7 @@
 {
   "name" : "frozenvolcanic",
   "friendlyName" : "Frozen Volcanic",
-  "statusEffects" : [ "ffextremecold"  ],
+  "statusEffects" : [ "biomecold"  ],
   "airless" : true,
   "breathable" : false,
   
@@ -66,7 +66,7 @@
       "nightLightColor" : [12, 12, 50]
     },
     {
-      "mainColor" : [70, 70, 120],
+      "mainColor" : [200, 200, 200],
 
       "morningColors" : [ [124, 124, 200], [134, 134, 225] ],
       "dayColors" : [ [70, 70, 150], [70, 70, 170] ],
@@ -79,7 +79,7 @@
       "nightLightColor" : [12, 12, 50]
     },
     {
-      "mainColor" : [45, 125, 200],
+      "mainColor" : [120, 125, 200],
 
       "morningColors" : [ [124, 124, 200], [134, 134, 225] ],
       "dayColors" : [ [70, 70, 150], [70, 70, 170] ],
@@ -144,7 +144,60 @@
 
           "type" : "microdungeon",
           "microdungeons" : [ "block1platforms", "loops", "spiralspikes", "blocks", "stripeblocks", "blockpile", "flats", "spikes", "rods", "wiggles", "rockyshapes", "layeredspire", "blank", "none", "ice" ]
-        },      
+        },     
+        {
+          "mode" : "floor",
+          "priority" : 2.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:ffunCommon",
+
+          "type" : "object",
+          "objectSets" : [
+            {
+              "pool" : [ 
+              [1, "wildcrystalplantseed" ],
+              [1, "wildmelodistarseed" ],
+              [1, "wildblizzberryseed" ]
+              ],
+              "parameters" : { "startingStage" : 2 }
+            }
+          ]
+        },
+        {
+          "mode" : "floor",
+          "priority" : 0.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:minibiomeChests",
+
+          "type" : "treasureBox",
+          "treasureBoxSets" : [ "iceChest" ]
+        },
+        {
+          "mode" : "floor",
+          "priority" : 1.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:denseLarge",
+
+          "type" : "tree",
+          "treeFoliageHueShiftMax" : 0,
+          "treeStemHueShiftMax" : 15,
+          "treeStemList" : [ "icespherestem" ],
+          "treeFoliageList" : [ "icespherefoliage" ]
+        },
+        {
+          "mode" : "floor",
+          "priority" : 1.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:scatteredSmall",
+
+          "type" : "object",
+          "objectSets" : [
+            {
+              "pool" : [ [0.35, "icesphere1" ], [0.35, "icesphere2" ], [0.35, "icesphere3" ], [0.35, "icesphere4" ] ],
+              "parameters" : { }
+            }
+          ]
+        },        
         {
           "mode" : "floor",
           "priority" : 1.0,
@@ -276,7 +329,7 @@
           "distribution" : "/biomes/distributions.config:tiyDistTerrainfeatures",
 
           "type" : "microdungeon",
-          "microdungeons" : [ "terrainfeatures", "rockclimb","rocktunnel" ]
+          "microdungeons" : [ "icespikes", "icemini", "canyonmini", "terrainfeatures", "rockclimb","rocktunnel" ]
         },
         {
           "mode" : "floor",

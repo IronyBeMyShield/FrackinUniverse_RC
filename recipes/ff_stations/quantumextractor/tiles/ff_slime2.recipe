@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "slime2material", "count" : 50 }
+    { "item" : "slime2material", "count" : 20 }
   ],
   "output" : {
-    "item" : "tissueculture",
+    "item" : "greenslime",
     "count" : 2
   },
   "groups" : [ "quantumextractor", "all" ]

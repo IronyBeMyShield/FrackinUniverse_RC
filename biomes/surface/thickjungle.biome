@@ -341,7 +341,40 @@
             }
           ]
         },
+        {
+          "mode" : "floor",
+          "priority" : 1.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:ffunCommon",
 
+          "type" : "object",
+          "objectSets" : [
+            {
+              "pool" : [ 
+          [0.15, "junglebush1" ],
+          [0.15, "junglebush2" ],
+          [0.15, "junglebush3" ],
+          [0.15, "junglebush4" ],
+          [0.15, "junglebush5" ],
+          [0.15, "junglebush6" ],
+          [0.15, "junglebush7" ],
+          [0.15, "junglebush8" ],
+          [0.15, "junglebush9" ],
+          [0.15, "junglebush10" ],
+          [0.15, "junglebush11" ],
+          [0.15, "junglebush12" ],
+          [0.15, "junglebush13" ],
+          [0.15, "junglebush14" ],
+          [0.15, "junglebush15" ],
+          [0.15, "junglebush16" ],
+          [0.15, "junglebush17" ],
+          [0.15, "junglebush18" ],
+          [0.15, "beanstalk" ]
+          ],
+              "parameters" : { }
+            }
+          ]
+        },
         {
           "mode" : "floor",
           "priority" : 1.0,

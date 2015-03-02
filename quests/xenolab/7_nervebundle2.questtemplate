@@ -1,0 +1,15 @@
+  {
+  "id" : "7_nervebundle2.gearup",
+  "title" : "^orange;Nerve bundle II",
+  "text" : "Declaration. Some plants have a complex nerve system. You'll need to craft an advanced gene to create them. Make a ^orange;nerve bundle II^white;.",
+  "completionText" : "Statement. You have learned everything I have to teach to you. You're on your own now.",
+  "conditions" : [ { "kind" : "gather", "item" : [ "nervebundle2", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "8_todesignlab.gearup"
+}

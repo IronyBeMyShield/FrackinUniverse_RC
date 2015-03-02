@@ -1,0 +1,16 @@
+  {
+  "id" : "fu_intro2.gearup",
+  "prerequisites" : [ "fu_intro1a.gearup" ],
+  "title" : "^orange;Leading to Science",
+  "text" : "Now that you're here, I must say that we'll demand a lot of you, but in return we'll teach you how to further your understanding of the cosmos beyond your wildest dreams. You may learn more about us by reading a pamphlet I left in the bookcase here. But first, could you perhaps fetch me some lead? I require some immediately but can't step away from my work.",
+  "completionText" : "Thank you. Now let's get into serious business. Are you ready to learn?",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "lead", 1], "consume" : true }
+  ],
+  "moneyRange" : [300, 400],
+  "rewards" : [ ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "fu_intro3.gearup",
+  "requireTurnIn" : true
+}

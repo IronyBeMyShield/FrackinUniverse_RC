@@ -16,6 +16,10 @@
       "stat" : "protection",
       "amount" : 20
     },
+    {
+      "stat" : "maxEnergy",
+      "amount" : 30
+    },
     "glow"
   ]
 }

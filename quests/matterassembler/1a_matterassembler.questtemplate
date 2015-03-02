@@ -1,0 +1,17 @@
+  {
+  "id" : "1a_matterassembler.gearup",
+  "prerequisites" : [ "1_matterassembler.gearup" ],
+  "title" : "^#1693d5;A new scientist in town",
+  "text" : "To create flora, you need to combine a lot of chemical components. You'll need raw elements as well as complex ones you'll make in various lab stations. All of them can be crafted with your Matter Assembler. Oh, yes, you must also see my Novakid friend here.",
+  "completionText" : "So, you're the new guy, eh? We'll see what you are made of. Take this blueprint and make your first sampling array!",
+  "conditions" : [],
+  "moneyRange" : [0,0],
+  "rewards" : [ 
+    [ [ "samplingarray-recipe", 1] ] 
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : true,
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

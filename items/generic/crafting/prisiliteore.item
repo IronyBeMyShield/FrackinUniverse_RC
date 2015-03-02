@@ -1,0 +1,10 @@
+{
+  "itemName" : "prisiliteore",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "prisiliteore.png",
+  "description" : "Crystalline perfection in ore form.",
+  "shortdescription" : "Prisilite Ore",
+  "learnBlueprintsOnPickup" : [
+    "prisilitestar"
+  ]
+}

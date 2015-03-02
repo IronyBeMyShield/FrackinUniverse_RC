@@ -1,0 +1,16 @@
+  {
+  "id" : "2_nutrientpaste.gearup",
+  "title" : "^orange;Nutrient Paste",
+  "text" : "Nutrient Paste is something you'll need a lot of. Fortunately, it's abundant. Dig 50 dirt, extract from it and voila! Do so now.",
+  "completionText" : "There are several other key resources, which we will get to right away.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "nutrientpaste", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "3_tissueculture.gearup"
+}

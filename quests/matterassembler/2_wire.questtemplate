@@ -1,0 +1,17 @@
+  {
+  "id" : "2_wire.gearup",
+  "prerequisites" : [ "1_matterassembler.gearup" ],
+  "title" : "^#1693d5;Wire (FU)",
+  "text" : "Thanks to the communicator I gave you, I'll be able to check what you do in your lab. Now, let's start. If you're going to build the more complicated gear the ^orange;Matter Assembler^white; can handle, you'll need ^#orange;Wire^white;. Make some.",
+  "completionText" : "Without wire, you'll have serious issues creating circuits and technology.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "wire", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "3_circuitboard.gearup"
+}

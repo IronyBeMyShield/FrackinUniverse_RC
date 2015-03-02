@@ -7,7 +7,7 @@
   "printable" : false,
   "description" : "Extracts materials from organic materials and fertile dirt.",
   "shortdescription" : "^orange;Extraction Lab^white;",
-  "learnBlueprintsOnPickup" : [ "microscope", "saltpeter", "phosphorus", "ff_mercury", "magnesiumpowder", "rawminerals", "magnesiumpowder", "ammoniumsulfate", "penumbriteshard" ],
+  "learnBlueprintsOnPickup" : [ "saltpeter", "phosphorus", "ff_mercury", "magnesiumpowder", "rawminerals", "magnesiumpowder", "ammoniumsulfate", "penumbriteshard" ],
   "price" : 450,
 
   "inventoryIcon" : "extractionlabicon.png",

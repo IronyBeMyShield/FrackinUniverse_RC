@@ -1,0 +1,17 @@
+  {
+  "id" : "1_designlab.gearup",
+  "prerequisites" : [ "8_todesignlab.gearup" ],
+  "title" : "^orange;Gene Design Lab",
+  "text" : "To ssstart, you need a ^orange;Gene Design Lab^white;. This is where your ssstrange plantsss are ssspliced! Build one now.",
+  "completionText" : "Good. Now you huntssss.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "designlab", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "2_cellbiosamplebiospore.gearup"
+}

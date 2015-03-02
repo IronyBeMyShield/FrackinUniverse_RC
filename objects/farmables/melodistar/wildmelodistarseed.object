@@ -7,18 +7,12 @@
   "objectType" : "farmable",
   "printable" : false,
   "objectItem" : "melodistarseed",
-
   "apexDescription" : "I wonder how a plant manages to grow in non-atmospheric conditions.",
   "avianDescription" : "A pretty star plant.",
   "floranDescription" : "Pretty ssstar plant.",
   "glitchDescription" : "Observation. These star plants seem to have a resemblance to musical notes.",
   "humanDescription" : "A glowing star plant in space! It can't get any cooler than that.",
   "hylotlDescription" : "A truly artistic plant. Beautiful.",
-  "flamencoDescription" : "I hope this plant isn't radioactive.",
-  "snowstrifeDescription" : "This plant can survive even in space. Impressive.",
-  "naylaDescription" : "This star has a reachability. A such of an anticlimax.",
-  "mistfenDescription" : "So glowy! Yap, I want it!",
-  "alienbutterflyDescription" : "It's a music star! Hehe.",
 
   "lightColor" : [200, 200, 30],
   
@@ -33,10 +27,8 @@
       "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3] ],
       "requireTilledAnchors" : false,
       "anchors" : [ "bottom" ]
-
     }
   ],
-
   "stages" : [
     {
       "duration" : [300, 600]

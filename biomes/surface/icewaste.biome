@@ -267,7 +267,7 @@
           "distribution" : "/biomes/distributions.config:tiyDistTerrainfeatures",
 
           "type" : "microdungeon",
-          "microdungeons" : [ "terrainfeatures", "rockclimb","rocktunnel" ]
+          "microdungeons" : [ "canyonmini", "icespikes", "icemini", "terrainfeatures" ]
         },
         {
           "mode" : "floor",

@@ -3,5 +3,6 @@
   "rarity" : "Common",
   "inventoryIcon" : "lazuliteore.png",
   "description" : "Can produce magnesium and phosphorus",
-  "shortdescription" : "Lazulite Ore"
+  "shortdescription" : "Lazulite Ore",
+  "learnBlueprintsOnPickup" : [ "magnesiumpowder", "phosphorus" ]
 }

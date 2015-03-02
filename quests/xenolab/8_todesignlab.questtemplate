@@ -1,0 +1,16 @@
+  {
+  "id" : "8_todesignlab.gearup",
+  "title" : "^orange;Extraction Lab",
+  "text" : "Invitation. Go and meet our Floran scientist. Warning. Don't be surprised. He's been genetically modified.",
+  "completionText" : "Ssso you're the new one? Don't be afraid. I will not ssstab you. I'm a vegetarian. Honest. Take thisss.",
+  "conditions" : [],
+  "moneyRange" : [0,0],
+  "rewards" : [ 
+    [ [ "designlab-recipe", 1] ]
+   ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : true,
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

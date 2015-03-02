@@ -1,0 +1,14 @@
+  {
+  "id" : "8_toxenolab.gearup",
+  "title" : "^orange;Meet the Specialist",
+  "text" : "^orange;Now, in order to learn about genetics, you'll need to meet our glitch specialist.",
+  "completionText" : "Sincere. Welcome. Take this.",
+  "conditions" : [],
+  "moneyRange" : [0,0],
+  "rewards" : [ [ "xenostation-recipe" ] ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

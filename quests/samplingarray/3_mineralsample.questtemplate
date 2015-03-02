@@ -1,0 +1,16 @@
+  {
+  "id" : "3_mineralsample.gearup",
+  "title" : "^orange;Mineral Sample",
+  "text" : "^orange;Mineral Samples^white; are not too different from DNA Samples. They require raw minerals, nutrient paste and some glass in your Sampling Array. Get on it.",
+  "completionText" : "One more essential resource is up next",
+  "conditions" : [ { "kind" : "gather", "item" : [ "mineralsample", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "4_biochip.gearup"
+}
+ 

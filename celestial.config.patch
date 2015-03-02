@@ -1,27 +1,15 @@
 [
 {"op":"add",
 "path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
-"value":"ffunknown"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"garden"
 },
-
 {"op":"add",
 "path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"arboreal"
 },
-
 {"op":"add",
 "path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"bog"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
-"value":"slimeworld"
 },
 {"op":"add",
 "path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
@@ -31,7 +19,6 @@
 "path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"urbanwasteland"
 },
-
 {"op":"add",
 "path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"ffunknown"
@@ -52,23 +39,10 @@
 "path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"forest"
 },
-{"op":"add",
-"path":"/planetaryTypes/Tier2/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
+
 {"op":"add",
 "path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"protoworld"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"irradiated"
 },
 
 {"op":"add",
@@ -93,10 +67,6 @@
 {"op":"add",
 "path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"thickjungle"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"lightless"
 },
 
 {"op":"add",
@@ -134,36 +104,12 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"nitrogensea"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
 
 {"op":"add",
 "path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"icewaste"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"protoworld"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"irradiated"
 },
 
 {"op":"add",
@@ -183,16 +129,9 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"thickjungle"
 },
-{"op":"add",
-"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
+
 {"op":"add",
 "path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"ffunknown"
@@ -240,26 +179,7 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"atropus"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"nitrogensea"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"sulphuric"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"icewaste"
 },
 
 {"op":"add",
@@ -267,15 +187,6 @@
 "value":"protoworld"
 },
 
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"irradiated"
-},
 
 {"op":"add",
 "path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
@@ -294,15 +205,7 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"thickjungle"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"lightless"
 },
 
 {"op":"add",
@@ -355,21 +258,6 @@
 "value":"tundra"
 },
 
-
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"atropus"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"nitrogensea"
-},
 {"op":"add",
 "path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"sulphuric"
@@ -377,22 +265,7 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"icewaste"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"protoworld"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"irradiated"
 },
 
 {"op":"add",
@@ -412,15 +285,7 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"thickjungle"
-},
-{"op":"add",
-"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"lightless"
 },
 
 {"op":"add",
@@ -430,22 +295,7 @@
 
 {"op":"add",
 "path":"/planetaryTypes/Barren/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Barren/baseParameters/terrestrialType/-",
 "value":"sulphuric"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Barren/baseParameters/terrestrialType/-",
-"value":"icewaste"
-},
-
-{"op":"add",
-"path":"/planetaryTypes/Barren/baseParameters/terrestrialType/-",
-"value":"lightless"
 },
 
 
@@ -477,18 +327,12 @@
 "path":"/satelliteTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"bog"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier2/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"crystalmoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier2/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier2/baseParameters/terrestrialType/-",
 "value":"thickjungle"
@@ -498,30 +342,15 @@
 "path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"ffunknown"
 },
+
 {"op":"add",
 "path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"icemoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"urbanwasteland"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"protoworld"
-},
 
 {"op":"add",
 "path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"irradiated"
+"value":"protoworld"
 },
 
 {"op":"add",
@@ -543,10 +372,7 @@
 "path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"crystalmoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier3/baseParameters/terrestrialType/-",
 "value":"thickjungle"
@@ -560,27 +386,12 @@
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"ffunknown"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"urbanwasteland"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"icemoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
 
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"nitrogensea"
-},
 {"op":"add",
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"sulphuric"
@@ -588,31 +399,6 @@
 
 {"op":"add",
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"icewaste"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"protoworld"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"irradiated"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"penumbra"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"arboreal"
 },
 
@@ -625,10 +411,7 @@
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"crystalmoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"metallicmoon"
@@ -637,10 +420,7 @@
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"thickjungle"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"urbanwasteland"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"icemoon"
@@ -650,51 +430,10 @@
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"ffunknown"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"atropus"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
 
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"nitrogensea"
-},
 {"op":"add",
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"sulphuric"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"icewaste"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"protoworld"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"irradiated"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"penumbra"
 },
 
 {"op":"add",
@@ -711,10 +450,7 @@
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"crystalmoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"thickjungle"
@@ -723,60 +459,15 @@
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"metallicmoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"urbanwasteland"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"icemoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"lightless"
-},
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"atropus"
-},
 
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"infernus"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"nitrogensea"
-},
 {"op":"add",
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"sulphuric"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"icewaste"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"protoworld"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"bloodstone"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"irradiated"
-},
-
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"penumbra"
 },
 
 {"op":"add",
@@ -793,10 +484,7 @@
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"crystalmoon"
 },
-{"op":"add",
-"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
-"value":"slimeworld"
-},
+
 {"op":"add",
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"thickjungle"
@@ -809,7 +497,1276 @@
 {"op":"add",
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"ffunknown"
+},
+
+
+
+// FU Stars
+
+
+{
+    "op" : "add",
+    "path" : "/systemTypes/bluesun1",
+    "value" : {
+      "selectionWeight" : 0.9,
+      "baseParameters" : {
+        "typeName" : "bluesun1",
+        "image" : "/celestial/system/bluesun1.png",
+        "twinkleTime" : [1.0, 1.5]
+      },
+      "variationParameters" : [
+        {
+          "magnitude" : 6,
+          "description" : "Medium Blue Star",
+          "imageScale" : 0.055,
+          "twinkleFrames" : "/celestial/stars/star7pxBlue.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star7px.png",
+          "brightness" : [1, 1]
+        },
+        {
+          "magnitude" : 8,
+          "description" : "Large Blue Star",
+          "imageScale" : 0.075,
+          "twinkleFrames" : "/celestial/stars/star7pxBlue.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star7px.png",
+          "brightness" : [1, 1]
+        }
+      ],
+      "orbitRegions" : [
+        {
+          "regionName" : "Scorching",
+          "orbitRange" : [1, 2],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.8, "item" : "scorchingWorlds"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.6, "item" : "scorchingMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Hot",
+          "orbitRange" : [3, 4],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.8, "item" : "hotWorlds"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.6, "item" : "hotMoons"}
+          ]
+        },
+        {
+          "regionName" : "Warm",
+          "orbitRange" : [5, 6],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.8, "item" : "warmWorlds"},
+            {"weight" : 0.12, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.6, "item" : "warmMoons"}
+          ]
+        },
+        {
+          "regionName" : "Habitable",
+          "orbitRange" : [7, 8],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.3, "item" : "habitableWorlds"},
+            {"weight" : 0.3, "item" : "habitableWorlds"},
+            {"weight" : 0.1, "item" : "habitableWorlds"},
+            {"weight" : 0.12, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "habitableMoons"},
+            {"weight" : 0.05, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Cold",
+          "orbitRange" : [9, 10],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "coldWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "coldMoons"},
+            {"weight" : 0.05, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Frozen",
+          "orbitRange" : [11, 11],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "frozenWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "frozenMoons"},
+            {"weight" : 0.05, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Moon",
+          "orbitRange" : [12, 12],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "Moon"}
+          ],
+          "satelliteTypes" : []
+        },
+        {
+          "regionName" : "Gate",
+          "orbitRange" : [13, 13],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "AncientGateway"}
+          ],
+          "satelliteTypes" : []
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/systemTypes/redsun1",
+    "value" : {
+      "selectionWeight" : 0.9,
+      "baseParameters" : {
+        "typeName" : "redsun1",
+        "image" : "/celestial/system/redsun1.png",
+        "twinkleTime" : [0.7, 1.0]
+      },
+      "variationParameters" : [
+        {
+          "magnitude" : 3,
+          "description" : "Small Red Star",
+          "imageScale" : 0.025,
+          "twinkleFrames" : "/celestial/stars/star7pxRed.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star7px.png",
+          "brightness" : [1, 1]
+        },      
+        {
+          "magnitude" : 6,
+          "description" : "Medium Red Star",
+          "imageScale" : 0.055,
+          "twinkleFrames" : "/celestial/stars/star13pxRed.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star13px.png",
+          "brightness" : [1, 1]
+        },
+        {
+          "magnitude" : 8,
+          "description" : "Large Red Star",
+          "imageScale" : 0.085,
+          "twinkleFrames" : "/celestial/stars/star17pxRed.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star17px.png",
+          "brightness" : [1, 1]
+        }
+      ],
+      "orbitRegions" : [
+        {
+          "regionName" : "Scorching",
+          "orbitRange" : [2, 3],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.8, "item" : "scorchingWorlds"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.6, "item" : "scorchingMoons"},
+            {"weight" : 0.05, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Hot",
+          "orbitRange" : [4, 4],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.8, "item" : "hotWorlds"},
+            {"weight" : 0.12, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.6, "item" : "hotMoons"}
+          ]
+        },
+        {
+          "regionName" : "Warm",
+          "orbitRange" : [5, 6],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.8, "item" : "warmWorlds"},
+            {"weight" : 0.12, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.6, "item" : "warmMoons"}
+          ]
+        },
+        {
+          "regionName" : "Habitable",
+          "orbitRange" : [7, 8],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.3, "item" : "habitableWorlds"},
+            {"weight" : 0.3, "item" : "habitableWorlds"},
+            {"weight" : 0.1, "item" : "habitableWorlds"},
+            {"weight" : 0.12, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "habitableMoons"},
+            {"weight" : 0.05, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Cold",
+          "orbitRange" : [9, 11],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "coldWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "coldMoons"},
+            {"weight" : 0.12, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Moon",
+          "orbitRange" : [11, 11],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "Moon"}
+          ],
+          "satelliteTypes" : []
+        },
+        {
+          "regionName" : "Gate",
+          "orbitRange" : [12, 12],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "AncientGateway"}
+          ],
+          "satelliteTypes" : []
+        }
+      ]
+    }
+},
+
+
+{
+    "op" : "add",
+    "path" : "/systemTypes/blacksun1",
+    "value" : {
+      "selectionWeight" : 0.6,
+      "baseParameters" : {
+        "typeName" : "blacksun1",
+        "image" : "/celestial/system/blacksun1.png",
+        "twinkleTime" : [0.2, 0.5]
+      },
+      "variationParameters" : [
+        {
+          "magnitude" : 3,
+          "description" : "Small Black Star",
+          "imageScale" : 0.04,
+          "twinkleFrames" : "/celestial/stars/star7pxblack.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star7px.png",
+          "brightness" : [0.5, 0.5]
+        },
+        {
+          "magnitude" : 4,
+          "description" : "Medium Black Star",
+          "imageScale" : 0.055,
+          "twinkleFrames" : "/celestial/stars/star13pxblack.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star13px.png",
+          "brightness" : [0.5, 0.5]
+        },
+        {
+          "magnitude" : 5,
+          "description" : "Large Black Star",
+          "imageScale" : 0.075,
+          "twinkleFrames" : "/celestial/stars/star17pxblack.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star17px.png",
+          "brightness" : [0.5, 0.5]
+        }
+      ],
+      "orbitRegions" : [
+        {
+          "regionName" : "Cold",
+          "orbitRange" : [4, 10],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "lightlessWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "lightlessMoons"},
+            {"weight" : 0.5, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Moon",
+          "orbitRange" : [11, 11],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "Moon"}
+          ],
+          "satelliteTypes" : []
+        },
+        {
+          "regionName" : "Gate",
+          "orbitRange" : [12, 12],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "AncientGateway"}
+          ],
+          "satelliteTypes" : []
+        }
+      ]
+    }
+},
+
+
+
+
+{
+    "op" : "add",
+    "path" : "/systemTypes/binary1",
+    "value" : {
+      "selectionWeight" : 0.75,
+      "baseParameters" : {
+        "typeName" : "binary1",
+        "image" : "/celestial/system/binary1.png",
+        "twinkleTime" : [1.0, 1.5]
+      },
+      "variationParameters" : [
+        {
+          "magnitude" : 5,
+          "description" : "Large Binary Star",
+          "imageScale" : 0.085,
+          "twinkleFrames" : "/celestial/stars/star7pxYellow.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star7px.png",
+          "brightness" : [1, 1]
+        }
+      ],
+      "orbitRegions" : [
+        {
+          "regionName" : "Hot",
+          "orbitRange" : [4, 5],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "hotWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "hotMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Warm",
+          "orbitRange" : [6, 6],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "warmWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "warmMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Habitable",
+          "orbitRange" : [7, 8],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "habitableWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Cool",
+          "orbitRange" : [9, 10],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "coolWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "coolMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Cold",
+          "orbitRange" : [9, 10],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "coldWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "coldMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Moon",
+          "orbitRange" : [11, 11],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "Moon"}
+          ],
+          "satelliteTypes" : []
+        },
+        {
+          "regionName" : "Gate",
+          "orbitRange" : [12, 12],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "AncientGateway"}
+          ],
+          "satelliteTypes" : []
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/systemTypes/dying1",
+    "value" : {
+      "selectionWeight" : 0.5,
+      "baseParameters" : {
+        "typeName" : "dying1",
+        "image" : "/celestial/system/dyingstar1.png",
+        "twinkleTime" : [1.0, 1.5]
+      },
+      "variationParameters" : [
+        {
+          "magnitude" : 5,
+          "description" : "Large Dying Star",
+          "imageScale" : 0.095,
+          "twinkleFrames" : "/celestial/stars/star7pxgreen.png",
+          "twinkleBackground" : "/celestial/stars/backgrounds/star7px.png",
+          "brightness" : [1, 1]
+        }
+      ],
+      "orbitRegions" : [
+        {
+          "regionName" : "Scorched",
+          "orbitRange" : [4, 5],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "scorchedWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "scorchedMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Hot",
+          "orbitRange" : [7, 8],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "hotWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "mutatedMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Warm",
+          "orbitRange" : [9, 9],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "mutatedWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "habitableMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Habitable",
+          "orbitRange" : [10, 10],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "mutatedWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "mutatedMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Cold",
+          "orbitRange" : [11, 11],
+          "bodyProbability" : 0.7,
+          "planetaryTypes" : [
+            {"weight" : 0.5, "item" : "coldWorlds"},
+            {"weight" : 0.5, "item" : "GasGiant"},
+            {"weight" : 0.04, "item" : "AsteroidField"}
+          ],
+          "satelliteTypes" : [
+            {"weight" : 0.5, "item" : "coldMoons"},
+            {"weight" : 0.1, "item" : "Moon"}
+          ]
+        },
+        {
+          "regionName" : "Moon",
+          "orbitRange" : [12, 12],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "Moon"}
+          ],
+          "satelliteTypes" : []
+        },
+        {
+          "regionName" : "Gate",
+          "orbitRange" : [13, 13],
+          "bodyProbability" : 1.0,
+          "planetaryTypes" : [
+            {"weight" : 1.0, "item" : "AncientGateway"}
+          ],
+          "satelliteTypes" : []
+        }
+      ]
+    }
+},
+
+// FU Orbits 
+
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/scorchedWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Scorched Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "infernus", "magma", "volcanic", "sulphuric", "scorched" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/hotWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Hot Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "barren", "infernus", "magma", "volcanic", "sulphuric", "desert", "ocean", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/warmWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Warm Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "barren", "irradiated", "volcanic", "arboreal", "atropus", "desert", "protoworld", "alien", "ocean", "toxic", "bloodstone", "slimeworld", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/habitableWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Habitable Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "urbanwasteland", "ocean",  "barren", "desert", "atropus", "garden", "forest", "savannah", "jungle", "alien", "toxic", "bog", "arboreal", "bloodstone", "irradiated", "protoworld", "penumbra", "slimeworld", "thickjungle", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/coolWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Cool Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "urbanwasteland", "ocean", "tundra", "barren", "bog", "garden", "forest",  "alien", "toxic", "arboreal", "irradiated", "penumbra", "snow", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/coldWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Cold Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "snow", "tundra", "ocean", "nitrogensea", "icewaste", "arctic" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/frozenWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 6,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Frozen Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "arctic", "nitrogensea", "snow", "icewaste" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/mutatedWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 3,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Mutated Planets",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "irradiated", "penumbra", "protoworld", "atropus", "alien", "urbanwasteland", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.15,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        }
+      ]
+    }
+},
+
+// FU moons
+
+
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/scorchedMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Scorched Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "infernus", "magma", "volcanic", "sulphuric", "scorched" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/hotMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Hot Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "moon", "barren", "infernus", "magma", "volcanic", "sulphuric", "desert", "ocean" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/warmMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Warm Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "moon", "barren", "irradiated", "volcanic", "arboreal", "atropus", "desert", "protoworld", "alien", "ocean", "toxic", "bloodstone", "slimeworld" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/habitableMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Habitable Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "moon", "urbanwasteland", "ocean",  "metallicmoon", "desert", "atropus", "garden", "forest", "savannah", "jungle", "alien", "toxic", "bog", "arboreal", "bloodstone", "irradiated", "protoworld", "penumbra", "slimeworld", "thickjungle" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/coolMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Cool Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "crystalmoon", "urbanwasteland", "ocean", "tundra", "barren", "bog", "garden", "forest",  "metallicmoon", "toxic", "arboreal", "irradiated", "penumbra", "snow", "moon" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/coldMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Cold Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "crystalmoon", "moon", "garden", "forest", "arboreal", "snow", "tundra", "ocean", "nitrogensea", "icewaste", "icemoon" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/frozenMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Frozen Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "crystalmoon", "moon", "arctic", "nitrogensea", "snow", "icewaste", "icemoon" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+
+{
+    "op" : "add",
+    "path" : "/planetaryTypes/lightlessWorlds",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Lightless Worlds",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "penumbra", "lightless", "icemoon", "metallicmoon", "snow", "icemoon", "tundra", "icewaste", "arctic", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.1,
+          "smallImageScale" : 0.4,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.5,
+          "worldSize" : "medium"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/lightlessMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Lightless Worlds",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "crystalmoon", "penumbra", "lightless", "icemoon", "metallicmoon", "snow", "icemoon", "tundra", "icewaste", "arctic", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
+},
+{
+    "op" : "add",
+    "path" : "/satelliteTypes/mutatedMoons",
+    "value" : {
+      "satelliteProbability" : 0.15,
+      "maxSatelliteCount" : 1,
+
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Mutated Moons",
+        "smallImage" : "/celestial/system/planet_small.png",
+        "shadowNumber" : [1, 9],
+
+        "liquidImages" : "/celestial/system/terrestrial/liquids/<liquid>.png",
+        "shadowImages" : "/celestial/system/terrestrial/shadows/<num>.png",
+        "biomeMaskImages" : "/celestial/system/terrestrial/biomes/<biome>/maskie<num>.png",
+        "biomeMasks" : 3,
+        "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
+        "dynamicsRange" : [1, 40],
+
+        "terrestrialType" : [ "frozenvolcanic", "crystalmoon", "irradiated", "penumbra", "protoworld", "atropus", "alien", "urbanwasteland", "ffunknown" ]
+      },
+
+      "variationParameters" : [
+        {
+          "imageScale" : 0.075,
+          "worldSize" : "medium"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+        }
+      ]
+    }
 }
+
 
 ]
 

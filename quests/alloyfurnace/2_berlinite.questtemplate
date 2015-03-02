@@ -1,0 +1,14 @@
+  {
+  "id" : "2_berlinite.gearup",
+  "title" : "^orange;Burnt Smell",
+  "text" : "First we'll need to get some phosphorus. It's really quite simple to do! Just throw some berlinite into your furnace until it smelts. It's a relatively common ore.",
+  "completionText" : "You see? You could have done that while sleeping. However, I do not recommend that. We lost a Ponex assistant that way. He was tasty, though. Horse meat is tender.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "phosphorus", 1], "consume" : false }
+  ],
+  "moneyRange" : [100,200],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "followUp" : "3_lazulite.gearup"
+}
