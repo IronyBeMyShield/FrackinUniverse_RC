@@ -4,7 +4,7 @@
   "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "Built to incinerate..",
+  "description" : "Built to incinerate.",
   "shortdescription" : "Hellfire Cannon",
   "image" : "hellfirecannon.png",
   "handPosition" : [-7, -1],

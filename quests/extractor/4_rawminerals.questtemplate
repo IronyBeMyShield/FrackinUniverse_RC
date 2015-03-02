@@ -1,0 +1,17 @@
+  {
+  "id" : "4_rawminerals.gearup",
+  "title" : "^orange;Raw Minerals",
+  "text" : "Most often, cobblestone is your best and simplest bet for Raw Minerals. Go 50 and extract it.",
+  "completionText" : "Excellent. Just a couple more basic resources to go, now.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "rawminerals", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "5_geneticmaterial.gearup"
+}
+ 

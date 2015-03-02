@@ -4,7 +4,8 @@
     { "item" : "magnesiumsulfate", "count" : 5 },
     { "item" : "sulphur", "count" : 5 },
     { "item" : "phosphorus", "count" : 4 },
-    { "item" : "synthesizedprotein", "count" : 2 }
+    { "item" : "synthesizedprotein", "count" : 2 },
+	{ "item" : "mineralsample", "count" : 4 }
   ],
   "output" : {
     "item" : "ff_fertilizer2",

@@ -1,0 +1,17 @@
+  {
+  "id" : "1_matterassembler.gearup",
+  "prerequisites" : [ "fu_intro4.gearup" ],
+  "title" : "^#1693d5;Connected to Science",
+  "text" : "Hi. I'm glad to meet you. I'm the engineer of the outpost. I personnaly invented all the laboratory stations you will be using. I will teach you to use your Matter Assembler, but first, take this communicator and go say hi to my Hylotl colleague.",
+  "completionText" : "Nice to meet you! Please take this blueprint. I'll use your communicator to follow your progress.",
+  "conditions" : [],
+  "moneyRange" : [0,0],
+  "rewards" : [ 
+    [ [ "extractionlab-recipe", 1 ] ]
+    ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : true,
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

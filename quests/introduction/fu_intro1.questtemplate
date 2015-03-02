@@ -1,0 +1,16 @@
+  {
+  "id" : "fu_intro1.gearup",
+  "prerequisites" : [ "ftlrepairmain.gearup" ],
+  "title" : "^orange;Going Ape for Science",
+  "text" : "Can I borrow some^orange; glass^white; ? I could use some for lab materials.",
+  "completionText" : "Aah, thanks! For your kindness, I may have something for you...",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "glassmaterial", 1], "consume" : true }
+  ],
+  "moneyRange" : [300, 400],
+  "rewards" : [ ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "fu_intro1a.gearup",
+  "requireTurnIn" : true
+}

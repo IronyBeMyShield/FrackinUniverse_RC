@@ -3,8 +3,8 @@ function init()
   animator.setParticleEmitterActive("flames", true)
   effect.setParentDirectives("fade=FF8800=0.2")
   script.setUpdateDelta(5)
-  self.tickDamagePercentage = 0.005
-  self.tickTime = 1.0
+  self.tickDamagePercentage = 0.01
+  self.tickTime = 0.8
   self.tickTimer = self.tickTime
 
 end
@@ -23,7 +23,7 @@ function update(dt)
     self.tickTimer = self.tickTime
     status.applySelfDamageRequest({
         damageType = "IgnoresDef",
-        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 0.5,
+        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 1,
         damageSourceKind = "hellfireweapon",
         sourceEntityId = entity.id()
       })

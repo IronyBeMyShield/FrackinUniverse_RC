@@ -1,0 +1,15 @@
+  {
+  "id" : "1b_matterassembler.gearup",
+  "prerequisites" : [ "1a_matterassembler.gearup" ],
+  "title" : "^#1693d5;Up and down",
+  "text" : "While I specialize in fine extraction of chemical elements, sometimes you have to use brute force and high heat. This is the domain of our avian scientist. Climb to the top of the tower, if you dare!",
+  "completionText" : "Welcome! So I have to teach you how to smelt? It's a loss of time, but if I must...",
+  "conditions" : [],
+  "moneyRange" : [0,0],
+  "rewards" : [ ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : true,
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

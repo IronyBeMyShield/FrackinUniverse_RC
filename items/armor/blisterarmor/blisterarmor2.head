@@ -17,6 +17,10 @@
       "stat" : "protection",
       "amount" : 27
     },
+    {
+      "stat" : "biomeradiationImmunity",
+      "amount" : 1
+    },
     "glow"
   ]
 

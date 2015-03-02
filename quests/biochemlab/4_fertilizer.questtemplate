@@ -1,0 +1,17 @@
+  {
+  "id" : "4_fertilizer.gearup",
+  "title" : "^orange;Fertilizer",
+  "text" : "You can't accomplish much without ^orange;Fertilizer^white;. Always have some on hand. You'll need Ammonium sulphate, Sulphur and Methanol to make it.",
+  "completionText" : "Good. Now let's make a more complex product.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "ff_fertilizer", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "5_pesticide.gearup"
+}
+ 

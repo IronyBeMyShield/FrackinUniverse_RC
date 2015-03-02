@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "pew! pew! Space warrior!",
+  "rarity" : "rare",
+  "description" : "High energy regen",
   "shortdescription" : "Explorer Chestpiece",
   "tooltipKind" : "armor",
 
@@ -28,6 +28,10 @@
     {
       "stat" : "maxHealth",
       "amount" : 82
+    },
+    {
+      "stat" : "energyRegen",
+      "amount" : 0.25
     }
   ]
 }

@@ -6,9 +6,9 @@
   "description" : "Radiation-proof herb.",
   "shortdescription" : "Mint Herb",
   "effects" : [ [
-      {
-        "effect" : "radioactiveImmunity",
-        "duration" : 20
-      }
-    ] ]
+   "radiationimmunity"
+    ] ],
+  "blockingEffects" : [
+    "radiationimmunity"
+  ]
 }

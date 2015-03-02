@@ -1,10 +1,9 @@
 {
   "input" : [
-    { "item" : "slime", "count" : 50 },
-    { "item" : "ff_plastic", "count" : 10 },    
-    { "item" : "protocitebar", "count" : 8 },
-    { "item" : "penumbriteshard", "count" : 8 },
-    { "item" : "biochip", "count" : 10 }
+    { "item" : "ff_plastic", "count" : 6 },    
+    { "item" : "greenslime", "count" : 12 },
+    { "item" : "gunhousing", "count" : 2 },
+    { "item" : "triggerassembly", "count" : 1 }
   ],
   "output" : {
     "item" : "slimelauncher",

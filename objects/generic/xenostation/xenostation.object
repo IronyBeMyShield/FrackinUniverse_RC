@@ -12,7 +12,7 @@
   "race" : "generic",
   "category" : "crafting",
   "price" : 450,
-  "learnBlueprintsOnPickup" : [ "designlab", "clonelab", "genecabinet", "genestorage", "adaptivecells", "aggressiongene", "cellhardening1", "aquaticcelerity", "aquatichomeostasis", "chloroplast1", "cellresistance1", "immunegene1", "musclegene1", "nervebundle1", "luminescentcells", "regengene1", "organicsynthesis", "defensegene1", "oculargene", "celeritygene" ],
+  "learnBlueprintsOnPickup" : [ "adaptivecells", "aggressiongene", "cellhardening1", "aquaticcelerity", "aquatichomeostasis", "chloroplast1", "cellresistance1", "immunegene1", "musclegene1", "nervebundle1", "luminescentcells", "regengene1", "organicsynthesis", "defensegene1", "oculargene", "celeritygene" ],
   
   "apexDescription" : "A Xeno Research Lab.",
   "avianDescription" : "A Xeno Research Lab.",

@@ -1,0 +1,14 @@
+  {
+  "id" : "8_tobiochem.gearup",
+  "title" : "^orange;Apex of Chemistry",
+  "text" : "I'll ask you to come back to our Outpost. I want you to to meet our chemist. He's a nice Apex. Bring him a banana. No, just kidding.",
+  "completionText" : "So, are you ready to work on the REAL stuff? I'm talking of complex chemistry. You'll need a chemlab. Take this blueprint. And come back to me when you have completed most of the tasks from my Novakid, Hylotl and Avian colleagues.",
+  "conditions" : [],
+  "moneyRange" : [ 0,0 ],
+  "rewards" : [ [ "chemlab-recipe"] ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : true,
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

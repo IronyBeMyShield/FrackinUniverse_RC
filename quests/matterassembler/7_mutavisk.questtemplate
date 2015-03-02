@@ -1,0 +1,16 @@
+  {
+  "id" : "7_mutavisk.gearup",
+  "title" : "^orange;Armor: Mutavisk",
+  "text" : "Now it's time for you to do more work. Build a ^orange;Mutavisk Mask^white; in the assembler. You'll need to collect the resources to create it, though!",
+  "completionText" : "These are handy for survival in dangerous irradiated environments.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "mutaviskmask", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "8_blistergun.gearup"
+}

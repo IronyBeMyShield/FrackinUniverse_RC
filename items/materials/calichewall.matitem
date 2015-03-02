@@ -5,6 +5,7 @@
   "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
   "shortdescription" : "Caliche Stone",
   "description" : "Rich in saltpeter.",
+  "learnBlueprintsOnPickup" : [ "saltpeter" ],
 
   "materialId" : 6572
 }

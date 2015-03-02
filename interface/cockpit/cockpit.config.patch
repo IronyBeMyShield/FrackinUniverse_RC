@@ -1,4 +1,56 @@
 [
+  {
+    "op" : "add",
+    "path" : "/starmapTypeColor/bluesun1",
+    "value" : [55, 55, 190, 255]
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeDescription/bluesun1",
+    "value" : "Blue Star"
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeColor/blacksun1",
+    "value" : [80, 80, 80, 255]
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeDescription/blacksun1",
+    "value" : "Black Star"
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeColor/binary1",
+    "value" : [200, 200, 80, 255]
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeDescription/binary1",
+    "value" : "Binary Star"
+  },  
+  {
+    "op" : "add",
+    "path" : "/starmapTypeColor/dying1",
+    "value" : [35, 225, 60, 255]
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeDescription/dying1",
+    "value" : "Dying Star"
+  }, 
+  {
+    "op" : "add",
+    "path" : "/starmapTypeColor/redsun1",
+    "value" : [225, 0, 0, 255]
+  },
+  {
+    "op" : "add",
+    "path" : "/starmapTypeDescription/redsun1",
+    "value" : "Red Star"
+  }, 
+{"op":"add","path":"/planetTypeToDescription/frozenvolcanic",
+"value":"^#1693d5;Frozen Volcanic^white; worlds are a perfect balance of heat and cold. Their existence should be impossible."},
 {"op":"add","path":"/planetTypeToDescription/ffunknown",
 "value":"^#e43774;Unknown^white; interference prevents scanning of the planet surface. Proceed carefully."},
 {"op":"add","path":"/planetTypeToDescription/arboreal",

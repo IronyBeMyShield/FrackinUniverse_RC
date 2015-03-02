@@ -3,5 +3,6 @@
   "rarity" : "Common",
   "inventoryIcon" : "mascagniteore.png",
   "description" : "a source of ammonium sulfate",
-  "shortdescription" : "Mascagnite"
+  "shortdescription" : "Mascagnite",
+  "learnBlueprintsOnPickup" : [ "ammoniumsulfate" ]
 }

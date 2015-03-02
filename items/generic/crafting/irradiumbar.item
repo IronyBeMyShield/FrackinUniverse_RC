@@ -4,5 +4,5 @@
   "inventoryIcon" : "irradiumbar.png",
   "description" : "Compressed, purified irradium.",
   "shortdescription" : "Irradium Bar",
-      "learnBlueprintsOnPickup" : [ "irradiumrifle", "irradiumhelm", "irradiumchest", "irradiumlegs" ]
+      "learnBlueprintsOnPickup" : [ "sciencefuhead", "sciencefulegs", "sciencefuchest",  "irradiumrifle", "irradiumhelm", "irradiumchest", "irradiumlegs" ]
 }

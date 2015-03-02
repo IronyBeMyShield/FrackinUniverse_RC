@@ -1,0 +1,17 @@
+  {
+  "id" : "4_miraclegrass.gearup",
+  "title" : "^orange;Miracle grasss",
+  "text" : "Now you makesss the miracle grasss. Craft sssome genes: ^orange;regeneration I^white;, ^orange;aquatic celerity^white; and insert them into sssome ^orange;plant fibre^white; in the ^orange;Design Lab^white;.",
+  "completionText" : "Thisss plant heals your body, so ssstab it too.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "miraclegrassseed", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "5_oonforta.gearup"
+}
+ 

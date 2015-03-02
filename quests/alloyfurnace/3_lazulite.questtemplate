@@ -1,0 +1,14 @@
+  {
+  "id" : "3_lazulite.gearup",
+  "title" : "^orange;Smelting Lazulite",
+  "text" : "Now for another simple task. This time smelt lazulite. It is also common, so I'm sure you already have some.",
+  "completionText" : "This magnesium powder will be useful. If needed, you can also smelt magnesium ore for it.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "magnesiumpowder", 1], "consume" : false }
+  ],
+  "moneyRange" : [120,220],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "followUp" : "4_caliche.gearup"
+}

@@ -1,0 +1,16 @@
+  {
+  "id" : "3_tissueculture.gearup",
+  "title" : "^orangeTissue Culture",
+  "text" : "Now we need Tissue Cultures. These often come from organic sources like vines or cheese. Get some and come back.",
+  "completionText" : "Now you move on to a more dense material.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "tissueculture", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "4_rawminerals.gearup"
+}

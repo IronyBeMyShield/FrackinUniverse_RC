@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "vialproto", "count" : 25 },
+    { "item" : "greenslime", "count" : 20 },
+    { "item" : "imperviumcompound", "count" : 7 },
+    { "item" : "ff_plastic", "count" : 20 },
+    { "item" : "gunhousing", "count" : 2 },
+    { "item" : "triggerassembly", "count" : 1 },
+    { "item" : "prisilitestar", "count" : 2 },
+    { "item" : "focusingarray", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "eldercarbine",
+    "count" : 1
+  },
+  "groups" : [ "prototyper", "weapons", "all" ]
+}

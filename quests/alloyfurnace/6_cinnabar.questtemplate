@@ -1,0 +1,13 @@
+  {
+  "id" : "6_cinnabar.gearup",
+  "title" : "^orange;Mercury",
+  "text" : "I like this one. You'll need cinnabar, an interesting ore that you can smelt to get some mercury. Getting it, on the other hand, is difficult. It appears on only a few types of worlds. Try an infernus world, or perhaps a sulphuric one. Good luck.",
+  "completionText" : "You made it, and you didn't die. I'm done with you. There are other recipes but I'm sure you'll find them on your own.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "ff_mercury", 1], "consume" : false }
+  ],
+  "moneyRange" : [300,500],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false
+}

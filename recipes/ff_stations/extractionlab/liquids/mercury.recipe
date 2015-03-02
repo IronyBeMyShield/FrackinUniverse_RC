@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "liquidmercury", "count" : 12 }
+  ],
+  "output" : {
+    "item" : "ff_mercury",
+    "count" : 1
+  },
+  "groups" : [ "extractionlab", "all" ]
+}

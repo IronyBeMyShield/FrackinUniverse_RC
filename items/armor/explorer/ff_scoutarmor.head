@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "Prevents death by headshot.",
+  "rarity" : "rare",
+  "description" : "High energy regen",
   "shortdescription" : "Explorer Helm",
   "tooltipKind" : "armor",
 
@@ -20,6 +20,10 @@
     {
       "stat" : "maxEnergy",
       "amount" : 70
+    },
+    {
+      "stat" : "energyRegen",
+      "amount" : 0.25
     }
   ]
 }

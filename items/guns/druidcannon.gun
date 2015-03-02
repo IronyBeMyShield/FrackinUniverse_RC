@@ -11,15 +11,15 @@
   "firePosition" : [16, 0],
   "weaponType" : "Bio-Weapon",
   "recoilTime" : 0.1,
-  "level" : 3,
+  "level" : 2,
   "tooltipKind" : "gun",
-  "fireTime" : 0.26,
+  "fireTime" : 0.1,
   "twoHanded" : true,  
   "walkWhileFiring" : false,
   "spread" : 1,
   
-  "projectileType" : "ffpetal",
-  "projectile" : { "speed" : 25, "power" : 2.7 , "color" : [0, 0, 0] },
+  "projectileType" : "doublethorns",
+  "projectile" : { "speed" : 35, "power" : 1.7 , "color" : [0, 0, 0] },
   "muzzleEffect" : {
        "fireSound" : [ { "file" : "/sfx/projectiles/thorn.wav" } ],
        "animation" :  "/animations/muzzleflash/smokemuzzle/smokemuzzle.animation"

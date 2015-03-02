@@ -1,0 +1,18 @@
+  {
+  "id" : "4_microscope.gearup",
+  "title" : "^orange;Microscope",
+  "text" : "You will need to investigate things up very, very close. What's better for that than a ^orange;microscope^white;? Build one now at the Matter Assembler.",
+  "completionText" : "That's...actually really quite an amazing quality piece right there. Let's move on to plastic.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "microscope", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [ 
+     [ [ "silk", 5 ] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "5_plastic.gearup"
+}

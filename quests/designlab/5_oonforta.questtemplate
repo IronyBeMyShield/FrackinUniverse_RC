@@ -1,0 +1,16 @@
+  {
+  "id" : "5_oonforta.gearup",
+  "title" : "^orange;Oonforta",
+  "text" : "^orange;Oonforta^white; isss beautiful. Glowsss in the dark. Insert ^orange;luminescent cells^white; and ^orange;chloroplast I^white; genes into some ^orange;nutrient paste^white;.",
+  "completionText" : "Thisss plant is useful. You can craft pretty glowy things with it. Ssstab it too.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "oonfortaseed", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "6_thornitox.gearup"
+}

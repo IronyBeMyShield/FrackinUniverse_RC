@@ -4,7 +4,8 @@
     { "item" : "defensegene1", "count" : 1 },
     { "item" : "ammoniumsulfate", "count" : 18 },
     { "item" : "ff_fertilizer2", "count" : 1 },
-	{ "item" : "liquidsulphuricacid", "count" : 2 }
+	{ "item" : "liquidsulphuricacid", "count" : 2 },
+	{ "item" : "mineralsample", "count" : 4 }
   ],
   "output" : {
     "item" : "defensegene2",

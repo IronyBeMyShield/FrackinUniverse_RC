@@ -30,7 +30,7 @@
     },
     {
       "kind" : "junglefront",
-      "offset" : [0, 220],
+      "offset" : [0, 300],
       "parallax" : 2,
       "nightCorrelation" : 0,
       "minSpeed" : 0,

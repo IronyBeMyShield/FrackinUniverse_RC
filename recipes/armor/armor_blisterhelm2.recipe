@@ -3,7 +3,7 @@
     { "item" : "blisterextract", "count" : 8 },
     { "item" : "ff_penumbraplating", "count" : 2 },
     { "item" : "ff_silicon", "count" : 12 },
-    { "item" : "rebreather", "count" : 2 },
+    { "item" : "triangliumore", "count" : 2 },
     { "item" : "biochip", "count" : 15 }
   ],
   "output" : {

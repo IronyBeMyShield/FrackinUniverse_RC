@@ -3,8 +3,8 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "Prevents death by headshot.",
+  "rarity" : "rare",
+  "description" : "Deadly strikes",
   "shortdescription" : "Warrior Helm",
   "tooltipKind" : "armor",
 
@@ -18,17 +18,12 @@
       "amount" : 19
     },
     {
-      "stat" : "maxHealth",
-      "amount" : 100
-    },
-    "ffextremecoldimmunityicon",
-    {
-      "stat" : "ffextremecoldImmunity",
-      "amount" : 1.0
+      "stat" : "powerboost",
+      "amount" : 0.15
     },
     {
-      "stat" : "biomecoldImmunity",
-      "amount" : 1.0
+      "stat" : "rage",
+      "amount" : 0.10
     }
   ]
 }

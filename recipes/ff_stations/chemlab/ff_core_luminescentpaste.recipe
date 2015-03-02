@@ -4,7 +4,8 @@
     { "item" : "biospore", "count" : 8 },
     { "item" : "advancedpeptide", "count" : 1 },
     { "item" : "methanol", "count" : 5 },
-	{ "item" : "dnasample", "count" : 3 }
+	{ "item" : "dnasample", "count" : 3 },
+	{ "item" : "mineralsample", "count" : 2 }
   ],
   "output" : {
     "item" : "luminescentpaste",

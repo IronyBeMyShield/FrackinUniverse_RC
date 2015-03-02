@@ -1,0 +1,17 @@
+  {
+  "id" : "6_peptidechain.gearup",
+  "title" : "^orange;Peptide chain",
+  "text" : "^orange;Peptide chains^white; are an essential brick of life. Craft one, and it's like crafting Life itself.",
+  "completionText" : "We're almost done. Just one more step to self-sufficiency.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "peptidechain", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "7_synthprotein.gearup"
+}
+ 

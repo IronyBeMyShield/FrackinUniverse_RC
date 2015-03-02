@@ -198,5 +198,29 @@
         "bottomLightMix" : [102, 179, 244],
         "textureMovementFactor" : 2.6        
 	}
+    },
+    { "op" : "add", 
+    "path" : "/liquids/48", 
+	"value" : { 
+	"name" : "mercuryliquid",
+	"tickDelta" : 1,
+	"color" : [100, 100, 100, 220],
+	"radiantLight" : [12, 1, 1],
+        "statusEffects" : [ "biomeradiation" ],
+        "itemDrop" : "liquidmercury",
+        "interactions" : [
+          {
+            "liquid" : 3,
+            "liquidResult" : 48
+          },
+          {
+            "liquid" : 8,
+            "liquidResult" : 0
+          }
+        ],
+        "texture" : "/liquids/watertex.png",
+        "bottomLightMix" : [160, 25, 25],
+        "textureMovementFactor" : 1.6        
+	}
     }
 ]

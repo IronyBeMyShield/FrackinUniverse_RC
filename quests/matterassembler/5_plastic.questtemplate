@@ -1,0 +1,18 @@
+  {
+  "id" : "5_plastic.gearup",
+  "title" : "^orange;The miracle of Plastic",
+  "text" : "Normal plastic is too flimsy. Let's beef it up and create some ^orange;advanced plastic^white;. You'll need Bracken Trees to get the silk required, though.",
+  "completionText" : "This durable super-plastic will prove quite useful in a lot of recipes.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "ff_plastic", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [ 
+    [ [ "ff_plastic", 4 ] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "6_biochipbase.gearup"
+}

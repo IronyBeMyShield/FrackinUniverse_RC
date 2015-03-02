@@ -1,0 +1,17 @@
+  {
+  "id" : "6_biochipbase.gearup",
+  "title" : "^orange;Bio-Chips: Power at your fingertips",
+  "text" : "Biochips lets you connect living matter to a circuit. But in order to create them, you need a ^orange;biochip base^white;. Build some at the Matter Assembler.",
+  "completionText" : "These are absolutely essential to higher-end biomechanical devices and plants.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "biochipbase", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "7_mutavisk.gearup"
+}
+ 

@@ -1,0 +1,17 @@
+  {
+  "id" : "1_xenolab.gearup",
+  "title" : "^orange;Xeno Lab",
+  "prerequisites" : [ "8_toxenolab.gearup" ],
+  "text" : "Statement. You need a ^orange;Xeno Research Lab^white;. You'll conduct your research there in order to create new forms of plant life.",
+  "completionText" : "Emphasis. Congratulations.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "xenostation", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "2_chloroplast1.gearup"
+}

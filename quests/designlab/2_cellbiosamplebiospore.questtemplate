@@ -1,0 +1,18 @@
+  {
+  "id" : "2_cellbiosamplebiospore.gearup",
+  "title" : "^orange;Hunt for ssstuff",
+  "text" : "Now the bessst part. You hunt for ssstuff. Ssstab things on planets and gather ^orange;cell materials^white;, ^orange;bio sssamples^white; and ^orange;bio ssspores^white;. Take nine of each. You'll need them.",
+  "completionText" : "Good. You need that ssstuff to create genessss.",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "biosample", 9], "consume" : false },
+    { "kind" : "gather", "item" : [ "cellmaterial", 9], "consume" : false },
+    { "kind" : "gather", "item" : [ "biospore", 9], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "3_bracken.gearup"
+}

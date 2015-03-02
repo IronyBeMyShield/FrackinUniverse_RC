@@ -76,25 +76,25 @@
 		{
 			"value" : [153, 217, 234, 255],
 			"comment" : "background crystalblock",
-			"brush" : [ [ "clear" ], [ "back", "crystalblock" ] ]
+			"brush" : [ [ "clear" ], [ "back", "iceblock1" ] ]
 		},
 
 		{
 			"value" : [0, 162, 232, 255],
 			"comment" : "foreground crystalblock",
-			"brush" : [ [ "clear" ], [ "back", "crystalblock" ], [ "front", "crystalblock" ] ]
+			"brush" : [ [ "clear" ], [ "back", "iceblock1" ], [ "front", "iceblock1" ] ]
 		},
 		
 		{
 			"value" : [165, 126, 199, 255],
 			"comment" : "background purplecrystalmaterial",
-			"brush" : [ [ "clear" ], [ "back", "purplecrystal" ] ]
+			"brush" : [ [ "clear" ], [ "back", "iceblock2" ] ]
 		},
 
 		{
 			"value" : [100, 60, 136, 255],
 			"comment" : "foreground purplecrystalmaterial",
-			"brush" : [ [ "clear" ], [ "back", "purplecrystal" ], [ "front", "purplecrystal" ] ]
+			"brush" : [ [ "clear" ], [ "back", "iceblock2" ], [ "front", "iceblock2" ] ]
 		},
 		
 		// Flora //

@@ -1,0 +1,17 @@
+  {
+  "id" : "5_pesticide.gearup",
+  "title" : "^orange;Pest control",
+  "text" : "^orange;Pesticide^white; is a complex and toxic composite that drastically alters the way biological structures build themselves. Also good against those damned bugs.",
+  "completionText" : "Nothing like a bit of stress to build the genes right.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "pesticide", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "6_peptidechain.gearup"
+}
+ 

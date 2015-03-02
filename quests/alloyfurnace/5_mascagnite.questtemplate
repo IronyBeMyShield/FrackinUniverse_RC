@@ -1,0 +1,14 @@
+  {
+  "id" : "5_mascagnite.gearup",
+  "title" : "^orange;Keep on digging",
+  "text" : "Ammonium sulfate. You definitely need it! Just smelt some mascagnite. It's another boringly common ore, so just dig a hole and you'll find some eventually.",
+  "completionText" : "You did it. Wee. Let's do something else now.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "ammoniumsulfate", 1], "consume" : false }
+  ],
+  "moneyRange" : [120,240],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "followUp" : "6_cinnabar.gearup"
+}

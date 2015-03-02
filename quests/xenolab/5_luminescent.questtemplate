@@ -1,0 +1,17 @@
+  {
+  "id" : "5_luminescent.gearup",
+  "title" : "^orange;Luminescent gene",
+  "text" : "Excitement. Now you have to craft a very interesting gene. ^orange;Luminescent gene^white; leads to the most awesome plants.",
+  "completionText" : "Statement. These genes can be used to craft ^orange;luminescent paste^white; in the chemlab.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "luminescentcells", 1], "consume" : false }
+  ],
+  "moneyRange" : [300, 400],
+  "rewards" : [ ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "6_nervebundle1.gearup"
+}
+ 

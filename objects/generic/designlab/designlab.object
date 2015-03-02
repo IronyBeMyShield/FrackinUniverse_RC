@@ -13,7 +13,7 @@
   "category" : "crafting",
   "price" : 450,
 
-  "learnBlueprintsOnPickup" : [ "apexbrainjar", "clonelab", "samplingarray" ],
+  "learnBlueprintsOnPickup" : [ "apexbrainjar" ],
 
   "lightColor" : [60, 60, 100],
   "soundEffect" : "/sfx/objects/fridge_hum.wav",

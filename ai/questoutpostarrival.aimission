@@ -1,0 +1,20 @@
+{
+  "missionName" : "questoutpostarrival",
+  "icon" : "lunarbaseicon.png",
+  "missionWorld" : "fu_outpost1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Enter Research Lab",
+      "repeatButtonText" : "Visit Research Lab",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Scientists from around the galaxy gather here to investigate the mysterious of the Core Gene.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+	
+  }
+}

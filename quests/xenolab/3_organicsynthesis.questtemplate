@@ -1,0 +1,16 @@
+  {
+  "id" : "3_organicsynthesis.gearup",
+  "title" : "^orange;Organic synthesis",
+  "text" : "Statement. The ^orange;Organic synthesis^white; gene is a bit more complex. You will now understand why we made you learn how to craft ^orange;fertilizer^white;. You'll use it right now.",
+  "completionText" : "Enthusiastic. Excellent. Now you can start crafting plants. Informative. I have more to teach you.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "organicsynthesis", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "4_toxingene.gearup"
+}

@@ -1,0 +1,17 @@
+  {
+  "id" : "6_methanol.gearup",
+  "title" : "^orange;Methanol",
+  "text" : "Trees have many uses. Methanol is one of them, and we need it. Go get some wood and extract from it!",
+  "completionText" : "Now for something in a somewhat colder environment.",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "methanol", 1], "consume" : false }
+  ],
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "canBeAbandoned" : false,
+  "followUp" : "7_silicon.gearup"
+}
+ 

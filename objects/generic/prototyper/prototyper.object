@@ -13,7 +13,7 @@
   "race" : "generic",
   "category" : "crafting",
   "price" : 450,
-  "learnBlueprintsOnPickup" : [ "samplingarray", "extractionlab", "circuitboard", "basicminer", "biosign", "bonemealmaterial", "steelgirdirhorizontalmaterial", "steelgirdirverticalmaterial", "extractorsign", "genesign", "prototypersign", "samplersign", "xenosign", "chemlab", "gunhousing", "triggerassembly" ],
+  "learnBlueprintsOnPickup" : [ "microscope", "genecabinet", "genestorage", "biochipbase", "circuitboard", "basicminer", "bonemealmaterial", "steelgirdirhorizontalmaterial", "steelgirdirverticalmaterial", "gunhousing", "triggerassembly" ],
 
   "inventoryIcon" : "prototypericon.png",
   "orientations" : [

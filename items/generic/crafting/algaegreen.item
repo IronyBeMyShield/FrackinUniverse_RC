@@ -4,5 +4,5 @@
   "inventoryIcon" : "algaegreen.png",
   "description" : "A decent fuel source once refined.",
   "shortdescription" : "Algae",
-    "learnBlueprintsOnPickup" : [ "hellfirepistol", "biofuelcannister" ]
+    "learnBlueprintsOnPickup" : [ "biofuelcannister" ]
 }
