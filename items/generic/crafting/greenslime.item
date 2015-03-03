@@ -1,8 +1,0 @@
-{
-  "itemName" : "greenslime",
-  "rarity" : "Common",
-  "inventoryIcon" : "greenslime.png",
-  "description" : "A blob of green slime.",
-  "shortdescription" : "Slime Blob",
-  "learnBlueprintsOnPickup" : [ "ff_slimehead", "ff_slimechest", "ff_slimelegs" ]
-}

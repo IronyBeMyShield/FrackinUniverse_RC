@@ -1,9 +1,0 @@
-[
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/0/-", "value" : "StartFUQ" },
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/6/-", "value" : "StartFUQ" },
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/5/-", "value" : "StartFUQ" },
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/4/-", "value" : "StartFUQ" },
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/3/-", "value" : "StartFUQ" },
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/2/-", "value" : "StartFUQ" },
-	{ "op" : "add", "path" : "/enableCommandsAtLevel/1/-", "value" : "StartFUQ" }
-]

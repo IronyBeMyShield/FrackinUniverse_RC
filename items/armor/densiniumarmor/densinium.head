@@ -21,7 +21,7 @@
         "stat" : "protection",
         "amount" : 197
       },
-    "ffextremecoldimmunityicon",
+    "ffextremeradiationimmunityicon",
     {
       "stat" : "ffextremeradiationImmunity",
       "amount" : 1.0

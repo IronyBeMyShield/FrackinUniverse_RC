@@ -542,8 +542,7 @@
             {"weight" : 0.04, "item" : "AsteroidField"}
           ],
           "satelliteTypes" : [
-            {"weight" : 0.6, "item" : "scorchingMoons"},
-            {"weight" : 0.1, "item" : "Moon"}
+            {"weight" : 0.6, "item" : "scorchingMoons"}
           ]
         },
         {
@@ -1050,17 +1049,8 @@
           ]
         },
         {
-          "regionName" : "Moon",
-          "orbitRange" : [12, 12],
-          "bodyProbability" : 1.0,
-          "planetaryTypes" : [
-            {"weight" : 1.0, "item" : "Moon"}
-          ],
-          "satelliteTypes" : []
-        },
-        {
           "regionName" : "Gate",
-          "orbitRange" : [13, 13],
+          "orbitRange" : [12, 12],
           "bodyProbability" : 1.0,
           "planetaryTypes" : [
             {"weight" : 1.0, "item" : "AncientGateway"}
@@ -1418,7 +1408,7 @@
     "path" : "/satelliteTypes/scorchedMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1453,7 +1443,7 @@
     "path" : "/satelliteTypes/hotMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1488,7 +1478,7 @@
     "path" : "/satelliteTypes/warmMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1523,7 +1513,7 @@
     "path" : "/satelliteTypes/habitableMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1558,7 +1548,7 @@
     "path" : "/satelliteTypes/coolMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1593,7 +1583,7 @@
     "path" : "/satelliteTypes/coldMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1628,7 +1618,7 @@
     "path" : "/satelliteTypes/frozenMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1664,7 +1654,7 @@
     "path" : "/planetaryTypes/lightlessWorlds",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1701,7 +1691,7 @@
     "path" : "/satelliteTypes/lightlessMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1736,7 +1726,7 @@
     "path" : "/satelliteTypes/mutatedMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
