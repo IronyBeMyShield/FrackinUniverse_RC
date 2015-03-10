@@ -2,7 +2,7 @@
   "codexId" : "ffguide",
   "title" : "Frackin'Flora Guide",
   "codexkind" : "codex",
-  "inventoryIcon" : "aviantemplebook_01.png",
+  "inventoryIcon" : "ffbook.png",
   "itemName" : "ffguide",
   "rarity" : "common",
   "description" : "Frackin'Flora Guide",

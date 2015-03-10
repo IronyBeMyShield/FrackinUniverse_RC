@@ -1,6 +1,6 @@
   {
   "id" : "4_caliche.gearup",
-  "title" : "^orange;Time to Sweat",
+  "title" : "^#1693d5;Time to Sweat",
   "text" : "Ah, this is more interesting. You'll have to dig into the desert for this one. Gather 50 Caliche stone and smelt it. Avoid being buried in quicksand! I lost a good Mantis friend like this. If you find him while digging, please bring him back, bones and all.",
   "completionText" : "You didn't find him, right? Well, at least you have some saltpeter now.",
   "conditions" : [ 

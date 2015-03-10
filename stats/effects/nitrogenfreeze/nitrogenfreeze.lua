@@ -25,7 +25,7 @@ function update(dt)
     self.tickTimer = self.tickTime
     status.applySelfDamageRequest({
         damageType = "IgnoresDef",
-        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 1,
+        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 2,
         damageSourceKind = "nitrogenweapon",
         sourceEntityId = entity.id()
       })

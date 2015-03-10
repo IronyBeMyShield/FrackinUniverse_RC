@@ -1,12 +1,12 @@
 {
   "input" : [
-    { "item" : "ceruliumcompound", "count" : 30 },
-    { "item" : "ff_silicon", "count" : 30 },
+    { "item" : "densealloy", "count" : 20 },
+    { "item" : "advcircuit", "count" : 20 },
     { "item" : "particlecannister", "count" : 1 },
     { "item" : "extractionlab", "count" : 1 },
     { "item" : "ff_diamondplating", "count" : 6 },
     { "item" : "nuclearcore", "count" : 1 },
-    { "item" : "ff_focusingarray", "count" : 1 }
+    { "item" : "cpu", "count" : 10 }
   ],
   "output" : {
     "item" : "quantumextractor",

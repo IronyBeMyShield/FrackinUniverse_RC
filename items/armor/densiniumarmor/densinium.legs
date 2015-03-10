@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "Great protection, jump boost 25%",
+  "description" : "Great protection, jump boost 25%. Immune to sulphuric acid and cold.",
   "shortdescription" : "Densinium Greaves",
   "tooltipKind" : "armor",
 
@@ -29,7 +29,12 @@
         "stat" : "biomeheatImmunity",
         "amount" : 1.0
       },
+      {
+        "stat" : "sulphuricImmunity",
+        "amount" : 1.0
+      },
       "jumpboost25"
+      
   ],
 
   "colorOptions" : [

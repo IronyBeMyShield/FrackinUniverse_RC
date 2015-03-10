@@ -3,5 +3,6 @@
   "rarity" : "Common",
   "inventoryIcon" : "magneticshielding.png",
   "description" : "EM shielded material",
-  "shortdescription" : "Electromagnetic Shielding"
+  "shortdescription" : "Electromagnetic Shielding",
+    "learnBlueprintsOnPickup" : [ "fuexplorerchest", "fuexplorerhead", "fuexplorerlegs" ]
 }

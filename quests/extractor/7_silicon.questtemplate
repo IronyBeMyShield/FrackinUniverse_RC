@@ -1,6 +1,6 @@
   {
   "id" : "7_silicon.gearup",
-  "title" : "^orange;Silicon",
+  "title" : "^#1693d5;Silicon",
   "text" : "Silicon can be found most easily in the pure crystal stone of Crystal Moons. Travel to one, gather 50 of it's crystalline floor and extract for silicon!",
   "completionText" : "Silicon will be especially useful in technology requiring a processor and other techy bits.",
   "conditions" : [ 

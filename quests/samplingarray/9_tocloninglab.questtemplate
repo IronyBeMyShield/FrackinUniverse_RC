@@ -1,6 +1,6 @@
   {
   "id" : "9_tocloninglab.gearup",
-  "title" : "^orange;Clone yourself",
+  "title" : "^#1693d5;Clone yourself",
   "text" : "^orange;Can you come to our outpost? There is someone you'll want to meet. He's doing a very experimental research on the new lab station we created.",
   "completionText" : "Welcome! I'm glad I'm getting some help. This is a very complex domain and I'll give you the basics. Take this blueprint.",
   "conditions" : [],

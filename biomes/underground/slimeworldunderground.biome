@@ -119,7 +119,12 @@
                [0.50, "bioshroomblue4" ],
                [0.50, "bioshroomblue5" ],
                [0.50, "bioshroomblue6" ],
-               [0.50, "bioshroomblue7" ]  
+               [0.50, "bioshroomblue7" ],
+               [0.50, "blueprintblob" ],
+               [0.50, "slimeblob1" ],
+               [0.50, "slimeblob2" ],
+               [0.50, "slimeblob3" ],
+               [0.50, "slimeblob4" ]
                   ],
                   "parameters" : { "startingStage" : 2 }
                 }

@@ -1,0 +1,28 @@
+{
+  "itemName" : "ff_scoutpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "rare",
+  "description" : "High energy regen",
+  "shortdescription" : "Scout Greaves",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 23
+    },
+    {
+      "stat" : "maxEnergy",
+      "amount" : 40
+    },
+    {
+      "stat" : "energyRegen",
+      "amount" : 0.15
+    }
+  ]
+}

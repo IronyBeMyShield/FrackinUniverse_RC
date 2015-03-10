@@ -1,0 +1,16 @@
+{
+  "name" : "slimestick",
+  "blockingStat" : "slimestickImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "slimestick.lua"
+  ],
+
+  "animationConfig" : "slimestick.animation",
+
+  "label" : "Sticky Slime",
+  "icon" : "/interface/statuses/tar.png"
+}

@@ -1,6 +1,6 @@
   {
   "id" : "1_xenolab.gearup",
-  "title" : "^orange;Xeno Lab",
+  "title" : "^#1693d5;Xeno Lab",
   "prerequisites" : [ "8_toxenolab.gearup" ],
   "text" : "Statement. You need a ^orange;Xeno Research Lab^white;. You'll conduct your research there in order to create new forms of plant life.",
   "completionText" : "Emphasis. Congratulations.",

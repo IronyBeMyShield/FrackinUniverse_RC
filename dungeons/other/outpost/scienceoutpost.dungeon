@@ -1886,6 +1886,13 @@
       "brush" : [ [ "clear" ], [ "object", "arcadegame", { "direction" : "right" } ] ]
     },
 
+
+    {
+      "value" : [95, 95, 64, 255],
+      "comment" : "fu bookspawner facing left",
+      "brush" : [ [ "clear" ], [ "object", "guidestorage", { "direction" : "left" } ] ]
+    },
+    
     // NPC SPAWN BRUSHES //
 
     {

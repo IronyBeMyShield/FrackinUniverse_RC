@@ -1,6 +1,6 @@
   {
   "id" : "4_microscope.gearup",
-  "title" : "^orange;Microscope",
+  "title" : "^#1693d5;Microscope",
   "text" : "You will need to investigate things up very, very close. What's better for that than a ^orange;microscope^white;? Build one now at the Matter Assembler.",
   "completionText" : "That's...actually really quite an amazing quality piece right there. Let's move on to plastic.",
   "conditions" : [ 

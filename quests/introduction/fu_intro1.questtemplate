@@ -1,7 +1,7 @@
   {
   "id" : "fu_intro1.gearup",
   "prerequisites" : [ "ftlrepairmain.gearup" ],
-  "title" : "^orange;Going Ape for Science",
+  "title" : "^#39bc2f;Going Ape for Science",
   "text" : "Can I borrow some^orange; glass^white; ? I could use some for lab materials.",
   "completionText" : "Aah, thanks! For your kindness, I may have something for you...",
   "conditions" : [

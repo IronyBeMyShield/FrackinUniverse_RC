@@ -1,0 +1,7 @@
+{
+  "itemName" : "electromagnet",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "electromagnet.png",
+  "description" : "An advanced electromagnet.",
+  "shortdescription" : "Electromagnet"
+}

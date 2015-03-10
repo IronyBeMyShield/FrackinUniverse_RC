@@ -1,0 +1,15 @@
+{
+  "input" : [
+   { "item" : "advancealloy", "count" : 10 },
+   { "item" : "electromagnet", "count" : 8 },
+   { "item" : "triggerassembly", "count" : 1 },
+   { "item" : "gunhousing", "count" : 6 },
+   { "item" : "coil", "count" : 8 },
+   { "item" : "advcircuit", "count" : 6 }
+  ],
+  "output" : {
+    "item" : "gravitongun",
+    "count" : 1
+  },
+  "groups" : [ "prototyper", "weapons", "all" ]
+}

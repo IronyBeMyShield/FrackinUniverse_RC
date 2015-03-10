@@ -4,5 +4,5 @@
   "inventoryIcon" : "penumbriteshard.png",
   "description" : "Perfectly refined.",
   "shortdescription" : "Penumbrite Shard",
-  "learnBlueprintsOnPickup" : [ "ff_penumbraplating" ]
+  "learnBlueprintsOnPickup" : [ "penumbriteblockmaterial", "ff_penumbraplating" ]
 }

@@ -1,8 +1,8 @@
   {
   "id" : "fu_intro4.gearup",
   "prerequisites" : [ "fu_intro3.gearup" ],
-  "title" : "^orange;The Matter Assembler II",
-  "text" : "Now craft the Matter Assembler. It is an important component of your lab. Use a ^orange;metalwork stationwhite; to create it. You'll be able to build other laboratories with your own assembler once you have one.",
+  "title" : "^#1693d5;Mattersville",
+  "text" : "Now craft the Matter Assembler. It is an important component of your lab. Use a ^orange;metalwork station^white; to create it. You'll be able to build other laboratories with your own assembler once you have one.",
   "completionText" : "I knew you could handle it. Now you'll start to make real science! Go place it into your own base, and come back to talk to our penguin engineer.",
   "conditions" : [ 
     { "kind" : "gather", "item" : [ "prototyper", 1], "consume" : false }

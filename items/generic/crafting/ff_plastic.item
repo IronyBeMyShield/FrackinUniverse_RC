@@ -4,5 +4,5 @@
   "inventoryIcon" : "ff_plastic.png",
   "description" : "Synthetic vinyl compound enhanced through science!",
   "shortdescription" : "Advanced Plastic",
-  "learnBlueprintsOnPickup" : [ "ff_bubblegun", "mineralpistollite", "mineralcannonlite", "ff_gasmask", "ff_divingmaskhead" ]
+  "learnBlueprintsOnPickup" : [ "goggles1", "goggles2", "hydrotubematerial", "ff_bubblegun", "mineralpistollite", "mineralcannonlite", "ff_gasmask", "ff_divingmaskhead" ]
 }

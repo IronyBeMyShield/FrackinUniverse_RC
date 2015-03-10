@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "circuitboard", "count" : 1 },
+    { "item" : "laserdiode", "count" : 1 },
+    { "item" : "ff_silicon", "count" : 2 },
+    { "item" : "glassmaterial", "count" : 1 },
+    { "item" : "graphene", "count" : 12 }
+  ],
+  "output" : {
+    "item" : "cpu",
+    "count" : 1
+  },
+  "groups" : [ "prototyper", "materials", "all" ]
+}

@@ -108,6 +108,26 @@
     "grassMod" : [ "sulphuricgrass" ],
     "grassModDensity" : 0.9,
       "items" : [
+
+           {
+             "mode" : "floor",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "groundspike1" ],
+              [0.50, "groundspike2" ],
+              [0.50, "groundspike3" ],
+              [0.50, "groundspike4" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
         {
           "mode" : "floor",
           "priority" : 1.0,
@@ -139,20 +159,6 @@
 
           "type" : "microdungeon",
           "microdungeons" : [ "desertplatforming" ]
-        },
-        {
-          "mode" : "floor",
-          "priority" : 1.0,
-          "variants" : 1,
-          "distribution" : "/biomes/distributions.config:potsRare",
-
-          "type" : "object",
-          "objectSets" : [
-            {
-              "pool" : [ [0.35, "capsulesmall" ], [0.35, "capsulemed" ], [0.35, "capsulebig" ] ],
-              "parameters" : { }
-            }
-          ]
         },
         {
           "mode" : "floor",
@@ -190,28 +196,6 @@
             {
               "pool" : [ 
               [0.65, "geyser_small" ]
-              ],
-              "parameters" : { }
-            }
-          ]
-        },
-        {
-          "mode" : "floor",
-          "priority" : 1.0,
-          "variants" : 1,
-          "distribution" : "/biomes/distributions.config:potsRare",
-
-          "type" : "object",
-          "objectSets" : [
-            {
-              "pool" : [ 
-              [0.65, "plynth1" ],
-              [0.65, "plynth2" ],
-              [0.65, "monolith1" ],
-              [0.65, "monolith2" ],
-              [0.65, "monolith3" ],
-              [0.65, "monolith4" ],
-              [0.65, "elderidol" ]
               ],
               "parameters" : { }
             }

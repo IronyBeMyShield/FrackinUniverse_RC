@@ -1,0 +1,9 @@
+{
+  "itemName" : "cpu",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "cpu.png",
+  "description" : "This CPU features superior processing power.",
+  "category" : "Computing",
+  "shortdescription" : "^cyan;Quantum Processor^white;",
+  "learnBlueprintsOnPickup" : [ "fieldgenerator" ]
+}

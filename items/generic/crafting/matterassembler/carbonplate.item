@@ -1,0 +1,13 @@
+{
+  "itemName" : "carbonplate",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "carbonplate.png",
+  "description" : "Carbon plating could be used for armor or other goods.",
+  "shortdescription" : "Carbon Plate",
+  "learnBlueprintsOnPickup" : [ 
+  "graphenechest",
+  "graphenehead",
+  "graphenelegs",
+  "carbonbow"
+  ]
+}

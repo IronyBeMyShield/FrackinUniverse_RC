@@ -1,0 +1,13 @@
+{
+  "itemName" : "eridianbar",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "eridianbar.png",
+  "description" : "It's an Eridian bar, What kind of stuff can this actually make?",
+  "shortdescription" : "Eridian Bar",
+  "learnBlueprintsOnPickup" : [ 
+  "fuquantumhead",
+  "fuquantumchest",
+  "fuquantumlegs",
+  "fuquantumhammer"
+  ]
+}

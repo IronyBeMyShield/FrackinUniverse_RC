@@ -7,7 +7,7 @@
     { "item" : "gunhousing", "count" : 2 },
     { "item" : "triggerassembly", "count" : 1 },
     { "item" : "prisilitestar", "count" : 2 },
-    { "item" : "focusingarray", "count" : 2 }
+    { "item" : "f_focusingarray", "count" : 2 }
   ],
   "output" : {
     "item" : "eldercarbine",

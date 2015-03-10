@@ -6,7 +6,6 @@
   "shortdescription" : "Mutavisk",
   "objectType" : "farmable",
   "printable" : false,
-  "learnBlueprintsOnPickup" : [ "mutaviskmask" ],
   "apexDescription" : "A strange plant commonly grown for its strange silk.",
   "avianDescription" : "The fabric harvested from this plant is lovely.",
   "floranDescription" : "Floran sssee Cocoon-kin grow thisss. Floran not like.",

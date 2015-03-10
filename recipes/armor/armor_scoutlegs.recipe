@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "ff_penumbraplating", "count" : 4 },
-    { "item" : "vialproto", "count" : 8 },
-    { "item" : "steelbar", "count" : 15 },
-    { "item" : "biochip", "count" : 15 }
+    { "item" : "ff_protoplating", "count" : 6 },
+    { "item" : "vialproto", "count" : 2 },
+    { "item" : "titaniumbar", "count" : 6 },
+    { "item" : "moonstoneore", "count" : 4 }
   ],
   "output" : {
     "item" : "ff_scoutpants",

@@ -1,7 +1,7 @@
   {
   "id" : "1_samplingarray.gearup",
   "prerequisites" : [ "1a_matterassembler.gearup" ],
-  "title" : "^orange;Sampling Array",
+  "title" : "^#1693d5;Sampling Array",
   "text" : "The ^orange;Sampling Array^white; is a frightfully efficient and unique piece of equipment. It can perform near-miracles. You definitely want one. So, make one.",
   "completionText" : "Now I'll teach you of the power this machine possesses.",
   "conditions" : [ { "kind" : "gather", "item" : [ "samplingarray", 1], "consume" : false }

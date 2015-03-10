@@ -1,11 +1,11 @@
   {
   "id" : "1_alloyfurnace.gearup",
   "prerequisites" : [ "1b_matterassembler.gearup" ],
-  "title" : "^orange;Smelting Your Way",
-  "text" : "Before we start, you need to know that you're gonna work with some tough materials. You really should build an alloy furnace to make the process easier.",
+  "title" : "^#1693d5;Smelting Your Way",
+  "text" : "Before we start, you need to know that you're gonna work with some tough materials. Show me ^orange;20 Iron Bars^white; to prove your dedication, and I'll help you.",
   "completionText" : "Great! Now we can start smelting materials.",
   "conditions" : [ 
-    { "kind" : "gather", "item" : [ "alloyfurnace", 1], "consume" : false }
+    { "kind" : "gather", "item" : [ "ironbar", 20], "consume" : false }
   ],
   "moneyRange" : [100,120],
   "planetMode" : "none",

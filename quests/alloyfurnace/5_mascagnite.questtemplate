@@ -1,6 +1,6 @@
   {
   "id" : "5_mascagnite.gearup",
-  "title" : "^orange;Keep on digging",
+  "title" : "^#1693d5;Keep on digging",
   "text" : "Ammonium sulfate. You definitely need it! Just smelt some mascagnite. It's another boringly common ore, so just dig a hole and you'll find some eventually.",
   "completionText" : "You did it. Wee. Let's do something else now.",
   "conditions" : [ 

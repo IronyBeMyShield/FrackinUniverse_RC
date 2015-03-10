@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "carbonplate", "count" : 32 },
+    { "item" : "eridianbar", "count" : 16 },
+    { "item" : "advcircuit", "count" : 3 },
+    { "item" : "cpu", "count" : 3 }
+  ],
+  "output" : { "item" : "fuquantumchest", "count" : 1 },
+  "groups" : [ "prototyper", "armors", "all" ]
+}

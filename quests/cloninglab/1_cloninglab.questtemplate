@@ -1,7 +1,7 @@
   {
   "id" : "1_cloninglab.gearup",
   "prerequisites" : [ "crewisallhere.gearup" ],
-  "title" : "^orange;The Clone Wars",
+  "title" : "^#39bc2f;The Clone Wars",
   "text" : "For your next bit of science training, you are going to need a Cloning Lab.",
   "completionText" : "Merry Christmas to you too, captain! Here are some presents to put under your tree.",
   "conditions" : [ 

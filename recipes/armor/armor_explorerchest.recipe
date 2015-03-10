@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "ff_penumbraplating", "count" : 8 },
+    { "item" : "ceruliumcompound", "count" : 12 },
+    { "item" : "magneticshielding", "count" : 2 },
+    { "item" : "wire", "count" : 9 },
+    { "item" : "circuitboard", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fuexplorerchest",
+    "count" : 1
+  },
+  "groups" : [ "prototyper", "armors", "all" ]
+}

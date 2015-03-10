@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "An effective, though colorful, lightsource.",
+  "description" : "An effective lightsource and decent radiation shield.",
   "shortdescription" : "Blister Helm",
   "tooltipKind" : "armor",
 
@@ -15,11 +15,15 @@
   "statusEffects" : [
     {
       "stat" : "protection",
-      "amount" : 40
+      "amount" : 35
     },
     {
       "stat" : "maxHealth",
-      "amount" : 30
+      "amount" : 40
+    },
+    {
+      "stat" : "biomeradiationImmunity",
+      "amount" : 1
     },
 	"glowyellow"
   ]

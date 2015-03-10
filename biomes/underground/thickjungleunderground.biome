@@ -42,6 +42,74 @@
     "grassMod" : [ "thickjunglegrass" ],
     "grassModDensity" : 0.9,
     "items" : [
+
+           {
+             "mode" : "ceiling",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "greenceilingspike1" ],
+              [0.50, "greenceilingspike2" ],
+              [0.50, "greenceilingspike3" ],
+              [0.50, "greenceilingspike4" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
+           {
+             "mode" : "floor",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "greengroundspike1" ],
+              [0.50, "greengroundspike2" ],
+              [0.50, "greengroundspike3" ],
+              [0.50, "greengroundspike4" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
+           {
+             "mode" : "floor",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "thorns1" ],
+              [0.50, "thorns2" ],
+              [0.50, "thorns3" ],
+              [0.50, "thorns4" ],
+              [0.50, "copperrock" ], 
+              [0.50, "copperrocksmall" ],
+              [0.50, "silverrock" ],
+              [0.50, "silverrocksmall" ],
+              [0.50, "goldrock" ],
+              [0.50, "goldrocksmall" ],
+              [0.50, "platinumrock" ],
+              [0.50, "platinumrocksmall" ],
+              [0.50, "diamondrock" ],
+              [0.50, "diamondrocksmall" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
         {
           "mode" : "floor",
           "priority" : 0.0,

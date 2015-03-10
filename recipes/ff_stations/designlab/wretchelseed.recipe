@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "aliencompound", "count" : 12 },
     { "item" : "cellhardening2", "count" : 1 }, 
-    { "item" : "organicsynthesis", "count" : 1 }
+    { "item" : "organicsynthesis", "count" : 1 },
+    { "item" : "voidgene", "count" : 2 }
   ],
   "output" : {
     "item" : "wretchelseed",

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "nailery", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "steelbar",
+    "count" : 2
+  },
+  "groups" : [ "quantumextractor", "all" ]
+}

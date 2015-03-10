@@ -1,7 +1,7 @@
   {
   "id" : "fu_intro3.gearup",
   "prerequisites" : [ "fu_intro2.gearup" ],
-  "title" : "^orange;The Matter Assembler I",
+  "title" : "^#1693d5;What Matters?",
   "text" : "Before I send you to our engineer, you must have your own Matter Assembler. To craft it, you'll need ^orange;20 steel bars, 10 copper bars^white; and^orange; 6 units of glass.^white; Bring them to me and I'll give you the blueprint you need.",
   "completionText" : "Well done. Take this blueprint for the machine itself. See me when you wish to continue.",
   "conditions" : [

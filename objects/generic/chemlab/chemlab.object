@@ -20,7 +20,7 @@
   "humanDescription" : "A BioChem Lab.",
   "hylotlDescription" : "A BioChem Lab.",
 
-  "learnBlueprintsOnPickup" : [ "luminescentpaste", "peptidechain", "cellmatter", "calciumnitrate", "magnesiumsulfate", "cellmateria", "aminoacid", "ff_fertilizer", "unstableparticles"  ],
+  "learnBlueprintsOnPickup" : [ "synthesizedprotein", "luminescentpaste", "peptidechain", "cellmatter", "calciumnitrate", "magnesiumsulfate", "cellmateria", "aminoacid", "ff_fertilizer", "unstableparticles"  ],
 
   "lightColor" : [20, 20, 40],
   "soundEffect" : "/sfx/objects/fridge_hum.wav",

@@ -1,10 +1,10 @@
   {
   "id" : "4_toxingene.gearup",
-  "title" : "^orange;Toxin gene",
+  "title" : "^#1693d5;Toxin gene",
   "text" : "Statement. Now you need to create a ^orange;toxin gene^white;. Caution. Use protective gear.",
   "completionText" : "Enthusiastic. Great.",
   "conditions" : [ 
-    { "kind" : "gather", "item" : [ "toxingene", 1], "consume" : false }
+    { "kind" : "gather", "item" : [ "toxicgene", 1], "consume" : false }
   ],
   "moneyRange" : [0,0],
   "rewards" : [],

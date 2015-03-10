@@ -1,6 +1,6 @@
   {
   "id" : "3_lazulite.gearup",
-  "title" : "^orange;Smelting Lazulite",
+  "title" : "^#1693d5;Smelting Lazulite",
   "text" : "Now for another simple task. This time smelt lazulite. It is also common, so I'm sure you already have some.",
   "completionText" : "This magnesium powder will be useful. If needed, you can also smelt magnesium ore for it.",
   "conditions" : [ 

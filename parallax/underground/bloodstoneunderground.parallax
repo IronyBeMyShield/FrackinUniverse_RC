@@ -1,7 +1,7 @@
 {
   "layers" : [
     {
-      "kind" : "tile/bloodstonenderground",
+      "kind" : "tile/bloodstoneunderground",
       "nohueshift" : true,
       "lightMapped" : true,
       "parallax" : 1.2,

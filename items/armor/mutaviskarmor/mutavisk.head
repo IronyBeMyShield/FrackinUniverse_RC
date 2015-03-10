@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "warm and wooly for arctic research",
-  "shortdescription" : "Scientist Hood",
+  "description" : "Makes you look like a big purple bad-ass.",
+  "shortdescription" : "Mutavisk Helm",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -13,22 +13,19 @@
   "mask" : "mask.png",
 
   "statusEffects" : [
-      {
-        "stat" : "maxHealth",
-        "amount" : 80
-      },
-      {
-        "stat" : "protection",
-        "amount" : 97
-      },
-    "ffextremecoldimmunityicon",
     {
-      "stat" : "ffextremecoldImmunity",
-      "amount" : 1.0
+      "stat" : "protection",
+      "amount" : 70
     },
+
     {
-      "stat" : "biomecoldImmunity",
-      "amount" : 1.0
+      "stat" : "maxEnergy",
+      "amount" : 80
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 40
     }
   ],
 

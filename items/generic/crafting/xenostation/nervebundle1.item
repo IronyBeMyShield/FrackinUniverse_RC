@@ -4,5 +4,5 @@
   "inventoryIcon" : "nervebundle1.png",
   "description" : "Nerve Bundle research.",
   "shortdescription" : "Nerve Bundle I",
-  "learnBlueprintsOnPickup" : [ "nervebundle2", "firegene", "shockgene", "toxicgene", "coldgene" ]
+  "learnBlueprintsOnPickup" : [ "nervebundle2", "firegene", "shockgene", "toxicgene", "coldgene", "voidgene" ]
 }

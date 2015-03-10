@@ -1,0 +1,35 @@
+{
+    "itemName" : "densiniumrifle",
+    "inventoryIcon" : "densiniumrifle.png",
+    "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+    "maxStack" : 1,
+    "rarity" : "rare",
+    "description" : "Fires miniaturized rifts.",
+    "shortdescription" : "Densinium Rifle",
+    "image" : "densiniumrifle.png",
+    "handPosition" : [-6, 1],
+    "firePosition" : [19, 2],
+    "weaponType" : "Beam",
+    "recoilTime" : 0.1,
+    "level" : 9,
+    "tooltipKind" : "gun",
+    "fireTime" : 0.40,
+    "twoHanded" : true,
+    "walkWhileFiring" : false,
+    "rateOfFire" : [2, 7],
+    "muzzleEffect" : {
+      "fireSound" : [ { "file" : "/sfx/gun/plasma_shotgun2.wav" } ],
+      "animation" : "/animations/protomuzzle/protomuzzle.animation"
+    },
+    "fireOnRelease" : false,
+    
+    "projectileType" : "plasmatorpedo",
+
+    "powerProjectileTime" : [0.4, 50],
+    "projectile" : {
+      "speed" : 50, 
+      "power" : 6 , 
+      "color" : [0, 220, 0] 
+  	}
+}
+  

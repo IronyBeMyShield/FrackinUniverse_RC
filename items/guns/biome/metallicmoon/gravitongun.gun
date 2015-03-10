@@ -1,0 +1,31 @@
+{
+  "itemName" : "gravitongun",
+  "inventoryIcon" : "gravitongun.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Super-velocity flechette launcher.",
+  "shortdescription" : "Graviton Gun",
+  "image" : "gravitongun.png",
+  "handPosition" : [-7, -1],
+  "firePosition" : [20, 1.5],
+  "weaponType" : "High Tech",
+  "recoilTime" : 0.1,
+  "level" : 5,
+  "tooltipKind" : "gun",
+  "fireTime" : 0.15,
+  "twoHanded" : true,
+  "walkWhileFiring" : false,
+  "spread" : 1,
+
+  "projectileType" : "shuriken",
+  "projectile" : { 
+  "speed" : 90, 
+  "power" : 1 , 
+  "color" : [255, 44, 44] 
+  },
+  "muzzleEffect" : {
+       "fireSound" : [ { "file" : "/sfx/gun/plasma_ar4.wav" } ],
+       "animation" :  "/animations/muzzleflash/smokemuzzle/smokemuzzle.animation"
+	   }
+}

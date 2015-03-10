@@ -4,5 +4,5 @@
   "inventoryIcon" : "penumbriteore.png",
   "description" : "Super-hard Penumbrite",
   "shortdescription" : "Penumbrite Ore",
-  "learnBlueprintsOnPickup" : [ "penumbriteblockmaterial" ]
+  "learnBlueprintsOnPickup" : [ "penumbriteshard" ]
 }

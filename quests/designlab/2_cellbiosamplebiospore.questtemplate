@@ -1,11 +1,11 @@
   {
   "id" : "2_cellbiosamplebiospore.gearup",
-  "title" : "^orange;Hunt for ssstuff",
-  "text" : "Now the bessst part. You hunt for ssstuff. Ssstab things on planets and gather ^orange;cell materials^white;, ^orange;bio sssamples^white; and ^orange;bio ssspores^white;. Take nine of each. You'll need them.",
+  "title" : "^#1693d5;Hunt for ssstuff",
+  "text" : "Now the bessst part. You hunt for ssstuff. Ssstab things on planets and gather ^orange;9 cell materials^white;, ^orange;9 bio sssamples^white; and ^orange;9 bio ssspores^white;. Take nine of each. You'll need them.",
   "completionText" : "Good. You need that ssstuff to create genessss.",
   "conditions" : [
     { "kind" : "gather", "item" : [ "biosample", 9], "consume" : false },
-    { "kind" : "gather", "item" : [ "cellmaterial", 9], "consume" : false },
+    { "kind" : "gather", "item" : [ "cellmateria", 9], "consume" : false },
     { "kind" : "gather", "item" : [ "biospore", 9], "consume" : false }
   ],
   "moneyRange" : [0,0],

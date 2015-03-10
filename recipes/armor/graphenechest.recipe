@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "graphene", "count" : 16 },
+    { "item" : "carbonplate", "count" : 8 },
+    { "item" : "cpu", "count" : 1 }
+  ],
+  "output" : { "item" : "graphenechest", "count" : 1 },
+  "groups" : [ "prototyper", "armors", "all" ]
+}

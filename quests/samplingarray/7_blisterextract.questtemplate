@@ -1,7 +1,7 @@
   {
   "id" : "7_blisterextract.gearup",
-  "title" : "^orange;Blister Extract",
-  "text" : "^orange;Blister Extract^white; is a requirement if you plan to create Blister Bush based armors and weapons. Combine blister pods with a DNA Sample and some moonstone ore for this resource!",
+  "title" : "^#1693d5;Blister Extract",
+  "text" : "^orange;Blister Extract^white; is a requirement if you plan to create Blister Bush based armors and weapons. Combine blister pods with a DNA Sample and some moonstone ore. Try looking on different sorts of moons.",
   "completionText" : "Blister Bushes are strangely mutable, allowing them to be altered into clothing and weapons. Oh, and they glow.",
   "conditions" : [ { "kind" : "gather", "item" : [ "blisterextract", 1], "consume" : false }
   ],

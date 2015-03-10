@@ -1,6 +1,6 @@
   {
   "id" : "4_biochip.gearup",
-  "title" : "^orange;Bio Chips",
+  "title" : "^#1693d5;Bio Chips",
   "text" : "^orange;Bio Chips^white; contain a plethora of amazingly useful genetically viable cells, ready to go in a Matter Assembler or Design Lab. Take a Mineral Sample, a DNA Sample and a Bio-Chip Base and you're good to go.",
   "completionText" : "Now you're ready for the fancy stuff.",
   "conditions" : [ { "kind" : "gather", "item" : [ "biochip", 1], "consume" : false }

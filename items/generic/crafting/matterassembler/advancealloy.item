@@ -1,0 +1,8 @@
+{
+  "itemName" : "advancealloy",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "advancealloy.png",
+  "description" : "Compression of various metals has resulted in a super strong metal plating.",
+  "category" : "Alloys",
+  "shortdescription" : "Advanced Alloy"
+}

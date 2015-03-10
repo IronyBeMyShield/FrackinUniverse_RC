@@ -1,7 +1,6 @@
   {
   "id" : "7_synthprotein.gearup",
-  "prerequisites" : [ "6_peptidechain.gearup" ],
-  "title" : "^orange;Synthesized protein",
+  "title" : "^#1693d5;Synthesized protein",
   "text" : "The ^orange;synthesized protein^white; is another essential chemical component. You're now a good chemist, you should have no problem making some it.",
   "completionText" : "Good job. Really. You're ready to craft genes now.",
   "conditions" : [ 
@@ -12,6 +11,7 @@
   "planetMode" : "none",
   "questDungeons" : [ ],
   "requireTurnIn" : false,
+  "canBeAbandoned" : false,
   "followUp" : "8_toxenolab.gearup"
 }
  

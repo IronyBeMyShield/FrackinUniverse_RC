@@ -341,6 +341,43 @@
     "grassModDensity" : 0.6,
 
     "items" : [
+           {
+             "mode" : "ceiling",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "ceilingspike1" ],
+              [0.50, "ceilingspike2" ],
+              [0.50, "ceilingspike3" ],
+              [0.50, "ceilingspike4" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
+           {
+             "mode" : "floor",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "magmagroundspike1" ],
+              [0.50, "magmagroundspike2" ],
+              [0.50, "magmagroundspike3" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
       {
         "mode" : "floor",
         "priority" : 0.0,

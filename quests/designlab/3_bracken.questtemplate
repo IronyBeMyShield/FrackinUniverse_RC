@@ -1,6 +1,6 @@
   {
   "id" : "3_bracken.gearup",
-  "title" : "^orange;Bracken tree",
+  "title" : "^#1693d5;Bracken tree",
   "text" : "^orange;Bracken trees makes sssilk and resin. It'sss an easy one. Insert an ^orange;organic synthesis^white; gene and sssome ^orange;nutrient paste^white; into the ^orange;Design Lab^white; and let it grow.",
   "completionText" : "Plant these ssseeds, watch them grow and ssstab them every day.",
   "conditions" : [ 

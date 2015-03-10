@@ -14,7 +14,7 @@
   "actionOnReap" : [
     {
       "action" : "projectile",
-      "type" : "poisonsmoke",
+      "type" : "magentaglobeexplosion",
       "inheritDamageFactor" : 1,
       "angle" : 5
     },

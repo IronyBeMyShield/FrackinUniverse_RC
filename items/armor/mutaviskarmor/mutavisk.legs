@@ -4,31 +4,24 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "warm and wooly for arctic research",
-  "shortdescription" : "Scientist Snowpants",
+  "description" : "Standing has never been so stylishly purple.",
+  "shortdescription" : "Mutavisk Greaves",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
 
   "statusEffects" : [
-        {
-          "stat" : "maxHealth",
-          "amount" : 80
-        },
-        {
-          "stat" : "protection",
-          "amount" : 100
-        },
-      "ffextremecoldimmunityicon",
-      {
-        "stat" : "ffextremecoldImmunity",
-        "amount" : 1.0
-      },
-      {
-        "stat" : "biomecoldImmunity",
-        "amount" : 1.0
-    }
+    {
+      "stat" : "protection",
+      "amount" : 35
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 40
+    },
+    "nofalldamage"
   ],
 
   "colorOptions" : [

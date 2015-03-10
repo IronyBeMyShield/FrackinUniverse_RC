@@ -157,7 +157,7 @@
 	"value" : { 
 	"name" : "sulphuricacid",
 	"tickDelta" : 1,
-	"color" : [0, 200, 0, 225],
+	"color" : [215, 183, 73, 180],
         "statusEffects" : [ "sulphuricacideffect" ],
         "itemDrop" : "liquidsulphuricacid",
         "interactions" : [

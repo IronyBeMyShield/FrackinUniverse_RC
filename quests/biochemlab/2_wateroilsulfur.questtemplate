@@ -1,6 +1,6 @@
   {
   "id" : "2_wateroilsulphur.gearup",
-  "title" : "^orange;Water, Oil and Sulphur",
+  "title" : "^#1693d5;Water, Oil and Sulphur",
   "text" : "Speaking of resources, you'd better gather some right now. Let's say, 20 ^orange;sulphur^white;, 20 units of ^orange;oil^white; and 20 units of ^orange;water^white;.",
   "completionText" : "Great. This can be consumed pretty fast so remember where you got them.",
   "conditions" : [ 

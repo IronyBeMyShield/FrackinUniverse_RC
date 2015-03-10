@@ -41,6 +41,44 @@
     "grassMod" : [ "crystalgrass" ],
     "grassModDensity" : 0.9,
     "items" : [
+           {
+             "mode" : "ceiling",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "ceilingspike1" ],
+              [0.50, "ceilingspike2" ],
+              [0.50, "ceilingspike3" ],
+              [0.50, "ceilingspike4" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
+           {
+             "mode" : "floor",
+             "priority" : 1.0,
+             "variants" : 1,
+             "distribution" : "/biomes/distributions.config:potsRare",
+   
+             "type" : "object",
+             "objectSets" : [
+               {
+                 "pool" : [ 
+              [0.50, "groundspike1" ],
+              [0.50, "groundspike2" ],
+              [0.50, "groundspike3" ],
+              [0.50, "groundspike4" ]
+                 ],
+                 "parameters" : { "startingStage" : 2 }
+               }
+             ]
+           },
         {
           "mode" : "ceiling",
           "priority" : 2.0,

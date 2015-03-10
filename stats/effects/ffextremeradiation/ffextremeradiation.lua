@@ -3,8 +3,8 @@ function init()
   animator.setParticleEmitterActive("poisonsicknessdust", true)
   effect.setParentDirectives("fade=00FFBB=0.15")
   script.setUpdateDelta(5)
-  self.tickDamagePercentage = 0.01
-  self.tickTime = 1.4
+  self.tickDamagePercentage = 0.02
+  self.tickTime = 1.2
   self.tickTimer = self.tickTime
 
 end
@@ -23,7 +23,7 @@ function update(dt)
     self.tickTimer = self.tickTime
     status.applySelfDamageRequest({
         damageType = "IgnoresDef",
-        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 0.7,
+        damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 1,
         damageSourceKind = "hellfireweapon",
         sourceEntityId = entity.id()
       })

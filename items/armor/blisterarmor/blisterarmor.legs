@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "Good times to be had with these.",
+  "description" : "Decent protection for something made from blisters.",
   "shortdescription" : "Blister Greaves",
   "tooltipKind" : "armor",
 
@@ -20,6 +20,9 @@
       "stat" : "maxEnergy",
       "amount" : 30
     },
-    "glow"
+    {
+      "stat" : "maxHealth",
+      "amount" : 30
+    }
   ]
 }

@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "God-like protection.",
+  "description" : "God-like protection. Immune to sulphuric acid and cold.",
   "shortdescription" : "Densinium Armor",
   "tooltipKind" : "armor",
 
@@ -37,7 +37,11 @@
     {
       "stat" : "biomecoldImmunity",
       "amount" : 1.0
-    }
+    },
+      {
+        "stat" : "sulphuricImmunity",
+        "amount" : 1.0
+      }
   ],
 
   "colorOptions" : [

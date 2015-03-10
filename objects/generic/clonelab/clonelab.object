@@ -7,7 +7,6 @@
   "subtitle" : "create modified seeds.",
   "objectType" : "container",
   "printable" : false,
-  "learnBlueprintsOnPickup" : [ "xenostation" ],
   "price" : 450,
 
   "lightColor" : [75, 75, 100],

@@ -1,0 +1,29 @@
+{
+  "itemName" : "ff_scouthelm",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "rare",
+  "description" : "High energy regen",
+  "shortdescription" : "Scout Helm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 19
+    },
+    {
+      "stat" : "maxEnergy",
+      "amount" : 40
+    },
+    {
+      "stat" : "energyRegen",
+      "amount" : 0.10
+    }
+  ]
+}

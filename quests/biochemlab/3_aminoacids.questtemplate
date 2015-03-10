@@ -1,6 +1,6 @@
   {
   "id" : "3_aminoacids.gearup",
-  "title" : "^orange;Bricks of life",
+  "title" : "^#1693d5;Bricks of life",
   "text" : "We're going to craft a basic component for a start. To make ^orange;Amino acids^white;, you'll need 4 units of nutrient paste and tissue culture. The fine mechanisms of the Chemical Lab will do the rest.",
   "completionText" : "You'll absolutely want to craft some of these in order to create some new flora.",
   "conditions" : [ 

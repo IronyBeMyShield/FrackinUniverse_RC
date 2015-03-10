@@ -4,5 +4,5 @@
   "inventoryIcon" : "ff_silicon.png",
   "description" : "This resource has many uses.",
   "shortdescription" : "Silicon",
-  "learnBlueprintsOnPickup" : [ "siliconspear", "crystallineblade" ]
+  "learnBlueprintsOnPickup" : [ "cpu", "advcircuit", "carbonplate", "densealloy", "advancealloy", "fieldscientisthead", "fieldscientistlegs", "fieldscientistchest", "siliconspear", "crystallineblade" ]
 }

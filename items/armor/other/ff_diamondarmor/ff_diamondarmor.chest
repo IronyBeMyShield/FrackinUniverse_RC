@@ -25,8 +25,12 @@
       "amount" : 180
     },
     {
+      "stat" : "maxEnergy",
+      "amount" : 90
+    },
+    {
       "stat" : "maxHealth",
-      "amount" : 300
+      "amount" : 50
     }
   ],
 

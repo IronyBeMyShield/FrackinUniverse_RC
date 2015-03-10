@@ -106,7 +106,10 @@
 "path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 {"op":"add",
 "path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"protoworld"
@@ -181,7 +184,10 @@
 "path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 {"op":"add",
 "path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"protoworld"
@@ -262,7 +268,10 @@
 "path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 {"op":"add",
 "path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"protoworld"
@@ -297,7 +306,10 @@
 "path":"/planetaryTypes/Barren/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/planetaryTypes/Barren/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 
 // Moons
 
@@ -396,7 +408,10 @@
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 {"op":"add",
 "path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
 "value":"arboreal"
@@ -435,7 +450,10 @@
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 {"op":"add",
 "path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
 "value":"arboreal"
@@ -469,7 +487,10 @@
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"sulphuric"
 },
-
+{"op":"add",
+"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
+"value":"sulphuricocean"
+},
 {"op":"add",
 "path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
 "value":"arboreal"
@@ -542,8 +563,7 @@
             {"weight" : 0.04, "item" : "AsteroidField"}
           ],
           "satelliteTypes" : [
-            {"weight" : 0.6, "item" : "scorchingMoons"},
-            {"weight" : 0.1, "item" : "Moon"}
+            {"weight" : 0.6, "item" : "scorchingMoons"}
           ]
         },
         {
@@ -1050,17 +1070,8 @@
           ]
         },
         {
-          "regionName" : "Moon",
-          "orbitRange" : [12, 12],
-          "bodyProbability" : 1.0,
-          "planetaryTypes" : [
-            {"weight" : 1.0, "item" : "Moon"}
-          ],
-          "satelliteTypes" : []
-        },
-        {
           "regionName" : "Gate",
-          "orbitRange" : [13, 13],
+          "orbitRange" : [12, 12],
           "bodyProbability" : 1.0,
           "planetaryTypes" : [
             {"weight" : 1.0, "item" : "AncientGateway"}
@@ -1093,7 +1104,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "infernus", "magma", "volcanic", "sulphuric", "scorched" ]
+        "terrestrialType" : [ "infernus", "magma", "volcanic", "sulphuric", "sulphuricocean", "scorched" ]
       },
 
       "variationParameters" : [
@@ -1135,7 +1146,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "barren", "infernus", "magma", "volcanic", "sulphuric", "desert", "ocean", "ffunknown" ]
+        "terrestrialType" : [ "barren", "infernus", "magma", "volcanic", "sulphuric", "sulphuricocean", "desert", "ocean", "ffunknown" ]
       },
 
       "variationParameters" : [
@@ -1177,7 +1188,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "barren", "irradiated", "volcanic", "arboreal", "atropus", "desert", "protoworld", "alien", "ocean", "toxic", "bloodstone", "slimeworld", "ffunknown" ]
+        "terrestrialType" : [ "barren", "irradiated", "volcanic", "arboreal", "atropus", "desert", "protoworld", "alien", "ocean", "toxic", "bloodstone", "bloodstonesea", "slimeworld", "ffunknown" ]
       },
 
       "variationParameters" : [
@@ -1219,7 +1230,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "urbanwasteland", "ocean",  "barren", "desert", "atropus", "garden", "forest", "savannah", "jungle", "alien", "toxic", "bog", "arboreal", "bloodstone", "irradiated", "protoworld", "penumbra", "slimeworld", "thickjungle", "ffunknown" ]
+        "terrestrialType" : [ "urbanwasteland", "ocean",  "barren", "desert", "atropus", "garden", "forest", "savannah", "jungle", "alien", "toxic", "bog", "arboreal", "bloodstone","bloodstonesea", "irradiated", "protoworld", "penumbra", "slimeworld", "thickjungle", "ffunknown" ]
       },
 
       "variationParameters" : [
@@ -1418,7 +1429,7 @@
     "path" : "/satelliteTypes/scorchedMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1433,7 +1444,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "infernus", "magma", "volcanic", "sulphuric", "scorched" ]
+        "terrestrialType" : [ "infernus", "magma", "volcanic", "sulphuric", "sulphuricocean",  "scorched" ]
       },
 
       "variationParameters" : [
@@ -1453,7 +1464,7 @@
     "path" : "/satelliteTypes/hotMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1468,7 +1479,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "moon", "barren", "infernus", "magma", "volcanic", "sulphuric", "desert", "ocean" ]
+        "terrestrialType" : [ "moon", "barren", "infernus", "magma", "volcanic", "sulphuric", "sulphuricocean", "desert", "ocean" ]
       },
 
       "variationParameters" : [
@@ -1488,7 +1499,7 @@
     "path" : "/satelliteTypes/warmMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1503,7 +1514,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "moon", "barren", "irradiated", "volcanic", "arboreal", "atropus", "desert", "protoworld", "alien", "ocean", "toxic", "bloodstone", "slimeworld" ]
+        "terrestrialType" : [ "moon", "barren", "irradiated", "volcanic", "arboreal", "atropus", "desert", "protoworld", "alien", "ocean", "toxic", "bloodstone","bloodstonesea", "slimeworld" ]
       },
 
       "variationParameters" : [
@@ -1523,7 +1534,7 @@
     "path" : "/satelliteTypes/habitableMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1538,7 +1549,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "moon", "urbanwasteland", "ocean",  "metallicmoon", "desert", "atropus", "garden", "forest", "savannah", "jungle", "alien", "toxic", "bog", "arboreal", "bloodstone", "irradiated", "protoworld", "penumbra", "slimeworld", "thickjungle" ]
+        "terrestrialType" : [ "moon", "urbanwasteland", "ocean",  "metallicmoon", "desert", "atropus", "garden", "forest", "savannah", "jungle", "alien", "toxic", "bog", "arboreal", "bloodstone","bloodstonesea", "irradiated", "protoworld", "penumbra", "slimeworld", "thickjungle" ]
       },
 
       "variationParameters" : [
@@ -1558,7 +1569,7 @@
     "path" : "/satelliteTypes/coolMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1593,7 +1604,7 @@
     "path" : "/satelliteTypes/coldMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1628,7 +1639,7 @@
     "path" : "/satelliteTypes/frozenMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1664,7 +1675,7 @@
     "path" : "/planetaryTypes/lightlessWorlds",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1701,7 +1712,7 @@
     "path" : "/satelliteTypes/lightlessMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1736,7 +1747,7 @@
     "path" : "/satelliteTypes/mutatedMoons",
     "value" : {
       "satelliteProbability" : 0.15,
-      "maxSatelliteCount" : 1,
+      "maxSatelliteCount" : 6,
 
       "baseParameters" : {
         "worldType" : "Terrestrial",
@@ -1751,7 +1762,7 @@
         "dynamicsImages" : "/celestial/system/terrestrial/dynamics/<num>.png",
         "dynamicsRange" : [1, 40],
 
-        "terrestrialType" : [ "frozenvolcanic", "crystalmoon", "irradiated", "penumbra", "protoworld", "atropus", "alien", "urbanwasteland", "ffunknown" ]
+        "terrestrialType" : [ "sulphuricocean", "frozenvolcanic", "crystalmoon", "irradiated", "penumbra", "protoworld", "atropus", "alien", "urbanwasteland", "ffunknown" ]
       },
 
       "variationParameters" : [

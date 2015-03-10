@@ -1,7 +1,7 @@
   {
   "id" : "8_toxenolab.gearup",
-  "title" : "^orange;Meet the Specialist",
-  "text" : "^orange;Now, in order to learn about genetics, you'll need to meet our glitch specialist.",
+  "title" : "^#1693d5;Meet the Specialist",
+  "text" : "^orange;Now, in order to learn about genetics, you'll need to meet our glitch specialist. Go talk to that kooky weirdo to continue your education.",
   "completionText" : "Sincere. Welcome. Take this.",
   "conditions" : [],
   "moneyRange" : [0,0],

@@ -16,10 +16,13 @@
       "stat" : "protection",
       "amount" : 60
     },
-
+    {
+      "stat" : "maxHealth",
+      "amount" : 50
+    },
     {
       "stat" : "energyRegen",
-      "amount" : 2.8
+      "amount" : 1.40
     }
   ],
 

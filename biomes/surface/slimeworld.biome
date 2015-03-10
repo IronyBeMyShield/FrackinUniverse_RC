@@ -1,7 +1,8 @@
 {
   "name" : "slimeworld",
   "friendlyName" : "Gelatinous",
-
+  "statusEffects" : [ "slimestick"  ],
+  
   "spawnProfiles" : [
     {
       "groups" : [ "mediumsurface1" ],
@@ -371,8 +372,7 @@
               "parameters" : { }
             }
           ]
-        },
-          
+        },           
            {
              "mode" : "floor",
              "priority" : 1.0,
@@ -394,7 +394,20 @@
               [0.50, "bioshroomblue4" ],
               [0.50, "bioshroomblue5" ],
               [0.50, "bioshroomblue6" ],
-              [0.50, "bioshroomblue7" ]  
+              [0.50, "bioshroomblue7" ],
+              [0.50, "blueprintblob" ],
+              [0.50, "slimeblob1" ],
+              [0.50, "slimeblob2" ],
+              [0.50, "slimeblob3" ],
+              [0.50, "slimeblob4" ],
+              [0.50, "copperrock" ], 
+              [0.50, "copperrocksmall" ],
+              [0.50, "silverrock" ],
+              [0.50, "silverrocksmall" ],
+              [0.50, "goldrock" ],
+              [0.50, "goldrocksmall" ],
+              [0.50, "platinumrock" ],
+              [0.50, "platinumrocksmall" ]
                  ],
                  "parameters" : { "startingStage" : 2 }
                }

@@ -1,0 +1,8 @@
+{
+  "itemName" : "advcircuit",
+  "rarity" : "rare",
+  "inventoryIcon" : "advcircuit.png",
+  "description" : "Superior computers result from superior hardware.",
+  "category" : "Circuitry",
+  "shortdescription" : "^cyan;Advanced Circuit^white;"
+}

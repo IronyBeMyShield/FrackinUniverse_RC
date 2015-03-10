@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "carbonplate", "count" : 1 },
+    { "item" : "protocitebar", "count" : 1 },
+    { "item" : "penumbriteshard", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "advancealloy",
+    "count" : 1
+  },
+  "groups" : [ "prototyper", "materials", "all" ]
+}

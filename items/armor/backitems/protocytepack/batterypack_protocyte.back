@@ -3,7 +3,7 @@
   "inventoryIcon" : "batterypack_protocyteicon.png",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "rarity" : "Common",
-  "description" : "Provides a sizeable energy regen, and max energy.",
+  "description" : "Provides a sizeable energy regen, and a max energy increase.",
   "shortdescription" : "Protocyte Energy Pack",
 
   "maleFrames" : "back.png",

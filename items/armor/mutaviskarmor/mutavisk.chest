@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "warm and wooly for arctic research",
-  "shortdescription" : "Scientist Parka",
+  "description" : "Exceptionally well crafted protection, in a joyous shade of purple.",
+  "shortdescription" : "Mutavisk Chestpiece",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -21,22 +21,19 @@
   },
 
   "statusEffects" : [
-      {
-        "stat" : "maxHealth",
-        "amount" : 90
-      },
-      {
-        "stat" : "protection",
-        "amount" : 115
-      },
-    "ffextremecoldimmunityicon",
     {
-      "stat" : "ffextremecoldImmunity",
-      "amount" : 1.0
+      "stat" : "protection",
+      "amount" : 90
     },
+
     {
-      "stat" : "biomecoldImmunity",
-      "amount" : 1.0
+      "stat" : "maxEnergy",
+      "amount" : 105
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 60
     }
   ],
 

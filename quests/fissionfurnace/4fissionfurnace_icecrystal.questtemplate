@@ -1,0 +1,14 @@
+  {
+  "id" : "fissionfurnace4.gearup",
+  "title" : "^#1693d5;Frozen Fortunes",
+  "text" : "You can fuse some ^orange;crystal^white; together and create a more valuable ^orange;Ice Crystal^white;.",
+  "completionText" : "It doesn't seem that useful. But it is. Try extracting from some right now. You'll see..",
+  "conditions" : [ 
+    { "kind" : "gather", "item" : [ "icecrystal", 1], "consume" : false }
+  ],
+  "moneyRange" : [100,120],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "requireTurnIn" : false,
+  "followUp" : "fissionfurnace5.gearup"
+}

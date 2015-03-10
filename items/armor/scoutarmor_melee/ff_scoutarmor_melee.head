@@ -1,0 +1,29 @@
+{
+  "itemName" : "ff_scouthelm_melee",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "rare",
+  "description" : "Deadly strikes",
+  "shortdescription" : "Warrior Helm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 19
+    },
+    {
+      "stat" : "maxHealth",
+      "amount" : 40
+    },
+    {
+      "stat" : "rage",
+      "amount" : 0.10
+    }
+  ]
+}

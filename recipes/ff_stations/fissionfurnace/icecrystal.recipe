@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "crystal", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "icecrystal",
+    "count" : 1
+  },
+  "groups" : [ "fissionfurnace", "all" ]
+}

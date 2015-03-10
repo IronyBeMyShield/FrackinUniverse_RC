@@ -1,11 +1,11 @@
   {
   "id" : "1_biochemlab.gearup",
-  "prerequisites" : [ "8_tobiochem.gearup", "6_cinnabar.gearup", "7_blisterextract.gearup" ],
-  "title" : "^orange;The Biochem Lab",
+  "prerequisites" : [ "8_tobiochem.gearup", "6_cinnabar.gearup", "5_protocitebar.gearup" ],
+  "title" : "^#1693d5;The Biochem Lab",
   "text" : "Before you can really get started on science you are going to need a lot of resources. For that, you need a ^orange;Bio-Chem Lab^white;. It lets you make the chemicals and formulas you'll need. Build one now.",
   "completionText" : "This lab can create amazing chemical products. You're going to love it. If you don't blow yourself up, anyhow.",
   "conditions" : [ 
-    { "kind" : "gather", "item" : [ "biochemlab", 1], "consume" : false }
+    { "kind" : "gather", "item" : [ "chemlab", 1], "consume" : false }
   ],
   "moneyRange" : [0,0],
   "rewards" : [],
