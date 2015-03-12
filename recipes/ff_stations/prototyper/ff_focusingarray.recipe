@@ -1,9 +1,11 @@
 {
   "input" : [
     { "item" : "ff_plastic", "count" : 25 },
-    { "item" : "durasteelbar", "count" : 12 },
-    { "item" : "crystal", "count" : 50 },
-    { "item" : "diamond", "count" : 4 }
+    { "item" : "advancealloy", "count" : 12 },
+    { "item" : "icecrystal", "count" : 10 },
+    { "item" : "diamond", "count" : 4 },
+    { "item" : "magneticshielding", "count" : 2 },
+    { "item" : "electromagnet", "count" : 2 }
   ],
   "output" : {
     "item" : "ff_focusingarray",

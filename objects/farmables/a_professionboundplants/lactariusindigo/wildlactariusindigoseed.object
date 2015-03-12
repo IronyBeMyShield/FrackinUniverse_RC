@@ -2,7 +2,7 @@
   "objectName" : "wildlactariusindigoseed",
   "rarity" : "uncommon",
   "category" : "Farmable",
-  "description" : "Grow lactarius indigo mushrooms with this spore.",
+  "description" : "Protects against all known poisons.",
   "shortdescription" : "Lactarius Indigo Mushroom Spore",
   "objectType" : "farmable",
   "printable" : false,

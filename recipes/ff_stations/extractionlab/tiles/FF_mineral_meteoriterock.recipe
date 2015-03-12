@@ -4,7 +4,7 @@
   ],
   "output" : {
     "item" : "ff_silicon",
-    "count" : 2
+    "count" : 4
   },
   "groups" : [ "extractionlab", "all" ]
 }

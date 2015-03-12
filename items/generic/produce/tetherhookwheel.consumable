@@ -2,7 +2,7 @@
   "itemName" : "tetherhookwheel",
   "rarity" : "rare",
   "inventoryIcon" : "tetherhookwheel.png",
-  "description" : "Grants you immunity to fall damage.", //I'm gonna revamp this one to avoid fall damage for long time
+  "description" : "Grants you immunity to fall damage.", 
   "shortdescription" : "Tetherhook Wheel",
   "handPosition" : [8, 0],
   "effects" : [ [

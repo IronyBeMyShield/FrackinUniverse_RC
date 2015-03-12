@@ -2,17 +2,10 @@
   "objectName" : "miraclegrassseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "Grass renowned for its healing ability. Produces a long-term regeneration effect.",
+  "description" : "Grass renowned for its healing ability. Produces a weak long-term regeneration effect.",
   "shortdescription" : "Miracle Grass",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "Quite miraculous grass.",
-  "avianDescription" : "Absolutely miraculous grass.",
-  "floranDescription" : "Ssstunning, miraculousss grassss.",
-  "glitchDescription" : "Awe. Marvelous, miraculous grass.",
-  "humanDescription" : "A grassy miracle!",
-  "hylotlDescription" : "Glorious miracle grass.",
 
   "inventoryIcon" : "miraclegrassseedicon.png",
   "orientations" : [

@@ -2,17 +2,10 @@
   "objectName" : "glarestalkseed",
   "rarity" : "Legendary",
   "category" : "farmable",
-  "description" : "This is one damned ugly plant.",
+  "description" : "This is one ugly plant mutant. It's laden with rage-inducing chemicals.",
   "shortdescription" : "Glarestalk Gib",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "Glarestalk.",
-  "avianDescription" : "Glarestalk.",
-  "floranDescription" : "Glaressstalk.",
-  "glitchDescription" : "Statement. Glarestalk.",
-  "humanDescription" : "Glarestalk.",
-  "hylotlDescription" : "Glarestalk.",
   
   "inventoryIcon" : "glarestalkseedicon.png",
   "orientations" : [

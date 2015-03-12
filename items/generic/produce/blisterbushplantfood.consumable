@@ -6,7 +6,7 @@
   "shortdescription" : "Blister Sack",
   "effects" : [ [
       {
-        "effect" : "glow",
+        "effect" : "glowpurple",
         "amount" : "1.0",
         "duration" : 120
       }

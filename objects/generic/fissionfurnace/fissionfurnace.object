@@ -4,14 +4,15 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/fissionfurnace.config",
-    "filter" : [ "scififurnace", "fissionfurnace" ]
+    "filter" : [ "alloyfurnace", "scififurnace", "fissionfurnace" ]
   },
   "printable" : false,
   "description" : "This reliable unit is capable of making even the toughest alloys into usable metal.",
   "shortdescription" : "^orange;Fission Furnace^white;",
   "race" : "generic",
   "category" : "crafting",
-  "price" : 3250,
+  "price" : 1250,
+  "lightColor" : [0, 0, 90],
   "pickupQuestTemplates" : [ "fissionfurnace.gearup" ],
   "learnBlueprintsOnPickup" : [ "solaricrystal", "magnesiumpowder" ],
   "inventoryIcon" : "fissionfurnaceicon.png",

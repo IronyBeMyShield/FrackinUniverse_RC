@@ -2,17 +2,10 @@
   "objectName" : "ighantseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "The ighant is a curious, fast-growing plant. It negates hunger for a while.",
+  "description" : "The ighant is a curious, fast-growing plant. Provides kinetic reflection.",
   "shortdescription" : "Ighant Seed",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "An Ighant plant.",
-  "avianDescription" : "An Ighant plant.",
-  "floranDescription" : "An Ighant plant.",
-  "glitchDescription" : "Statement. An Ighant plant.",
-  "humanDescription" : "An Ighant plant.",
-  "hylotlDescription" : "An Ighant plant.",
 
   "inventoryIcon" : "ighantseedicon.png",
   "orientations" : [

@@ -2,17 +2,11 @@
   "objectName" : "wilderithianalgaeseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "Funky fungi fuel.",
+  "description" : "Mutant strain of algae loaded with energy.",
   "shortdescription" : "Erithian Algae",
   "objectType" : "farmable",
   "printable" : false,
   "objectItem" : "erithianalgaeseed",
-  "apexDescription" : "A great source of bio-fuel",
-  "avianDescription" : "A great source of bio-fuel",
-  "floranDescription" : "A great sssource of bio-fuel",
-  "glitchDescription" : "Statement. A great source of bio-fuel",
-  "humanDescription" : "A great source of bio-fuel",
-  "hylotlDescription" : "A great source of bio-fuel",
 
   "inventoryIcon" : "erithianalgaeicon.png",
   "orientations" : [

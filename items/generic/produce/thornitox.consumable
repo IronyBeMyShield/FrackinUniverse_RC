@@ -2,7 +2,7 @@
   "itemName" : "thornitox",
   "rarity" : "Common",
   "inventoryIcon" : "thornitox.png",
-  "description" : "Poisonous. Makes weapons.",
+  "description" : "Poisonous. Do not eat. Makes weapons.",
   "shortdescription" : "Thornitox Dongle",
   "effects" : [ [
       {

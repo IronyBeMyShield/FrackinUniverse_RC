@@ -2,17 +2,11 @@
   "objectName" : "wildminkocoapodseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "A minkocoa plant, a variant of cocoa favored by mustelids.",
+  "description" : "A minkocoa plant, a variant of cocoa favored by mustelids. Provides absurd energy rush.",
   "shortdescription" : "Minkocoa Seed",
   "objectType" : "farmable",
   "printable" : false,
   "objectItem" : "minkocoapodseed",
-  "apexDescription" : "The minkocoa pod contains an unpleasant chemical that only mustelids are resistant to.",
-  "avianDescription" : "Minkocoa pods make spicy chocolate.",
-  "floranDescription" : "Weasssel food.",
-  "glitchDescription" : "Disinterest. Minkocoa for making chocolate for weasels.",
-  "humanDescription" : "Minkocoa pods can be used to make chocolate for weasels. I don't know if that's a good thing or bad thing.",
-  "hylotlDescription" : "I prefer real chocolate.",
 
   "inventoryIcon" : "minkocoapodseedicon.png",
   "orientations" : [

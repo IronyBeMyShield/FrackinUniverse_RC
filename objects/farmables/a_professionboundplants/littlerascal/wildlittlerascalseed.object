@@ -2,7 +2,7 @@
   "objectName" : "wildlittlerascalseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Grow little rascal with this seed.",
+  "description" : "It's produce will provide increased vitality.",
   "shortdescription" : "Little Rascal Seed",
   "objectType" : "farmable",
   "printable" : false,

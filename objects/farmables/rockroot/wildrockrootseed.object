@@ -2,17 +2,11 @@
   "objectName" : "wildrockrootseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "A very hard vegetable.",
+  "description" : "A very hard vegetable, capable of resisting damage.",
   "shortdescription" : "Rockroot Seed",
   "objectType" : "farmable",
   "printable" : false,
   "objectItem" : "rockrootseed",
-  "apexDescription" : "Appropriately named. This vegetable is hard as a rock.",
-  "avianDescription" : "A farmable rock is kind of cute.",
-  "floranDescription" : "Plant too hard for Floran.",
-  "glitchDescription" : "Analysis. This plant is difficult to penetrate.",
-  "humanDescription" : "A rock plant, without the roll, I guess.",
-  "hylotlDescription" : "Rockroot is very unpleasant to eat.",
 
   "inventoryIcon" : "rockrootseedicon.png",
   "orientations" : [

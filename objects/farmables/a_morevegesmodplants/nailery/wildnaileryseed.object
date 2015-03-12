@@ -8,13 +8,6 @@
   "printable" : false, 
   "objectItem" : "mineralsample",
 
-  "apexDescription" : "It has been said that Big Ape could eat handfuls of nailery raw!",
-  "avianDescription" : "This chipped my beak.",
-  "floranDescription" : "The tassste of rusty nailery in my mouth isss almost orgasssmic.",
-  "glitchDescription" : "Excited. This will surely help digestion.",
-  "humanDescription" : "Lil' crunchy.",
-  "hylotlDescription" : "This is not vegetable. This is appalling.",
-
   "inventoryIcon" : "naileryseedicon.png",
   "orientations" : [
     {

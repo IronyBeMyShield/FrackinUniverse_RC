@@ -1,0 +1,10 @@
+{
+  "itemName" : "helium3gasliquid",
+  "rarity" : "Common",
+  "inventoryIcon" : "helium3gasliquid.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Helium-3",
+  "description" : "A very useful material for nuclear reactions.",
+
+  "liquid" : "helium3gas"
+}

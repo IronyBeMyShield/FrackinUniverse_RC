@@ -2,17 +2,10 @@
   "objectName" : "talonseedseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Genetically improved! Talonseed! 100% tastier nostril!.",
+  "description" : "Genetically improved! Talonseed! 100% tastier nostril!",
   "shortdescription" : "Talonseed Seed",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "The talonseed is unusually crunchy, and not entirely pleasant.",
-  "avianDescription" : "There's an old urban legend about Avians eating talonseeds at a banquet...",
-  "floranDescription" : "talonsssseed crunchy, not sssquishy like other mouthsss.",
-  "glitchDescription" : "Philosophical. Does the talonseed look like a beak, or do beaks look like talonseed?",
-  "humanDescription" : "The crop looks like an Avian face. It's a bit disconcerting.",
-  "hylotlDescription" : "talonseeds are surprisingly tasty. One can only assume beaks are nowhere near as palatable.",
 
   "inventoryIcon" : "talonseedicon.png",
   "orientations" : [

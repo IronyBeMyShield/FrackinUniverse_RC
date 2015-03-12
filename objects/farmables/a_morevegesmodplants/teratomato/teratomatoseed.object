@@ -2,17 +2,10 @@
   "objectName" : "teratomatoseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "A bloody amalgamation in the shape of a fruit.",
+  "description" : "A freakish mutant plant full of blood-filled tomatos.",
   "shortdescription" : "Teratomato Seed",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "Are those teeth...?",
-  "avianDescription" : "Supposedly these sometimes grow feathers.",
-  "floranDescription" : "All the body parts rolled into one!",
-  "glitchDescription" : "Strange. Bodily tissues do not exist in glitch.",
-  "humanDescription" : "The adventure is all in the hair!",
-  "hylotlDescription" : "Teratomatos taste much better when handled by a doctor. The cuisine grows better with each known body part. ",
 
   "inventoryIcon" : "teratomatoseedicon.png",
   "orientations" : [

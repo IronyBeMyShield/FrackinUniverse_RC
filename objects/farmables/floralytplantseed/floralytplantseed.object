@@ -2,17 +2,10 @@
   "objectName" : "floralytplantseed",
   "rarity" : "Legendary",
   "category" : "farmable",
-  "description" : "Perhaps the greatest healing, anywhere.",
+  "description" : "Perhaps the greatest healing agent known anywhere.",
   "shortdescription" : "Floralyt Seed",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "A Floralyt plant.",
-  "avianDescription" : "A Floralyt plant.",
-  "floranDescription" : "A Floralyt plant.",
-  "glitchDescription" : "Statement. A Floralyt plant.",
-  "humanDescription" : "A Floralyt plant.",
-  "hylotlDescription" : "A Floralyt plant.",
 
   "inventoryIcon" : "floralytplantseedicon.png",
   "orientations" : [

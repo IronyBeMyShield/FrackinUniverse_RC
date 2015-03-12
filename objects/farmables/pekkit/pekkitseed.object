@@ -7,13 +7,6 @@
   "objectType" : "farmable",
   "printable" : false,
 
-  "apexDescription" : "Deadly Pekkit.",
-  "avianDescription" : "A stunningly cold plant indeed.",
-  "floranDescription" : "Floran no like Pekkit.",
-  "glitchDescription" : "Concern. My sensors read a dangerously low air temperature surrounding that plant.",
-  "humanDescription" : "A frozen, freezing potato.",
-  "hylotlDescription" : "A refreshingly cold summer snack.",
-
   "inventoryIcon" : "pekkitseedicon.png",
   "orientations" : [
     {

@@ -2,17 +2,11 @@
   "objectName" : "wildporphisplantseed",
   "rarity" : "Rare",
   "category" : "farmable",
-  "description" : "These little darlings are like concentrated steroids.",
+  "description" : "Filled with various rage-inducing chemicals.",
   "shortdescription" : "Porphis Bulb",
   "objectType" : "farmable",
   "printable" : false, 
   "objectItem" : "dnasample",
-  "apexDescription" : "Rumor has is it that Big Ape's elite guard eats this daily.",
-  "avianDescription" : "Highly concentrated hormones.",
-  "floranDescription" : "Floran feel ssstrong after eating thisss.",
-  "glitchDescription" : "Careless. Glitch are not as susceptible to any side-effects as others.",
-  "humanDescription" : "Is that a nose?",
-  "hylotlDescription" : "It smells terrible.",
 
   "inventoryIcon" : "porphisplantseedicon.png",
   "orientations" : [

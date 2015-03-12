@@ -2,7 +2,7 @@
   "objectName" : "dragonsbeardseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Heat things up...",
+  "description" : "Nearly immune to all forms of heat.",
   "shortdescription" : "Dragons Beard Seed",
   "objectType" : "farmable",
   "printable" : false,

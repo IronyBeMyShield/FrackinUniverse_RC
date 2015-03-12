@@ -2,7 +2,7 @@
   "objectName" : "wildgreenleafseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Grow greenleaf with this seed.",
+  "description" : "A resorative herb.",
   "shortdescription" : "Greenleaf Seed",
   "objectType" : "farmable",
   "printable" : false,

@@ -2,7 +2,7 @@
   "objectName" : "goldenrootseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Golden power awaits.",
+  "description" : "Flecks of gold adorn this handy shielded vine.",
   "shortdescription" : "Golden Root Seed",
   "objectType" : "farmable",
   "printable" : false,

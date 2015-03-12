@@ -2,7 +2,7 @@
   "objectName" : "fayshroomseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "This plant has a protective aura.",
+  "description" : "Protects itself with spike-like cilia.",
   "shortdescription" : "Fayshroom Spore",
   "objectType" : "farmable",
   "printable" : false,

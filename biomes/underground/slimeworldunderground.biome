@@ -42,6 +42,36 @@
     "grassMod" : [ "greenslimegrass" ],
     "grassModDensity" : 0.9,
     "items" : [
+        {
+          "mode" : "floor",
+          "priority" : 2.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:denseMedium",
+
+          "type" : "bush",
+          "bushes" : [
+	            {
+	              "name" : "slimebush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            },
+	            {
+	              "name" : "tendonbush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            },
+	            {
+	              "name" : "gelatinousbush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            },
+	            {
+	              "name" : "podbush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            }
+          ]
+        },
          {
            "mode" : "floor",
            "priority" : 0.0,
@@ -147,6 +177,24 @@
              }
            ]
          },
+        {
+          "mode" : "floor",
+          "priority" : 1.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:ffunCommon",
+
+          "type" : "grass",
+          "grasses" : [ "gelatinousgrass", "mushroom", "puffplant", "blobby", "pods", "r", "shrooms"  ]
+        },  
+        {
+          "mode" : "ceiling",
+          "priority" : 1.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:ffunCommon",
+
+          "type" : "grass",
+          "grasses" : [ "gelatinousgrassceiling", "ceilingminipod", "ceilingweeds"  ]
+        }, 
          {
            "mode" : "ceiling",
            "priority" : 2.0,

@@ -8,13 +8,6 @@
   "printable" : false, 
   "objectItem" : "onionseed",
 
-  "apexDescription" : "I hope Big Ape doesn't see me crying.",
-  "avianDescription" : "Whenever I peck at these, the blood of the onion gets all over my eyes, and tears of dead comrades falls down my feathery cheek.",
-  "floranDescription" : "This is ssssilly, much too little blood.",
-  "glitchDescription" : "Confused. We are not able to cry.",
-  "humanDescription" : "My mom always said to use a very sharp knife while cutting an onion, so to not cry. This sword will do.",
-  "hylotlDescription" : "The enzymes released from onions cannot get in your eyes as easily in water.",
-
   "inventoryIcon" : "onionseedicon.png",
   "orientations" : [
     {

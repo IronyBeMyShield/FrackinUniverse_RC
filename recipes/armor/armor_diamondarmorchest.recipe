@@ -1,8 +1,9 @@
 {
   "input" : [
-    { "item" : "ff_penumbraplating", "count" : 10 },
-    { "item" : "magneticshielding", "count" : 4 },
-    { "item" : "ff_diamondplating", "count" : 10 }
+    { "item" : "ff_penumbraplating", "count" : 6 },
+    { "item" : "electromagnet", "count" : 2 },
+    { "item" : "ff_diamondplating", "count" : 5 },
+    { "item" : "eridianbar", "count" : 10 }
   ],
   "output" : {
     "item" : "ff_diamondarmorchest",

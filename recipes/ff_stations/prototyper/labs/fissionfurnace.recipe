@@ -1,11 +1,11 @@
 {
   "input" : [
-	{ "item" : "advancealloy", "count" : 4 },
 	{ "item" : "durasteelbar", "count" : 4 },
 	{ "item" : "cpu", "count" : 1 },
-	{ "item" : "particlecore", "count" : 1 },
-	{ "item" : "wire", "count" : 6 },
-	{ "item" : "coil", "count" : 6 }
+	{ "item" : "helium3gascannister", "count" : 1 },
+	{ "item" : "electromagnet", "count" : 2 },
+	{ "item" : "corefragmentore", "count" : 12 },
+	{ "item" : "coil", "count" : 4 }
   ],
   "output" : {
     "item" : "fissionfurnace",

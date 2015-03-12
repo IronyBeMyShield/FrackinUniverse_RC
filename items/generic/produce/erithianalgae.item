@@ -2,7 +2,7 @@
   "itemName" : "erithianalgae",
   "rarity" : "Common",
   "inventoryIcon" : "erithianalgae.png",
-  "description" : "A decent biofuel",
+  "description" : "A decent biofuel, even better if processed.",
   "shortdescription" : "Erithian Algae",
   "fuelAmount" : 3,
     "learnBlueprintsOnPickup" : [ "biofuelcannisteradv" ]

@@ -2,7 +2,7 @@
   "objectName" : "mintseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Fresh, healthy mint.",
+  "description" : "A new mint strain capable of filtering radiation.",
   "shortdescription" : "Mint Seed",
   "objectType" : "farmable",
   "printable" : false,

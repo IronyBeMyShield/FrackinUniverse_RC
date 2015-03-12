@@ -2,8 +2,8 @@
   "objectName" : "slimeplantseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Eating these is gross. Squishy, rubbery. Blech.",
-  "shortdescription" : "Slime Nut",
+  "description" : "Useful against slime and can protect against damage.",
+  "shortdescription" : "Slime Glob Bush",
   "objectType" : "farmable",
   "printable" : false, 
   

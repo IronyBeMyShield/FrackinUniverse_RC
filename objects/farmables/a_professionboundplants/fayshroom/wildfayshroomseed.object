@@ -2,7 +2,7 @@
   "objectName" : "wildfayshroomseed",
   "rarity" : "uncommon",
   "category" : "Farmable",
-  "description" : "Grow magical fayshrooms with this spore.",
+  "description" : "Protects itself with spike-like cilia. ",
   "shortdescription" : "Fayshroom Spore",
   "objectType" : "farmable",
   "printable" : false,

@@ -2,18 +2,12 @@
   "objectName" : "thornitoxseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Can grow Thornitox Plants, which produces repulsive (but filling!) sprouts. Must be placed on Tilled Ground for it to grow.",
+  "description" : "Poisonous and spiky. Thornitox could have use in weapons manufacture.",
   "shortdescription" : "Thornitox Seed",
   "objectType" : "farmable",
   "printable" : false, 
   "learnBlueprintsOnPickup" : [ "spikesword", "thornrifle", "thornslinger" ],
 
-  "apexDescription" : "A Thornitox Plant Seed.",
-  "avianDescription" : "A Thornitox Plant Seed.",
-  "floranDescription" : "A Thornitox Plant Seed.",
-  "glitchDescription" : "A Thornitox Plant Seed.",
-  "humanDescription" : "A Thornitox Plant Seed.",
-  "hylotlDescription" : "A Thornitox Plant Seed.",
   "inventoryIcon" : "thornitoxseedicon.png",
   "orientations" : [
     {

@@ -2,17 +2,10 @@
   "objectName" : "shockshroomseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "A Shock Shroom seed. Zappy owwie pain.",
+  "description" : "Shock shrooms make useful weapons when processed.",
   "shortdescription" : "Shock-Shroom Spore",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "Electric Mushrooms.",
-  "avianDescription" : "Electric Toadstools.",
-  "floranDescription" : "Floran hatsss zappy fruitsss.",
-  "glitchDescription" : "Analysis. This fungus is electric.",
-  "humanDescription" : "Ow. Why does this have voltage?.",
-  "hylotlDescription" : "Mushrooms. With voltage. Odd, that.",
 
   "inventoryIcon" : "shockshroomseedicon.png",
   "orientations" : [

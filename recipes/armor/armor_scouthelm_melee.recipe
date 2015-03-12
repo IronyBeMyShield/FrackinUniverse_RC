@@ -3,7 +3,7 @@
     { "item" : "ff_protoplating", "count" : 5 },
     { "item" : "vialproto", "count" : 2 },
     { "item" : "titaniumbar", "count" : 5 },
-    { "item" : "prisiliteore", "count" : 3 }
+    { "item" : "corefragmentore", "count" : 3 }
   ],
   "output" : {
     "item" : "ff_scouthelm_melee",

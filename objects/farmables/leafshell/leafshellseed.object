@@ -2,17 +2,10 @@
   "objectName" : "leafshellseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "A leafy egg vegetable. The shell is crunchy.",
+  "description" : "A leafy egg vegetable that resists any and all liquids, save for water.",
   "shortdescription" : "Leafshell Seed",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "The leafshell is crunchy, as one would expect from an eggshell.",
-  "avianDescription" : "Do leafshell eggs hatch?",
-  "floranDescription" : "Plant is an eggsshell without the yolk.",
-  "glitchDescription" : "Analysis. Plant looks like an egg, but contains no yolk.",
-  "humanDescription" : "It's like eating an egg, except the wrong part of it.",
-  "hylotlDescription" : "Leafshells are excellent served with a quality sauce dip.",
 
   "inventoryIcon" : "leafshellseedicon.png",
   "orientations" : [

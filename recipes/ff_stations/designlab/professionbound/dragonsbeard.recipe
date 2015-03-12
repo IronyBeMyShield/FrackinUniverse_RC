@@ -1,6 +1,7 @@
 {
   "input" : [
     { "item" : "firegene", "count" : 1 },
+    { "item" : "corefragmentore", "count" : 3 },
     { "item" : "cellhardening1", "count" : 1 },
     { "item" : "biospore", "count" : 9 }
   ],

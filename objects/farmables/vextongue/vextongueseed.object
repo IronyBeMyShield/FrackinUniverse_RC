@@ -2,17 +2,10 @@
   "objectName" : "vextongueseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Vextongue is a great natural performance enhancer.",
+  "description" : "Vextongue is a great natural healing alternative.",
   "shortdescription" : "Vextongue Seed",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "A Vextongue Seed.",
-  "avianDescription" : "A Vextongue Seed.",
-  "floranDescription" : "A Vextongue Seed.",
-  "glitchDescription" : "A Vextongue Seed.",
-  "humanDescription" : "A Vextongue Seed.",
-  "hylotlDescription" : "A Vextongue Seed.",
 
   "inventoryIcon" : "vextongueseedicon.png",
   "orientations" : [

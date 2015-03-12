@@ -2,18 +2,11 @@
   "objectName" : "haleflowerseed",
   "rarity" : "Legendary",
   "category" : "farmable",
-  "description" : "This custom-made flower boasts impressive energy restoration ability.",
+  "description" : "For a plant, it stores an astounding amoung of energy.",
   "shortdescription" : "Haleflower Seed",
   "objectType" : "farmable",
   "printable" : false, 
   
-  "apexDescription" : "Haleflower.",
-  "avianDescription" : "Haleflower.",
-  "floranDescription" : "Haleflower.",
-  "glitchDescription" : "Statement. Haleflower.",
-  "humanDescription" : "Haleflower.",
-  "hylotlDescription" : "Haleflower.",
-
   "inventoryIcon" : "haleflowerseedicon.png",
   "orientations" : [
     {

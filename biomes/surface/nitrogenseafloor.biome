@@ -35,7 +35,7 @@
         "distribution" : "/biomes/distributions.config:scatteredSmall",
 
         "type" : "grass",
-        "grasses" : [ "corals", "seaweed", "waterplant2", "waterplant3" ]
+        "grasses" : [ "corals", "seaweed", "nitrogengrass" ]
       },
       {
         "mode" : "floor",

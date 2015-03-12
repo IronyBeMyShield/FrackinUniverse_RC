@@ -2,17 +2,10 @@
   "objectName" : "littlegoodberryseed",
   "rarity" : "Common",
   "category" : "farmable",
-   "description" : "A little good berry seed. It's little, and it's good!",
+   "description" : "Small, delicious berries that also increase your ability to cause pain.",
   "shortdescription" : "Little Good Berry Seed",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "I should use this to flavor some nice banana dishes.",
-  "avianDescription" : "Little good berries taste a bit like honey and also a bit sour.",
-  "floranDescription" : "Little berriesss are good.",
-  "glitchDescription" : "Affectionate. Anything little and good is adorable.",
-  "humanDescription" : "These little berries are the perfect balance of sweet and sour.",
-  "hylotlDescription" : "These berries have a distinct taste that is good for flavoring many dishes.",
 
   "inventoryIcon" : "littlegoodberryseedicon.png",
   "orientations" : [

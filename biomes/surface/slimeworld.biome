@@ -138,7 +138,16 @@
           "distribution" : "/biomes/distributions.config:ffunCommon",
 
           "type" : "grass",
-          "grasses" : [ "grass", "mushroom", "puffplant", "blobby", "wflower", "testflower", "testflower2", "testflower3", "testflower4", "testflower5", "testflower6", "testflower7", "circles", "bell", "colourfulflower", "dandy", "fancy", "fireflower", "lillies", "pebbles", "pods", "r", "rockstacks", "sflower", "shrooms", "signplant", "spin", "sprout", "sunflower", "thinstem", "weedy"  ]
+          "grasses" : [ "gelatinousgrass", "mushroom", "puffplant", "blobby", "pods", "r", "shrooms"  ]
+        },  
+        {
+          "mode" : "ceiling",
+          "priority" : 1.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:ffunCommon",
+
+          "type" : "grass",
+          "grasses" : [ "gelatinousgrassceiling", "ceilingminipod", "ceilingweeds" ]
         },  
         {
           "mode" : "floor",
@@ -287,7 +296,7 @@
 	              "modHueShiftMax" : 220
 	            },
 	            {
-	              "name" : "tentacleshrub",
+	              "name" : "gelatinousbush",
 	              "baseHueShiftMax" : 60,
 	              "modHueShiftMax" : 220
 	            },
@@ -441,6 +450,36 @@
           "treeStemHueShiftMax" : 180,
           "treeStemList" : [ "slimevine", "podvine2" ],
           "treeFoliageList" : [ "flowery", "starry", "dreamy", "nofoliagevine" ]
+        },
+        {
+          "mode" : "floor",
+          "priority" : 2.0,
+          "variants" : 1,
+          "distribution" : "/biomes/distributions.config:denseMedium",
+
+          "type" : "bush",
+          "bushes" : [
+	            {
+	              "name" : "slimebush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            },
+	            {
+	              "name" : "tendonbush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            },
+	            {
+	              "name" : "gelatinousbush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            },
+	            {
+	              "name" : "podbush",
+	              "baseHueShiftMax" : 60,
+	              "modHueShiftMax" : 220
+	            }
+          ]
         }
       ]
     }

@@ -2,7 +2,7 @@
   "objectName" : "lactariusindigoseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Unreliable protection",
+  "description" : "Protects against all known poisons.",
   "shortdescription" : "Lactarius Indigo Mushroom Spore",
   "objectType" : "farmable",
   "printable" : false,

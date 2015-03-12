@@ -2,17 +2,10 @@
   "objectName" : "blisterbushplantseed",
   "rarity" : "Rare",
   "category" : "farmable",
-  "description" : "Blister Pod. Yeah... That sounds tasty.",
+  "description" : "A bioluminescent mutant plant, with numerous applications.",
   "shortdescription" : "Blister Pod",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "A Blister Pod.",
-  "avianDescription" : "A Blister Pod.",
-  "floranDescription" : "A Blissster Pod.",
-  "glitchDescription" : "Statement. A Blister Pod.",
-  "humanDescription" : "A Blister Pod.",
-  "hylotlDescription" : "A Blister Pod.",
   
   "lightColor" : [255, 0, 255],
  

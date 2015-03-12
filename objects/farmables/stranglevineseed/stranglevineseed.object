@@ -2,7 +2,7 @@
   "objectName" : "stranglevineseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "It's roots have healing properties.",
+  "description" : "It's roots lash out when attacked.",
   "shortdescription" : "Strangler Vine",
   "objectType" : "farmable",
   "printable" : false,

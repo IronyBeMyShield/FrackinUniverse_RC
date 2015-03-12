@@ -2,7 +2,7 @@
   "itemName" : "energiflower",
   "rarity" : "Common",
   "inventoryIcon" : "energiflowericon.png",
-  "description" : "Restores some energy.",
+  "description" : "Restores some energy. Also acts as a minor fuel.",
   "shortdescription" : "Energiflower",  
   "fuelAmount" : 4,
   "effects" : [ [

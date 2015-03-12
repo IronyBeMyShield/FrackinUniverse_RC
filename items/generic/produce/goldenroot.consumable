@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "category" : "Farmable",
   "inventoryIcon" : "goldenrooticon.png",
-  "description" : "Instantly restores half  of your shield.", 
+  "description" : "Instantly restores half of your shield.", 
   "shortdescription" : "Golden Root",
   "effects" : [ [
       {

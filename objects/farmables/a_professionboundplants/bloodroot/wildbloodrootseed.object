@@ -2,7 +2,7 @@
   "objectName" : "wildbloodrootseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Grow blood root with this seed.",
+  "description" : "Vitality-increasing plant.",
   "shortdescription" : "Blood Root Seed",
   "objectType" : "farmable",
   "printable" : false,

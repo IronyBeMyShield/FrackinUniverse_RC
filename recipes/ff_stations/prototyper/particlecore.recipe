@@ -2,8 +2,9 @@
   "input" : [
     { "item" : "particlecannister", "count" : 1 },
     { "item" : "steelbar", "count" : 6 },
-    { "item" : "magneticshielding", "count" : 1 },
-    { "item" : "circuitboard", "count" : 2 }
+    { "item" : "magneticshielding", "count" : 2 },
+    { "item" : "electromagnet", "count" : 4 },
+    { "item" : "advcircuit", "count" : 2 }
   ],
   "output" : {
     "item" : "particlecore",

@@ -1,0 +1,8 @@
+{
+  "itemName" : "graphene",
+  "rarity" : "Common",
+  "inventoryIcon" : "graphene.png",
+  "description" : "Graphene is almost magical. Unlimited application.",
+  "shortdescription" : "^cyan;Graphene^white;",
+  "learnBlueprintsOnPickup" : [ "eridianore" ]
+}

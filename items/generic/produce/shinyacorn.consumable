@@ -2,13 +2,13 @@
   "itemName" : "shinyacorn",
   "rarity" : "Common",
   "inventoryIcon" : "shinyacornicon.png",
-  "description" : "It's so shiny!",
+  "description" : "Provides a substantial health boost.",
   "shortdescription" : "Shiny Acorn",
   "effects" : [ [
       {
-        "effect" : "maxHaalth",
-        "amount" : 50,
-        "duration" : 30
+        "effect" : "maxHealth",
+        "amount" : 120,
+        "duration" : 60
       }
     ] ]
 }

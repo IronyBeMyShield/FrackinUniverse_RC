@@ -2,7 +2,7 @@
   "itemName" : "helium3cannister",
   "rarity" : "Uncommon",
   "inventoryIcon" : "helium3cannister.png",
-  "description" : "A very useful gaz that can be used in old fusion reactors.",
-  "shortdescription" : "Helium 3 cannister",
-  "learnBlueprintsOnPickup" : [ "" ]
+  "description" : "A very useful gas that can be used in fusion reactions.",
+  "shortdescription" : "Helium 3 Canister",
+  "fuel" : 10
 }

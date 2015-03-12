@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "ff_penumbraplating", "count" : 6 },
     { "item" : "magneticshielding", "count" : 2 },
-    { "item" : "ff_diamondplating", "count" : 6 }
+    { "item" : "ff_diamondplating", "count" : 3 },
+    { "item" : "eridianbar", "count" : 4 }
   ],
   "output" : {
     "item" : "ff_diamondarmorhead",

@@ -2,17 +2,10 @@
   "objectName" : "wildignuschiliseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Yow. This is hot.",
+  "description" : "200% spicier than a normal chili. Also makes a handy weapon.",
   "shortdescription" : "Ignus Chili Seed",
   "objectType" : "farmable",
   "objectItem" : "dnasample",
-
-  "apexDescription" : "Twenty times as spicy as ordinary Chili.",
-  "avianDescription" : "Twenty times as spicy as ordinary Chili.",
-  "floranDescription" : "Twenty timesss asss hot as ordinary Chili.",
-  "glitchDescription" : "Statement. Twenty times as spicy as ordinary Chili.",
-  "humanDescription" : "Twenty times as spicy as ordinary Chili.",
-  "hylotlDescription" : "Twenty times as spicy as ordinary Chili.",
 
   "inventoryIcon" : "ignuschiliseedicon.png",
   "orientations" : [

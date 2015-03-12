@@ -2,17 +2,10 @@
   "objectName" : "nissseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Terrible taste, protective effect",
+  "description" : "Terrible taste, but utterly immune to bio-ooze.",
   "shortdescription" : "Niss Seed",
   "objectType" : "farmable",
   "printable" : false,
-
-  "apexDescription" : "The strange Niss plant.",
-  "avianDescription" : "The weird Niss plant.",
-  "floranDescription" : "Nissssss.",
-  "glitchDescription" : "Statement. Niss plant.",
-  "humanDescription" : "The awkward Niss plant",
-  "hylotlDescription" : "The ugly Niss plant.",
 
   "inventoryIcon" : "nissseedicon.png",
   "orientations" : [

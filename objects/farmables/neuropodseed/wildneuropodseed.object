@@ -2,17 +2,11 @@
   "objectName" : "wildneuropodseed",
   "rarity" : "Rare",
   "category" : "farmable",
-  "description" : "Gross. Brain plant.",
+  "description" : "Truly a mad-science creation. Extremely potent effects.",
   "shortdescription" : "Neuropod Seed",
   "objectType" : "farmable",
   "printable" : false, 
   "objectItem" : "neuropodseed",
-  "apexDescription" : "It reminds me of those Apex experiments...",
-  "avianDescription" : "Well... at least it's a smart plant?",
-  "floranDescription" : "Floran enjoysss thisss plant.",
-  "glitchDescription" : "Statement. This plant does not disturb Glitch.",
-  "humanDescription" : "Ew! Let's see what sprouts out of it!",
-  "hylotlDescription" : "...there are no words which accurately surmise my dislike for this plant.",
 
   "inventoryIcon" : "neuropodseedicon.png",
   "orientations" : [

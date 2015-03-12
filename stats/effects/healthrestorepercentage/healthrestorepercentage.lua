@@ -1,6 +1,9 @@
 function init()
 
-	self.restorepercentage = effect.configParameter("healthrestore") or 0.5
-	status.modifyResourcePercentage("health", self.restorepercentage)
+healP = effect.configParameter("healPercent", 0) -- Heal percent is the configParameter in the json statuseffects file
+self.healingrate = (status.resourceMax("health") * healP) / effect.duration()
 	
 end
+
+
+

@@ -2,7 +2,7 @@
   "itemName" : "wubstem",
   "rarity" : "Common",
   "inventoryIcon" : "wubstemicon.png",
-  "description" : "This edible crap makes you angry!",
+  "description" : "This edible...stuff...makes you angry!",
   "shortdescription" : "Wubstem",
   "effects" : [ [
       "rage"

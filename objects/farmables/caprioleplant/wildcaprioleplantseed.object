@@ -2,7 +2,7 @@
   "objectName" : "wildcaprioleplantseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Grows into Capriole plants, which increase leg muscle strength.",
+  "description" : "Grows into Capriole plants, which increase leg muscle strength in fauna.",
   "shortdescription" : "Capriole Seed",
   "objectType" : "farmable",
   "printable" : false, 

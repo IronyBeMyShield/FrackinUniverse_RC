@@ -3,7 +3,7 @@
   "rarity" : "uncommon",
   "category" : "Farmable",
   "inventoryIcon" : "goldshroom.png",
-  "description" : "I don't really know if I should eat this...being that it glows...",
+  "description" : "Provides glowing aura to the user.",
   "shortdescription" : "Gold Shroom",
   "effects" : [ [
       {

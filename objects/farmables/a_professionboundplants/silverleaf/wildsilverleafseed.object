@@ -2,7 +2,7 @@
   "objectName" : "wildsilverleafseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Grow silverleaf with this seed.",
+  "description" : "Immune to most cold, save for that considered Extreme.",
   "shortdescription" : "Silverleaf Seed",
   "objectType" : "farmable",
   "printable" : false,

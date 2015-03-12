@@ -2,8 +2,8 @@
   "objectName" : "wildstranglevineseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "A healing herb.",
-  "shortdescription" : "Strangler VIne Seed",
+  "description" : "It's roots lash out when attacked.",
+  "shortdescription" : "Strangler Vine Seed",
   "objectType" : "farmable",
   "objectItem" : "vineseed",
 

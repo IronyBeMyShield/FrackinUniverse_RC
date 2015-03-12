@@ -2,17 +2,10 @@
   "objectName" : "vashtaplantseed",
   "rarity" : "Uncommon",
   "category" : "farmable",
-  "description" : "Vashta is ugly stuff.",
+  "description" : "Vashta is ugly stuff, but not as ugly as the rage it induces.",
   "shortdescription" : "Vashta",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "A Vashta Seed.",
-  "avianDescription" : "A Vashta Seed.",
-  "floranDescription" : "A Vashta Seed.",
-  "glitchDescription" : "A Vashta Seed.",
-  "humanDescription" : "A Vashta Seed.",
-  "hylotlDescription" : "A Vashta Seed.",
   
   "inventoryIcon" : "vashtaplantseedicon.png",
   "orientations" : [

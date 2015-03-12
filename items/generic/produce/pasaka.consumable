@@ -6,8 +6,8 @@
   "shortdescription" : "Pasaka Bulb",
   "effects" : [ [
       {
-        "effect" : "glow",
-        "amount" : "1.55",
+        "effect" : "glowblue",
+        "amount" : "1.0",
         "duration" : 120
       }
     ] ],

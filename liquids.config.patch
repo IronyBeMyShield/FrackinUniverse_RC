@@ -222,5 +222,53 @@
         "bottomLightMix" : [160, 25, 25],
         "textureMovementFactor" : 1.6        
 	}
+    },
+    { "op" : "add", 
+    "path" : "/liquids/49", 
+	"value" : { 
+	"name" : "helium3gas",
+	"tickDelta" : 1,
+	"color" : [255, 255, 255, 0],
+	"radiantLight" : [0, 0, 0],
+        "statusEffects" : [ "lowgrav" ],
+        "itemDrop" : "helium3gasliquid",
+        "interactions" : [
+          {
+            "liquid" : 3,
+            "liquidResult" : 3
+          },
+          {
+            "liquid" : 8,
+            "liquidResult" : 8
+          }
+        ],
+        "texture" : "/liquids/watertex.png",
+        "bottomLightMix" : [255, 255, 255],
+        "textureMovementFactor" : 1.6        
+	}
+    },
+    { "op" : "add", 
+    "path" : "/liquids/50", 
+	"value" : { 
+	"name" : "shadowgas",
+	"tickDelta" : 1,
+	"color" : [0, 0, 0, 5],
+	"radiantLight" : [0, 0, 0],
+        "statusEffects" : [ "shadowgasfx" ],
+        "itemDrop" : "shadowgasliquid",
+        "interactions" : [
+          {
+            "liquid" : 3,
+            "liquidResult" : 50
+          },
+          {
+            "liquid" : 8,
+            "liquidResult" : 8
+          }
+        ],
+        "texture" : "/liquids/watertex.png",
+        "bottomLightMix" : [0, 0, 0],
+        "textureMovementFactor" : 1.6        
+	}
     }
 ]

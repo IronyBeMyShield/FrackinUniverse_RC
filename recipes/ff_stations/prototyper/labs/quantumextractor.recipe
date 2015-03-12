@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "densealloy", "count" : 20 },
+    { "item" : "densealloy", "count" : 12 },
     { "item" : "advcircuit", "count" : 20 },
-    { "item" : "particlecannister", "count" : 1 },
+    { "item" : "electromagnet", "count" : 10 },
     { "item" : "extractionlab", "count" : 1 },
     { "item" : "ff_diamondplating", "count" : 6 },
     { "item" : "nuclearcore", "count" : 1 },

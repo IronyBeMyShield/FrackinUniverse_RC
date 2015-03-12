@@ -2,7 +2,7 @@
   "objectName" : "wildguamseed",
   "rarity" : "uncommon",
   "category" : "Farmable",
-  "description" : "Grow guam with this seed.",
+  "description" : "This mutant strain of guam can filter any and all radiation.",
   "shortdescription" : "Guam Seed",
   "objectType" : "farmable",
   "printable" : false,

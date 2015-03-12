@@ -2,7 +2,7 @@
   "objectName" : "zathiseed",
   "rarity" : "rare",
   "category" : "farmable",
-  "description" : "A truly impossible floating plant.",
+  "description" : "A truly impossible floating plant capable of altering the effect of gravity.",
   "shortdescription" : "Zathi Seed",
   "objectType" : "farmable",
   "printable" : false,

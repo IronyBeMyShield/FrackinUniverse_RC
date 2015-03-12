@@ -269,12 +269,14 @@
 	
 {"op":"add",
 	"path":"/mutaviskHarvest", 
-	"value":[[0, {"fill":[{"item":"mutaviskseed"}, 
-		{"item":"mutavisksilk"}]}]]},
+	"value":[[0, {"fill":[
+	{"item":"mutaviskseed"}, 
+	{"item":"mutavisksilk"}]}]]
+},
 		
 {"op":"add",
 	"path":"/wildmutaviskHarvest", 
-	"value":[[0, {"fill":[{"item":"ff_resin"}], 
+	"value":[[0, {"fill":[{"item":"mutavisksilk"}], 
 	"pool":[{"weight":0.7, "item":"ff_resin"}, 
 		{"weight":0.1, "item":"plantfibre"}], 
 	"poolRounds":[[0.7, 2], [0.3, 3]]}]]}, 

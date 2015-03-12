@@ -2,17 +2,10 @@
   "objectName" : "genesiberryseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "The genesis of a new plant human starts here.",
+  "description" : "The genesis of a new breed of plant. A strange, potent hybrid.",
   "shortdescription" : "Genesiberry Seed",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "I could be 'Epoch Magazine's Ape of the Year' with this!",
-  "avianDescription" : "These humans sure are kinky.",
-  "floranDescription" : "All the fun of eating humansss is taken out by these.",
-  "glitchDescription" : "Strange. Humans have strange diets.",
-  "humanDescription" : "If I ever want to be a cannibal I will eat this.",
-  "hylotlDescription" : "Mystery meat. Great for surprising cooking.",
 
   "inventoryIcon" : "genesiberryseedicon.png",
   "orientations" : [

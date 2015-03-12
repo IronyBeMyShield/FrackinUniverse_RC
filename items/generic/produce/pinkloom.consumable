@@ -3,7 +3,7 @@
   "rarity" : "uncommon",
   "category" : "Farmable",
   "inventoryIcon" : "pinkloom.png",
-  "description" : "Affects your personal gravity. Seriously.",
+  "description" : "Affects your personal gravity.",
   "shortdescription" : "Pinkloom Herb",
   "effects" : [ [
       {

@@ -2,7 +2,7 @@
   "objectName" : "bluemelonseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "This plant is damned delicious.",
+  "description" : "Both delicious and deadly, depending on your use.",
   "shortdescription" : "Blue Melon Seed",
   "objectType" : "farmable",
   "printable" : false,

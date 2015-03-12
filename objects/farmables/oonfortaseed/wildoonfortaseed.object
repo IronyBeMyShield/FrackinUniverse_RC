@@ -6,13 +6,8 @@
   "shortdescription" : "Oonforta Seed",
   "objectType" : "farmable",
   "printable" : false, 
-    "objectItem" : "dnasample",
-  "apexDescription" : "An Oonforta plant.",
-  "avianDescription" : "An Oonforta plant.",
-  "floranDescription" : "Oonforta plant!",
-  "glitchDescription" : "Statement. An Oonforta plant.",
-  "humanDescription" : "An Oonforta thingy.",
-  "hylotlDescription" : "An Oonforta plant.",
+  "objectItem" : "dnasample",
+
   "lightColor" : [90, 90, 90],
   "inventoryIcon" : "oonfortaseedicon.png",
   "orientations" : [

@@ -1,0 +1,10 @@
+{
+  "itemName" : "shadowgasliquid",
+  "rarity" : "Common",
+  "inventoryIcon" : "shadowgasliquid.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Shadow Gas",
+  "description" : "Dark matter given gaseous form.",
+
+  "liquid" : "shadowgas"
+}

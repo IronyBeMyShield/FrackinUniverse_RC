@@ -7,13 +7,6 @@
   "objectType" : "farmable",
   "printable" : false, 
   "objectItem" : "dnasample",
-
-  "apexDescription" : "A Blister Pod.",
-  "avianDescription" : "A Blister Pod.",
-  "floranDescription" : "A Blissster Pod.",
-  "glitchDescription" : "Statement. A Blister Pod.",
-  "humanDescription" : "A Blister Pod.",
-  "hylotlDescription" : "A Blister Pod.",
   
   "lightColor" : [255, 0, 255],
   

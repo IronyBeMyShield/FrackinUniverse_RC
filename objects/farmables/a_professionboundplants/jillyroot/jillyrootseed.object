@@ -2,7 +2,7 @@
   "objectName" : "jillyrootseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Absorbs kinetic force.",
+  "description" : "Able to help speed healing of wounds.",
   "shortdescription" : "Jilly Root Seed",
   "objectType" : "farmable",
   "printable" : false,

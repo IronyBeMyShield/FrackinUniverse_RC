@@ -2,17 +2,11 @@
   "objectName" : "wildbrackentreeseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "Bracken trees have sticky resin, and silk.",
+  "description" : "Bracken provide essential Resin and Silk.",
   "shortdescription" : "Bracken Tree Seed",
   "objectType" : "farmable",
   "printable" : false,
   "objectItem" : "dnasample",
-  "apexDescription" : "Some resin moves slowly inside.",
-  "avianDescription" : "Avian use these trees to make airships .",
-  "floranDescription" : "Sssweet sssticky.",
-  "glitchDescription" : "Curious. Resin flows within. Sticky could be useful.",
-  "humanDescription" : "I remenber these trees taller.",
-  "hylotlDescription" : "Can be used to create rubber.",
 
   "inventoryIcon" : "brackentreeicon.png",
   "orientations" : [

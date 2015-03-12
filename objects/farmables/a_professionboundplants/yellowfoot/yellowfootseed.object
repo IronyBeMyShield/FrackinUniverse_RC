@@ -2,7 +2,7 @@
   "objectName" : "yellowfootseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Enhances running speed!",
+  "description" : "Tar runs like water when poured over this plant.",
   "shortdescription" : "Yellowfoot Mushroom Spore",
   "objectType" : "farmable",
   "printable" : false,

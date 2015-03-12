@@ -2,17 +2,10 @@
   "objectName" : "lasherplantseed",
   "rarity" : "Rare",
   "category" : "farmable",
-  "description" : "Lashers are nasty things, and can induce rage.",
+  "description" : "Lashers are nasty things, and can induce rage. Their tongues are useful, too.",
   "shortdescription" : "Lasher Seed",
   "objectType" : "farmable",
   "printable" : false, 
-  
-  "apexDescription" : "A Lasher plant.",
-  "avianDescription" : "A Lasher plant.",
-  "floranDescription" : "A Lasssher plant.",
-  "glitchDescription" : "Furious. A Lasher plant.",
-  "humanDescription" : "A Lasher plant.",
-  "hylotlDescription" : "A Lasher plant.",
   
   "lightColor" : [1, 1, 1],
   "flickerDistance" : 0.0,

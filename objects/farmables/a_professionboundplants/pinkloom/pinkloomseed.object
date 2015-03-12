@@ -2,7 +2,7 @@
   "objectName" : "pinkloomseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Enhances with a double jump!.",
+  "description" : "This plant resists the effects of gravity.",
   "shortdescription" : "Pinkloom Seed",
   "objectType" : "farmable",
   "printable" : false,

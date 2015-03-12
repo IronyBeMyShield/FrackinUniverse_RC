@@ -321,7 +321,7 @@
           "distribution" : "/biomes/distributions.config:potsRare",
 
           "type" : "grass",
-          "grasses" : [ "geometricflower" ]
+          "grasses" : [ "geometricflower", "nitrogengrass" ]
         }
       ]
     },

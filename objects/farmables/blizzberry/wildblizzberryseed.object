@@ -2,18 +2,11 @@
   "objectName" : "wildblizzberryseed",
   "rarity" : "Common",
   "category" : "farmable",
-  "description" : "A snowstorm packed into one tiny fruit. Only suitable to snow creatures.",
+  "description" : "Immune to even the most extreme cold.",
   "shortdescription" : "Blizzberry Seed",
   "objectType" : "farmable",
   "printable" : false,
   "objectItem" : "blizzberryseed",
-
-  "apexDescription" : "Blizzberries. They're only appropriate to consume in hot, arid conditions.",
-  "avianDescription" : "These berries would make my beak frozen.",
-  "floranDescription" : "Berries makesss Floran too cold.",
-  "glitchDescription" : "Reluctant. Berries would impair internal system functionality.",
-  "humanDescription" : "I have always wanted to freeze to death...Wait, actually no.",
-  "hylotlDescription" : "An awful thing to eat, especially for aquatic people.",
 
   "inventoryIcon" : "blizzberryseedicon.png",
   "orientations" : [

@@ -2,7 +2,7 @@
   "objectName" : "wildpinkloomseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Grow pinkloom with this seed.",
+  "description" : "This plant resists the effects of gravity.",
   "shortdescription" : "Pinkloom Seed",
   "objectType" : "farmable",
   "printable" : false,

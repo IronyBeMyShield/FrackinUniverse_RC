@@ -2,7 +2,7 @@
   "objectName" : "wildmintseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Grow mint with this seed.",
+  "description" : "A new mint strain capable of filtering radiation.",
   "shortdescription" : "Mint Seed",
   "objectType" : "farmable",
   "printable" : false,

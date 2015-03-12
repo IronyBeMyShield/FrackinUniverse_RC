@@ -2,7 +2,7 @@
   "objectName" : "greenleafseed",
   "rarity" : "common",
   "category" : "Farmable",
-  "description" : "Restores both energy and health.",
+  "description" : "A resorative herb.",
   "shortdescription" : "Greenleaf Seed",
   "objectType" : "farmable",
   "printable" : false,

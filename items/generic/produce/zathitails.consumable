@@ -9,7 +9,7 @@
       {
         "effect" : "lowgrav",
         "amount" : 0.50,
-        "duration" : 30
+        "duration" : 90
       }
     ] ]
 }

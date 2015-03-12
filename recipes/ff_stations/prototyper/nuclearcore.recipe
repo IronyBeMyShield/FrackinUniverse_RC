@@ -1,11 +1,10 @@
 {
   "input" : [
-    { "item" : "particlecannister", "count" : 1 },
     { "item" : "lead", "count" : 25 },
     { "item" : "refinedaegisalt", "count" : 8 },
-    { "item" : "circuitboard", "count" : 4 },
-    { "item" : "uraniumrod", "count" : 20 },
-    { "item" : "ff_silicon", "count" : 20 }
+    { "item" : "advcircuit", "count" : 4 },
+    { "item" : "helium3cannister", "count" : 5 },
+    { "item" : "cpu", "count" : 2 }
   ],
   "output" : {
     "item" : "nuclearcore",
